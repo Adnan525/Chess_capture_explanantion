@@ -1,0 +1,6721 @@
+Question,Context,Answer
+How many chess pieces have been captured so far in this game - d4 Nf6 e3 d5 Nc3 Nc6 Nf3 Bg4 Be2 e5 Bb5 e4 Bxc6+ bxc6 Ne5 Bxd1 Nxd1 Ng4 Nxg4 Bd6 O-O O-O h3 Re8 Re1 Re6 Nc3 h5 Ne5 Qg5 f4 Qg3 Re2 Rd8 f5 Rf6 Nxc6 Qh2+ Kf1 Rxf5+ Rf2 Qh1+ Ke2 Rxf2+ Kxf2 Re8 Nxd5 Qh2 Bd2 Bg3+ Ke2 Qxg2+ Kd1 Qf1+ Be1 Qxe1#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. Nf6
+3. e3
+4. d5
+5. Nc3
+6. Nc6
+7. Nf3
+8. Bg4
+9. Be2
+10. e5
+11. Bb5
+12. e4
+13. Bxc6+ (total capture 1)
+14. bxc6 (total capture 2)
+15. Ne5
+16. Bxd1 (total capture 3)
+17. Nxd1 (total capture 4)
+18. Ng4
+19. Nxg4 (total capture 5)
+20. Bd6
+21. O-O
+22. O-O
+23. h3
+24. Re8
+25. Re1
+26. Re6
+27. Nc3
+28. h5
+29. Ne5
+30. Qg5
+31. f4
+32. Qg3
+33. Re2
+34. Rd8
+35. f5
+36. Rf6
+37. Nxc6 (total capture 6)
+38. Qh2+
+39. Kf1
+40. Rxf5+ (total capture 7)
+41. Rf2
+42. Qh1+
+43. Ke2
+44. Rxf2+ (total capture 8)
+45. Kxf2 (total capture 9)
+46. Re8
+47. Nxd5 (total capture 10)
+48. Qh2
+49. Bd2
+50. Bg3+
+51. Ke2
+52. Qxg2+ (total capture 11)
+53. Kd1
+54. Qf1+
+55. Be1
+56. Qxe1# (total capture 12)
+
+<ANSWER>: Capture occurred in: 13. Bxc6+, 14. bxc6, 16. Bxd1, 17. Nxd1, 19. Nxg4, 37. Nxc6, 40. Rxf5+, 44. Rxf2+, 45. Kxf2, 47. Nxd5, 52. Qxg2+, 56. Qxe1#
+Total 12 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 d5 e5 Bf5 d4 Nd7 Bd3 Bxd3 Qxd3 c5 c4 cxd4 Qxd4 dxc4 e6 Qa5+ Nc3 Qe5+ Qxe5 Nxe5 exf7+ Nxf7 Nf3 e6 O-O Nf6 Re1 Nd8 Bg5 Be7 Rad1 O-O Ne5 h6 Bxf6 Bxf6 Nd7 Rf7 Nxf6+ Rxf6 Rd7 Rf7 Rd6 Re7 Nd5 Rf7 Ne3 Rc8 Rc1 e5 Rxc4 Rxc4 Rxd8+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. d5
+3. e5
+4. Bf5
+5. d4
+6. Nd7
+7. Bd3
+8. Bxd3 (total capture 1)
+9. Qxd3 (total capture 2)
+10. c5
+11. c4
+12. cxd4 (total capture 3)
+13. Qxd4 (total capture 4)
+14. dxc4 (total capture 5)
+15. e6
+16. Qa5+
+17. Nc3
+18. Qe5+
+19. Qxe5 (total capture 6)
+20. Nxe5 (total capture 7)
+21. exf7+ (total capture 8)
+22. Nxf7 (total capture 9)
+23. Nf3
+24. e6
+25. O-O
+26. Nf6
+27. Re1
+28. Nd8
+29. Bg5
+30. Be7
+31. Rad1
+32. O-O
+33. Ne5
+34. h6
+35. Bxf6 (total capture 10)
+36. Bxf6 (total capture 11)
+37. Nd7
+38. Rf7
+39. Nxf6+ (total capture 12)
+40. Rxf6 (total capture 13)
+41. Rd7
+42. Rf7
+43. Rd6
+44. Re7
+45. Nd5
+46. Rf7
+47. Ne3
+48. Rc8
+49. Rc1
+50. e5
+51. Rxc4 (total capture 14)
+52. Rxc4 (total capture 15)
+53. Rxd8+ (total capture 16)
+
+<ANSWER>: Capture occurred in: 8. Bxd3, 9. Qxd3, 12. cxd4, 13. Qxd4, 14. dxc4, 19. Qxe5, 20. Nxe5, 21. exf7+, 22. Nxf7, 35. Bxf6, 36. Bxf6, 39. Nxf6+, 40. Rxf6, 51. Rxc4, 52. Rxc4, 53. Rxd8+
+Total 16 pieces were captured."
+How many chess pieces have been captured so far in this game - e4?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+
+<ANSWER>: Capture occurred in
+Total 0 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nf3 Nc6 Bc4 e6 d4 Nf6 e5 Nd5 Bxd5 exd5 Bg5 Be7 Bxe7 Qxe7 Nc3 d6 Nxd5 Qd7 O-O dxe5 Re1 Qxd5 Nxe5 O-O Nxc6 Qxc6 d5 Qd6 c4 Bf5 Qb3 b6 Re3 Rfe8 Rae1 Rxe3 Rxe3 Qg6 Qb5 f6 d6 Bd7 Qa6 Qb1+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nf3
+4. Nc6
+5. Bc4
+6. e6
+7. d4
+8. Nf6
+9. e5
+10. Nd5
+11. Bxd5 (total capture 1)
+12. exd5 (total capture 2)
+13. Bg5
+14. Be7
+15. Bxe7 (total capture 3)
+16. Qxe7 (total capture 4)
+17. Nc3
+18. d6
+19. Nxd5 (total capture 5)
+20. Qd7
+21. O-O
+22. dxe5 (total capture 6)
+23. Re1
+24. Qxd5 (total capture 7)
+25. Nxe5 (total capture 8)
+26. O-O
+27. Nxc6 (total capture 9)
+28. Qxc6 (total capture 10)
+29. d5
+30. Qd6
+31. c4
+32. Bf5
+33. Qb3
+34. b6
+35. Re3
+36. Rfe8
+37. Rae1
+38. Rxe3 (total capture 11)
+39. Rxe3 (total capture 12)
+40. Qg6
+41. Qb5
+42. f6
+43. d6
+44. Bd7
+45. Qa6
+46. Qb1+
+
+<ANSWER>: Capture occurred in: 11. Bxd5, 12. exd5, 15. Bxe7, 16. Qxe7, 19. Nxd5, 22. dxe5, 24. Qxd5, 25. Nxe5, 27. Nxc6, 28. Qxc6, 38. Rxe3, 39. Rxe3
+Total 12 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 a3 g6 Bc4 Bg7 d3 e6 Nc3 Ne7 h3 O-O Nf3 Nbc6 O-O f5 exf5 Rxf5 Nh4 Rf8 f4 d5 Ba2 e5 fxe5 Rxf1+ Qxf1 Nxe5 Nf3 Qf8 Nxe5 Qxf1+ Kxf1 Bxe5 Bg5 Bxc3 bxc3 Kf7 Bxe7 Kxe7 Bxd5 Be6 Bxb7 Rb8 Bf3 Rb2 Rc1 c4 dxc4 Bxc4+ Kf2 Be6 Be4 Ra2 Re1 Rxa3 Bd5 Ra6 Bc4 Rc6 Bd5 Rc5 Bb3 Rf5+ Kg3 Rf6 Kh2 Kf7 g4 Bxb3 cxb3 Rb6 b4 Rc6 Re3 g5 Rd3 Kg6 Kg3 h5 Re3 Kf6 gxh5?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. a3
+4. g6
+5. Bc4
+6. Bg7
+7. d3
+8. e6
+9. Nc3
+10. Ne7
+11. h3
+12. O-O
+13. Nf3
+14. Nbc6
+15. O-O
+16. f5
+17. exf5 (total capture 1)
+18. Rxf5 (total capture 2)
+19. Nh4
+20. Rf8
+21. f4
+22. d5
+23. Ba2
+24. e5
+25. fxe5 (total capture 3)
+26. Rxf1+ (total capture 4)
+27. Qxf1 (total capture 5)
+28. Nxe5 (total capture 6)
+29. Nf3
+30. Qf8
+31. Nxe5 (total capture 7)
+32. Qxf1+ (total capture 8)
+33. Kxf1 (total capture 9)
+34. Bxe5 (total capture 10)
+35. Bg5
+36. Bxc3 (total capture 11)
+37. bxc3 (total capture 12)
+38. Kf7
+39. Bxe7 (total capture 13)
+40. Kxe7 (total capture 14)
+41. Bxd5 (total capture 15)
+42. Be6
+43. Bxb7 (total capture 16)
+44. Rb8
+45. Bf3
+46. Rb2
+47. Rc1
+48. c4
+49. dxc4 (total capture 17)
+50. Bxc4+ (total capture 18)
+51. Kf2
+52. Be6
+53. Be4
+54. Ra2
+55. Re1
+56. Rxa3 (total capture 19)
+57. Bd5
+58. Ra6
+59. Bc4
+60. Rc6
+61. Bd5
+62. Rc5
+63. Bb3
+64. Rf5+
+65. Kg3
+66. Rf6
+67. Kh2
+68. Kf7
+69. g4
+70. Bxb3 (total capture 20)
+71. cxb3 (total capture 21)
+72. Rb6
+73. b4
+74. Rc6
+75. Re3
+76. g5
+77. Rd3
+78. Kg6
+79. Kg3
+80. h5
+81. Re3
+82. Kf6
+83. gxh5 (total capture 22)
+
+<ANSWER>: Capture occurred in: 17. exf5, 18. Rxf5, 25. fxe5, 26. Rxf1+, 27. Qxf1, 28. Nxe5, 31. Nxe5, 32. Qxf1+, 33. Kxf1, 34. Bxe5, 36. Bxc3, 37. bxc3, 39. Bxe7, 40. Kxe7, 41. Bxd5, 43. Bxb7, 49. dxc4, 50. Bxc4+, 56. Rxa3, 70. Bxb3, 71. cxb3, 83. gxh5
+Total 22 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 c4 c6 Nc3 e6 cxd5 exd5 Nf3 Bg4 e4 dxe4 Nxe4 f5 Nc3 Bb4 Bd2 Nf6 a3 Ba5 b4 Bb6 Be2 Bxf3 Bxf3 Bxd4 Bg5 Bxc3+ Bd2 Bxa1?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. c4
+4. c6
+5. Nc3
+6. e6
+7. cxd5 (total capture 1)
+8. exd5 (total capture 2)
+9. Nf3
+10. Bg4
+11. e4
+12. dxe4 (total capture 3)
+13. Nxe4 (total capture 4)
+14. f5
+15. Nc3
+16. Bb4
+17. Bd2
+18. Nf6
+19. a3
+20. Ba5
+21. b4
+22. Bb6
+23. Be2
+24. Bxf3 (total capture 5)
+25. Bxf3 (total capture 6)
+26. Bxd4 (total capture 7)
+27. Bg5
+28. Bxc3+ (total capture 8)
+29. Bd2
+30. Bxa1 (total capture 9)
+
+<ANSWER>: Capture occurred in: 7. cxd5, 8. exd5, 12. dxe4, 13. Nxe4, 24. Bxf3, 25. Bxf3, 26. Bxd4, 28. Bxc3+, 30. Bxa1
+Total 9 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 e6 Nf3 d5 Nc3 Bb4 Bf4 Nf6 Qd2 O-O a3 Ba5 b4 Bb6 Na4 Bd7 Nxb6 cxb6 Bxb8 Rxb8 e3 a6 a4 b5 axb5 Bxb5 Bxb5 axb5 Qe2 Ra8 Rxa8 Qxa8 O-O Qa6 Ne5 Ne4 Nd7 Rc8 Nc5 Qa2 Nxb7 Rxc2 Qd1 Nxf2 Qe1 Nh3+ gxh3 Rg2+ Kh1 Rxh2+ Kg1 Qg2#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. e6
+3. Nf3
+4. d5
+5. Nc3
+6. Bb4
+7. Bf4
+8. Nf6
+9. Qd2
+10. O-O
+11. a3
+12. Ba5
+13. b4
+14. Bb6
+15. Na4
+16. Bd7
+17. Nxb6 (total capture 1)
+18. cxb6 (total capture 2)
+19. Bxb8 (total capture 3)
+20. Rxb8 (total capture 4)
+21. e3
+22. a6
+23. a4
+24. b5
+25. axb5 (total capture 5)
+26. Bxb5 (total capture 6)
+27. Bxb5 (total capture 7)
+28. axb5 (total capture 8)
+29. Qe2
+30. Ra8
+31. Rxa8 (total capture 9)
+32. Qxa8 (total capture 10)
+33. O-O
+34. Qa6
+35. Ne5
+36. Ne4
+37. Nd7
+38. Rc8
+39. Nc5
+40. Qa2
+41. Nxb7 (total capture 11)
+42. Rxc2 (total capture 12)
+43. Qd1
+44. Nxf2 (total capture 13)
+45. Qe1
+46. Nh3+
+47. gxh3 (total capture 14)
+48. Rg2+
+49. Kh1
+50. Rxh2+ (total capture 15)
+51. Kg1
+52. Qg2#
+
+<ANSWER>: Capture occurred in: 17. Nxb6, 18. cxb6, 19. Bxb8, 20. Rxb8, 25. axb5, 26. Bxb5, 27. Bxb5, 28. axb5, 31. Rxa8, 32. Qxa8, 41. Nxb7, 42. Rxc2, 44. Nxf2, 47. gxh3, 50. Rxh2+
+Total 15 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 d4 d5 e5 c5 c3 Nc6 Nf3 Qb6 Be2 Nh6 a3 Nf5 O-O cxd4 cxd4 Ncxd4 Nxd4 Nxd4 Be3 Bc5 b4 Nxe2+ Qxe2 Bxe3 Qxe3 Qxe3 fxe3 Bd7 Nc3 Rc8 Ne2 Ke7 Nd4 Rc3 Rfe1 Rhc8 a4 Rd3 Kf2 Rd2+ Kf3 Rc3 Ne2 Rcc2 h4 d4 e4 d3 Nf4 Rf2+ Kg3 Rfd2 Re3 a6 Rxd3 Rxd3+ Nxd3 Rd2 Nc5 Bc6 Kf3 Rb2 Nd3 Rb3 Ke3 f5 exf5 exf5 g3 Be4 Rd1 Ke6 Kd4 Bxd3 Rxd3 Rxb4+ Kc5 Rxa4 Kb6 Rb4+ Kc5 Rb5+ Kc4 Rxe5 Kd4 Re4+ Kc5 Re5+ Kc4 b5+ Kb4 Re4+ Ka5 Ra4+ Kb6 g5 hxg5 Ke5 Rd7 Ra3 Rxh7 Rxg3 Rg7 b4 Kxa6 b3 Re7+ Kd4 Re1 b2 Rb1 Rg2 Kb5 Kc3 Ka4 Kc2 Rf1 b1=Q Rxf5 Qb3+ Ka5 Qc3+ Ka6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. d4
+4. d5
+5. e5
+6. c5
+7. c3
+8. Nc6
+9. Nf3
+10. Qb6
+11. Be2
+12. Nh6
+13. a3
+14. Nf5
+15. O-O
+16. cxd4 (total capture 1)
+17. cxd4 (total capture 2)
+18. Ncxd4 (total capture 3)
+19. Nxd4 (total capture 4)
+20. Nxd4 (total capture 5)
+21. Be3
+22. Bc5
+23. b4
+24. Nxe2+ (total capture 6)
+25. Qxe2 (total capture 7)
+26. Bxe3 (total capture 8)
+27. Qxe3 (total capture 9)
+28. Qxe3 (total capture 10)
+29. fxe3 (total capture 11)
+30. Bd7
+31. Nc3
+32. Rc8
+33. Ne2
+34. Ke7
+35. Nd4
+36. Rc3
+37. Rfe1
+38. Rhc8
+39. a4
+40. Rd3
+41. Kf2
+42. Rd2+
+43. Kf3
+44. Rc3
+45. Ne2
+46. Rcc2
+47. h4
+48. d4
+49. e4
+50. d3
+51. Nf4
+52. Rf2+
+53. Kg3
+54. Rfd2
+55. Re3
+56. a6
+57. Rxd3 (total capture 12)
+58. Rxd3+ (total capture 13)
+59. Nxd3 (total capture 14)
+60. Rd2
+61. Nc5
+62. Bc6
+63. Kf3
+64. Rb2
+65. Nd3
+66. Rb3
+67. Ke3
+68. f5
+69. exf5 (total capture 15)
+70. exf5 (total capture 16)
+71. g3
+72. Be4
+73. Rd1
+74. Ke6
+75. Kd4
+76. Bxd3 (total capture 17)
+77. Rxd3 (total capture 18)
+78. Rxb4+ (total capture 19)
+79. Kc5
+80. Rxa4 (total capture 20)
+81. Kb6
+82. Rb4+
+83. Kc5
+84. Rb5+
+85. Kc4
+86. Rxe5 (total capture 21)
+87. Kd4
+88. Re4+
+89. Kc5
+90. Re5+
+91. Kc4
+92. b5+
+93. Kb4
+94. Re4+
+95. Ka5
+96. Ra4+
+97. Kb6
+98. g5
+99. hxg5 (total capture 22)
+100. Ke5
+101. Rd7
+102. Ra3
+103. Rxh7 (total capture 23)
+104. Rxg3 (total capture 24)
+105. Rg7
+106. b4
+107. Kxa6 (total capture 25)
+108. b3
+109. Re7+
+110. Kd4
+111. Re1
+112. b2
+113. Rb1
+114. Rg2
+115. Kb5
+116. Kc3
+117. Ka4
+118. Kc2
+119. Rf1
+120. b1=Q
+121. Rxf5 (total capture 26)
+122. Qb3+
+123. Ka5
+124. Qc3+
+125. Ka6
+
+<ANSWER>: Capture occurred in: 16. cxd4, 17. cxd4, 18. Ncxd4, 19. Nxd4, 20. Nxd4, 24. Nxe2+, 25. Qxe2, 26. Bxe3, 27. Qxe3, 28. Qxe3, 29. fxe3, 57. Rxd3, 58. Rxd3+, 59. Nxd3, 69. exf5, 70. exf5, 76. Bxd3, 77. Rxd3, 78. Rxb4+, 80. Rxa4, 86. Rxe5, 99. hxg5, 103. Rxh7, 104. Rxg3, 107. Kxa6, 121. Rxf5
+Total 26 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Bc4 h6 d4 d6 dxe5 dxe5 Qxd8+ Nxd8 Nxe5 Nf6 Nd2 Be6 O-O Bxc4 Ndxc4 Nxe4 Re1 Nf6 Ng6+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Bc4
+6. h6
+7. d4
+8. d6
+9. dxe5 (total capture 1)
+10. dxe5 (total capture 2)
+11. Qxd8+ (total capture 3)
+12. Nxd8 (total capture 4)
+13. Nxe5 (total capture 5)
+14. Nf6
+15. Nd2
+16. Be6
+17. O-O
+18. Bxc4 (total capture 6)
+19. Ndxc4 (total capture 7)
+20. Nxe4 (total capture 8)
+21. Re1
+22. Nf6
+23. Ng6+
+
+<ANSWER>: Capture occurred in: 9. dxe5, 10. dxe5, 11. Qxd8+, 12. Nxd8, 13. Nxe5, 18. Bxc4, 19. Ndxc4, 20. Nxe4
+Total 8 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 Nf6 Nf3 e6 e3 Nc6 Bd3 b6 O-O Bb7 a3 Be7 b4 O-O Nc3 d5 e4 dxe4 Nxe4 Bd6 Nxf6+ Qxf6 Be4 Rfd8 b5 Nxd4 Bxb7 Nxf3+ Qxf3 Qxa1 Bxa8 Rxa8 Qxa8+ Bf8 Qxa7 Qe5 g3 h6 Bf4 Qc3?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. Nf6
+3. Nf3
+4. e6
+5. e3
+6. Nc6
+7. Bd3
+8. b6
+9. O-O
+10. Bb7
+11. a3
+12. Be7
+13. b4
+14. O-O
+15. Nc3
+16. d5
+17. e4
+18. dxe4 (total capture 1)
+19. Nxe4 (total capture 2)
+20. Bd6
+21. Nxf6+ (total capture 3)
+22. Qxf6 (total capture 4)
+23. Be4
+24. Rfd8
+25. b5
+26. Nxd4 (total capture 5)
+27. Bxb7 (total capture 6)
+28. Nxf3+ (total capture 7)
+29. Qxf3 (total capture 8)
+30. Qxa1 (total capture 9)
+31. Bxa8 (total capture 10)
+32. Rxa8 (total capture 11)
+33. Qxa8+ (total capture 12)
+34. Bf8
+35. Qxa7 (total capture 13)
+36. Qe5
+37. g3
+38. h6
+39. Bf4
+40. Qc3
+
+<ANSWER>: Capture occurred in: 18. dxe4, 19. Nxe4, 21. Nxf6+, 22. Qxf6, 26. Nxd4, 27. Bxb7, 28. Nxf3+, 29. Qxf3, 30. Qxa1, 31. Bxa8, 32. Rxa8, 33. Qxa8+, 35. Qxa7
+Total 13 pieces were captured."
+How many chess pieces have been captured so far in this game - g3 c6 Bg2 Nf6 b3 d5 Bb2 Be6 Bxf6 gxf6 e3 Bh6 Ne2 Nd7 d3 Rg8 Nd2 a5 Nd4 Bg4 Bf3 Bh3 Rg1 Ne5 g4 Qb6 Rg3 Bxg4 Bxg4 Nxg4 Rxg4 Rxg4 Qxg4 Kf8 Nf5 Qb4 Qxb4 axb4 Nxh6 e6 Ng4 Kg7 a4 Rg8 O-O-O f5 Ne5 Kf6 Nd7+ Ke7 Nc5 Rb8 a5 b6 axb6 Rxb6 d4 h5 f4 Kd6 Nf3 f6 Nh4 Ke7 Nd3 Kd6 Rg1 Kc7 Rg7+ Kd6 Ng6 e5 fxe5+ fxe5 Ndxe5 c5 Rd7+ Ke6 dxc5 Rc6 Rd6+ Rxd6 cxd6 Kxd6 Kb2 Kc5 Nd3+ Kb5 Nge5 Kb6 Nf4 Kc5 Nxh5 Kd6 Nf7+ Ke7 Ne5 Kd6 Nf7+ Ke7 Ng5 Kd6 Ng3 Ke5 Nf7+ Ke6 Nd8+ Kf6 Nc6 Ke6 Nxb4 Kd6 Nxf5+ Ke5 Nd4 Ke4 Ndc6 Kxe3 Nxd5+ Ke4 Nde7 Kf4 Nd4 Kg4 Nef5 Kh3 Nf3 Kg2 N5d4 Kf2 h4 Ke3 h5 Kf4 h6 Kg3 h7 Kf2 c4 Ke3 c5 Ke4 c6 Kd5 c7 Kd6 c8=Q Kd5 Qc1 Kd6 Qa1 Kd5 b4 Kd6 b5 Kc7 h8=Q Kb6 Qa6+ Kc5 b6 Kb4 b7 Kc5 b8=Q Kd5 Ne6 Ke4 Qf4+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. g3
+2. c6
+3. Bg2
+4. Nf6
+5. b3
+6. d5
+7. Bb2
+8. Be6
+9. Bxf6 (total capture 1)
+10. gxf6 (total capture 2)
+11. e3
+12. Bh6
+13. Ne2
+14. Nd7
+15. d3
+16. Rg8
+17. Nd2
+18. a5
+19. Nd4
+20. Bg4
+21. Bf3
+22. Bh3
+23. Rg1
+24. Ne5
+25. g4
+26. Qb6
+27. Rg3
+28. Bxg4 (total capture 3)
+29. Bxg4 (total capture 4)
+30. Nxg4 (total capture 5)
+31. Rxg4 (total capture 6)
+32. Rxg4 (total capture 7)
+33. Qxg4 (total capture 8)
+34. Kf8
+35. Nf5
+36. Qb4
+37. Qxb4 (total capture 9)
+38. axb4 (total capture 10)
+39. Nxh6 (total capture 11)
+40. e6
+41. Ng4
+42. Kg7
+43. a4
+44. Rg8
+45. O-O-O
+46. f5
+47. Ne5
+48. Kf6
+49. Nd7+
+50. Ke7
+51. Nc5
+52. Rb8
+53. a5
+54. b6
+55. axb6 (total capture 12)
+56. Rxb6 (total capture 13)
+57. d4
+58. h5
+59. f4
+60. Kd6
+61. Nf3
+62. f6
+63. Nh4
+64. Ke7
+65. Nd3
+66. Kd6
+67. Rg1
+68. Kc7
+69. Rg7+
+70. Kd6
+71. Ng6
+72. e5
+73. fxe5+ (total capture 14)
+74. fxe5 (total capture 15)
+75. Ndxe5 (total capture 16)
+76. c5
+77. Rd7+
+78. Ke6
+79. dxc5 (total capture 17)
+80. Rc6
+81. Rd6+
+82. Rxd6 (total capture 18)
+83. cxd6 (total capture 19)
+84. Kxd6 (total capture 20)
+85. Kb2
+86. Kc5
+87. Nd3+
+88. Kb5
+89. Nge5
+90. Kb6
+91. Nf4
+92. Kc5
+93. Nxh5 (total capture 21)
+94. Kd6
+95. Nf7+
+96. Ke7
+97. Ne5
+98. Kd6
+99. Nf7+
+100. Ke7
+101. Ng5
+102. Kd6
+103. Ng3
+104. Ke5
+105. Nf7+
+106. Ke6
+107. Nd8+
+108. Kf6
+109. Nc6
+110. Ke6
+111. Nxb4 (total capture 22)
+112. Kd6
+113. Nxf5+ (total capture 23)
+114. Ke5
+115. Nd4
+116. Ke4
+117. Ndc6
+118. Kxe3 (total capture 24)
+119. Nxd5+ (total capture 25)
+120. Ke4
+121. Nde7
+122. Kf4
+123. Nd4
+124. Kg4
+125. Nef5
+126. Kh3
+127. Nf3
+128. Kg2
+129. N5d4
+130. Kf2
+131. h4
+132. Ke3
+133. h5
+134. Kf4
+135. h6
+136. Kg3
+137. h7
+138. Kf2
+139. c4
+140. Ke3
+141. c5
+142. Ke4
+143. c6
+144. Kd5
+145. c7
+146. Kd6
+147. c8=Q
+148. Kd5
+149. Qc1
+150. Kd6
+151. Qa1
+152. Kd5
+153. b4
+154. Kd6
+155. b5
+156. Kc7
+157. h8=Q
+158. Kb6
+159. Qa6+
+160. Kc5
+161. b6
+162. Kb4
+163. b7
+164. Kc5
+165. b8=Q
+166. Kd5
+167. Ne6
+168. Ke4
+169. Qf4+
+
+<ANSWER>: Capture occurred in: 9. Bxf6, 10. gxf6, 28. Bxg4, 29. Bxg4, 30. Nxg4, 31. Rxg4, 32. Rxg4, 33. Qxg4, 37. Qxb4, 38. axb4, 39. Nxh6, 55. axb6, 56. Rxb6, 73. fxe5+, 74. fxe5, 75. Ndxe5, 79. dxc5, 82. Rxd6, 83. cxd6, 84. Kxd6, 93. Nxh5, 111. Nxb4, 113. Nxf5+, 118. Kxe3, 119. Nxd5+
+Total 25 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 e5 Qa5+ c3 Qxe5+ Be3 Nc6 Nd2 Be7 N2f3 Qb8 Bc4 O-O Qc2 d5 Bd3 h6 O-O-O e5 Nf5 e4 Nxe7+ Nxe7 Nd4 exd3 Qxd3 Re8 Rhg1 a6 g4 Ne4 f3 Nc5 Qe2 Nc6 h4 Ne6 g5 h5 f4 Nexd4 cxd4 Qc7 Kb1 Bf5+ Ka1 Bg4 Rxg4 hxg4 Qd3 Re4 a3 Rae8 Bf2 Qxf4?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nf3
+4. e6
+5. d4
+6. cxd4 (total capture 1)
+7. Nxd4 (total capture 2)
+8. Nf6
+9. e5
+10. Qa5+
+11. c3
+12. Qxe5+ (total capture 3)
+13. Be3
+14. Nc6
+15. Nd2
+16. Be7
+17. N2f3
+18. Qb8
+19. Bc4
+20. O-O
+21. Qc2
+22. d5
+23. Bd3
+24. h6
+25. O-O-O
+26. e5
+27. Nf5
+28. e4
+29. Nxe7+ (total capture 4)
+30. Nxe7 (total capture 5)
+31. Nd4
+32. exd3 (total capture 6)
+33. Qxd3 (total capture 7)
+34. Re8
+35. Rhg1
+36. a6
+37. g4
+38. Ne4
+39. f3
+40. Nc5
+41. Qe2
+42. Nc6
+43. h4
+44. Ne6
+45. g5
+46. h5
+47. f4
+48. Nexd4 (total capture 8)
+49. cxd4 (total capture 9)
+50. Qc7
+51. Kb1
+52. Bf5+
+53. Ka1
+54. Bg4
+55. Rxg4 (total capture 10)
+56. hxg4 (total capture 11)
+57. Qd3
+58. Re4
+59. a3
+60. Rae8
+61. Bf2
+62. Qxf4 (total capture 12)
+
+<ANSWER>: Capture occurred in: 6. cxd4, 7. Nxd4, 12. Qxe5+, 29. Nxe7+, 30. Nxe7, 32. exd3, 33. Qxd3, 48. Nexd4, 49. cxd4, 55. Rxg4, 56. hxg4, 62. Qxf4
+Total 12 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 Bf4 Nc6 Nf3 Bf5 e3 Nb4 Bb5+ c6 Ba4 b5 Bb3 Nf6 a3 Na6 a4 bxa4 Bxa4 Nb4 Ne5 Qa5 Bxc6+ Nxc6+ Rxa5 Nxa5 e4 dxe4 c4 e6 Qa4+ Ke7 Qxa5 Rb8 Qc7+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. Bf4
+4. Nc6
+5. Nf3
+6. Bf5
+7. e3
+8. Nb4
+9. Bb5+
+10. c6
+11. Ba4
+12. b5
+13. Bb3
+14. Nf6
+15. a3
+16. Na6
+17. a4
+18. bxa4 (total capture 1)
+19. Bxa4 (total capture 2)
+20. Nb4
+21. Ne5
+22. Qa5
+23. Bxc6+ (total capture 3)
+24. Nxc6+ (total capture 4)
+25. Rxa5 (total capture 5)
+26. Nxa5 (total capture 6)
+27. e4
+28. dxe4 (total capture 7)
+29. c4
+30. e6
+31. Qa4+
+32. Ke7
+33. Qxa5 (total capture 8)
+34. Rb8
+35. Qc7+
+
+<ANSWER>: Capture occurred in: 18. bxa4, 19. Bxa4, 23. Bxc6+, 24. Nxc6+, 25. Rxa5, 26. Nxa5, 28. dxe4, 33. Qxa5
+Total 8 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c6 d4 d5 e5 Bf5 Bd3 Bxd3 Qxd3 e6 Qg3 Ne7 Bg5 Qc7 Bxe7 Bxe7 Qxg7 Rf8 Qxh7 Nd7 c3 O-O-O Qd3 Rg8 g3 c5 Ne2 c4 Qe3 Kb8 b4 Nb6 O-O Bg5 Qf3 Rdf8 Nf4 Qe7 Nh5 Rg6 h4 Bh6 Nf4 Nd7 Nxg6 fxg6 Qg4 Qf7 f3 Be3+ Kg2 Rg8 f4?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c6
+3. d4
+4. d5
+5. e5
+6. Bf5
+7. Bd3
+8. Bxd3 (total capture 1)
+9. Qxd3 (total capture 2)
+10. e6
+11. Qg3
+12. Ne7
+13. Bg5
+14. Qc7
+15. Bxe7 (total capture 3)
+16. Bxe7 (total capture 4)
+17. Qxg7 (total capture 5)
+18. Rf8
+19. Qxh7 (total capture 6)
+20. Nd7
+21. c3
+22. O-O-O
+23. Qd3
+24. Rg8
+25. g3
+26. c5
+27. Ne2
+28. c4
+29. Qe3
+30. Kb8
+31. b4
+32. Nb6
+33. O-O
+34. Bg5
+35. Qf3
+36. Rdf8
+37. Nf4
+38. Qe7
+39. Nh5
+40. Rg6
+41. h4
+42. Bh6
+43. Nf4
+44. Nd7
+45. Nxg6 (total capture 7)
+46. fxg6 (total capture 8)
+47. Qg4
+48. Qf7
+49. f3
+50. Be3+
+51. Kg2
+52. Rg8
+53. f4
+
+<ANSWER>: Capture occurred in: 8. Bxd3, 9. Qxd3, 15. Bxe7, 16. Bxe7, 17. Qxg7, 19. Qxh7, 45. Nxg6, 46. fxg6
+Total 8 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 c3 e6 h3 Nf6 Nf3 Bd6 Bg5 Nbd7 e3 c5 dxc5 Nxc5 Bxf6 gxf6 Bb5+ Bd7 a4 Rg8 O-O f5 Re1 a6 Nbd2 axb5 axb5 Rxa1 Qxa1 Bxb5 h4 Nd3 Qb1 Qf6 Ng5 h6 Nh7 Qxh4 Re2 Qh2+ Kf1 Qxg2#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. c3
+4. e6
+5. h3
+6. Nf6
+7. Nf3
+8. Bd6
+9. Bg5
+10. Nbd7
+11. e3
+12. c5
+13. dxc5 (total capture 1)
+14. Nxc5 (total capture 2)
+15. Bxf6 (total capture 3)
+16. gxf6 (total capture 4)
+17. Bb5+
+18. Bd7
+19. a4
+20. Rg8
+21. O-O
+22. f5
+23. Re1
+24. a6
+25. Nbd2
+26. axb5 (total capture 5)
+27. axb5 (total capture 6)
+28. Rxa1 (total capture 7)
+29. Qxa1 (total capture 8)
+30. Bxb5 (total capture 9)
+31. h4
+32. Nd3
+33. Qb1
+34. Qf6
+35. Ng5
+36. h6
+37. Nh7
+38. Qxh4 (total capture 10)
+39. Re2
+40. Qh2+
+41. Kf1
+42. Qxg2# (total capture 11)
+
+<ANSWER>: Capture occurred in: 13. dxc5, 14. Nxc5, 15. Bxf6, 16. gxf6, 26. axb5, 27. axb5, 28. Rxa1, 29. Qxa1, 30. Bxb5, 38. Qxh4, 42. Qxg2#
+Total 11 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nf3 Nc6 Bc4 e6 O-O Nf6 Re1 Be7 e5 Nd5 Bxd5 exd5 Nc3 d4 Nd5 O-O Nxe7+ Qxe7 c3 dxc3 dxc3 h6 Qd3 Qe6 Bf4 Ne7 Nh4 Ng6 Nxg6 Qxg6 Qxg6 fxg6 Rad1 Rxf4 g3 Rf8 Rd5 b6 b4 Bb7 Rxd7 Bf3 bxc5 bxc5 e6 Bc6 Rc7 Ba4 e7 Rfe8 Rb7 Bc6 Rb2 Rac8 Rbe2 Ra8 Re6 Bb5 R1e5 a6 Rxc5 Ra7 c4 Raxe7 Rxe7 Rxe7 cxb5 axb5 Rxb5 Re1+ Kg2 Ra1 Rb8+ Kf7 Rb7+ Kg8 Ra7 Kh7 a4 g5 Kf3 Kg6 Ke4 Kf6 Kd4 Kf5 Kc5 Kg4 a5 Kh3 Kb6 g4 Rxg7 h5 a6 Kxh2 a7 Kg2 Rg8 Kxf2 a8=Q Rxa8 Rxa8 Kxg3 Ra3+ Kh4 Kc5 g3 Ra1 Kh3 Rh1+ Kg2 Rxh5 Kf2 Rg5 g2 Rxg2+ Kxg2?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nf3
+4. Nc6
+5. Bc4
+6. e6
+7. O-O
+8. Nf6
+9. Re1
+10. Be7
+11. e5
+12. Nd5
+13. Bxd5 (total capture 1)
+14. exd5 (total capture 2)
+15. Nc3
+16. d4
+17. Nd5
+18. O-O
+19. Nxe7+ (total capture 3)
+20. Qxe7 (total capture 4)
+21. c3
+22. dxc3 (total capture 5)
+23. dxc3 (total capture 6)
+24. h6
+25. Qd3
+26. Qe6
+27. Bf4
+28. Ne7
+29. Nh4
+30. Ng6
+31. Nxg6 (total capture 7)
+32. Qxg6 (total capture 8)
+33. Qxg6 (total capture 9)
+34. fxg6 (total capture 10)
+35. Rad1
+36. Rxf4 (total capture 11)
+37. g3
+38. Rf8
+39. Rd5
+40. b6
+41. b4
+42. Bb7
+43. Rxd7 (total capture 12)
+44. Bf3
+45. bxc5 (total capture 13)
+46. bxc5 (total capture 14)
+47. e6
+48. Bc6
+49. Rc7
+50. Ba4
+51. e7
+52. Rfe8
+53. Rb7
+54. Bc6
+55. Rb2
+56. Rac8
+57. Rbe2
+58. Ra8
+59. Re6
+60. Bb5
+61. R1e5
+62. a6
+63. Rxc5 (total capture 15)
+64. Ra7
+65. c4
+66. Raxe7 (total capture 16)
+67. Rxe7 (total capture 17)
+68. Rxe7 (total capture 18)
+69. cxb5 (total capture 19)
+70. axb5 (total capture 20)
+71. Rxb5 (total capture 21)
+72. Re1+
+73. Kg2
+74. Ra1
+75. Rb8+
+76. Kf7
+77. Rb7+
+78. Kg8
+79. Ra7
+80. Kh7
+81. a4
+82. g5
+83. Kf3
+84. Kg6
+85. Ke4
+86. Kf6
+87. Kd4
+88. Kf5
+89. Kc5
+90. Kg4
+91. a5
+92. Kh3
+93. Kb6
+94. g4
+95. Rxg7 (total capture 22)
+96. h5
+97. a6
+98. Kxh2 (total capture 23)
+99. a7
+100. Kg2
+101. Rg8
+102. Kxf2 (total capture 24)
+103. a8=Q
+104. Rxa8 (total capture 25)
+105. Rxa8 (total capture 26)
+106. Kxg3 (total capture 27)
+107. Ra3+
+108. Kh4
+109. Kc5
+110. g3
+111. Ra1
+112. Kh3
+113. Rh1+
+114. Kg2
+115. Rxh5 (total capture 28)
+116. Kf2
+117. Rg5
+118. g2
+119. Rxg2+ (total capture 29)
+120. Kxg2 (total capture 30)
+
+<ANSWER>: Capture occurred in: 13. Bxd5, 14. exd5, 19. Nxe7+, 20. Qxe7, 22. dxc3, 23. dxc3, 31. Nxg6, 32. Qxg6, 33. Qxg6, 34. fxg6, 36. Rxf4, 43. Rxd7, 45. bxc5, 46. bxc5, 63. Rxc5, 66. Raxe7, 67. Rxe7, 68. Rxe7, 69. cxb5, 70. axb5, 71. Rxb5, 95. Rxg7, 98. Kxh2, 102. Kxf2, 104. Rxa8, 105. Rxa8, 106. Kxg3, 115. Rxh5, 119. Rxg2+, 120. Kxg2
+Total 30 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 Bc4 b6 d3 Bb7 Nf3 Bc5 O-O Nf6 Nc3 O-O Na4 Be7 e5 Ng4 h3 Bxf3 gxf3 Nxe5 f4 Ng6 Qg4 c5 Kg2 f5 Qg3 Nc6 Rh1 Qc7 h4 Bd6 h5 Nxf4+ Bxf4 Bxf4 Qg5 Bxg5 h6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. Bc4
+4. b6
+5. d3
+6. Bb7
+7. Nf3
+8. Bc5
+9. O-O
+10. Nf6
+11. Nc3
+12. O-O
+13. Na4
+14. Be7
+15. e5
+16. Ng4
+17. h3
+18. Bxf3 (total capture 1)
+19. gxf3 (total capture 2)
+20. Nxe5 (total capture 3)
+21. f4
+22. Ng6
+23. Qg4
+24. c5
+25. Kg2
+26. f5
+27. Qg3
+28. Nc6
+29. Rh1
+30. Qc7
+31. h4
+32. Bd6
+33. h5
+34. Nxf4+ (total capture 4)
+35. Bxf4 (total capture 5)
+36. Bxf4 (total capture 6)
+37. Qg5
+38. Bxg5 (total capture 7)
+39. h6
+
+<ANSWER>: Capture occurred in: 18. Bxf3, 19. gxf3, 20. Nxe5, 34. Nxf4+, 35. Bxf4, 36. Bxf4, 38. Bxg5
+Total 7 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Qe7 Nc3 a6 Bc4 h6 O-O Nf6 d4 exd4 Nxd4 Nxe4 Nxe4 Qxe4 Rfe1 Qxe1+ Qxe1+ Be7 Nf5 Nc6 Nxg7+ Kf8 Nf5 d6 Bxh6+ Ke8 Bg5 Bxf5 Bxe7 Nxe7 Qc3 Kd7 Bxf7 Bg6 Bb3 b5 Re1 Rhe8 a4 c6 Be6+ Kc7 Qa5+ Kb7 c4 Bd3 b3 Ng6 Qc3 Nf4 Qg7+ Kb8 Qd7 Bg6 Qxd6+ Kb7 Qxf4 Ref8 Qg5 Bc2 a5 Bxb3 Qe7+ Kb8 Qxf8+ Ka7 Qc5+ Kb7 Qb6#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Qe7
+5. Nc3
+6. a6
+7. Bc4
+8. h6
+9. O-O
+10. Nf6
+11. d4
+12. exd4 (total capture 1)
+13. Nxd4 (total capture 2)
+14. Nxe4 (total capture 3)
+15. Nxe4 (total capture 4)
+16. Qxe4 (total capture 5)
+17. Rfe1
+18. Qxe1+ (total capture 6)
+19. Qxe1+ (total capture 7)
+20. Be7
+21. Nf5
+22. Nc6
+23. Nxg7+ (total capture 8)
+24. Kf8
+25. Nf5
+26. d6
+27. Bxh6+ (total capture 9)
+28. Ke8
+29. Bg5
+30. Bxf5 (total capture 10)
+31. Bxe7 (total capture 11)
+32. Nxe7 (total capture 12)
+33. Qc3
+34. Kd7
+35. Bxf7 (total capture 13)
+36. Bg6
+37. Bb3
+38. b5
+39. Re1
+40. Rhe8
+41. a4
+42. c6
+43. Be6+
+44. Kc7
+45. Qa5+
+46. Kb7
+47. c4
+48. Bd3
+49. b3
+50. Ng6
+51. Qc3
+52. Nf4
+53. Qg7+
+54. Kb8
+55. Qd7
+56. Bg6
+57. Qxd6+ (total capture 14)
+58. Kb7
+59. Qxf4 (total capture 15)
+60. Ref8
+61. Qg5
+62. Bc2
+63. a5
+64. Bxb3 (total capture 16)
+65. Qe7+
+66. Kb8
+67. Qxf8+ (total capture 17)
+68. Ka7
+69. Qc5+
+70. Kb7
+71. Qb6#
+
+<ANSWER>: Capture occurred in: 12. exd4, 13. Nxd4, 14. Nxe4, 15. Nxe4, 16. Qxe4, 18. Qxe1+, 19. Qxe1+, 23. Nxg7+, 27. Bxh6+, 30. Bxf5, 31. Bxe7, 32. Nxe7, 35. Bxf7, 57. Qxd6+, 59. Qxf4, 64. Bxb3, 67. Qxf8+
+Total 17 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 c4 e5 dxe5 dxc4 Qxd8+ Kxd8 e3 Bf5 Bxc4 Bb4+ Bd2 Bxd2+ Nxd2 Nc6 Bxf7 Nge7 e6 Nb4 e4 Nc2+ Kd1 Nxa1 exf5 Nxf5 Ne2 Ke7 Nf4 Rad8 Kc1 Nh6 Nc4 Nxf7 exf7 Kxf7 Ne5+ Kf6 Nfd3 b6 Kb1 c5 Kxa1 c4 Ng4+ Kf5 Nde5 h5 Nf7 hxg4 Nxh8 Rxh8 Kb1 b5 Kc2 Rd8 Rd1 Rd2+ Rxd2?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. c4
+4. e5
+5. dxe5 (total capture 1)
+6. dxc4 (total capture 2)
+7. Qxd8+ (total capture 3)
+8. Kxd8 (total capture 4)
+9. e3
+10. Bf5
+11. Bxc4 (total capture 5)
+12. Bb4+
+13. Bd2
+14. Bxd2+ (total capture 6)
+15. Nxd2 (total capture 7)
+16. Nc6
+17. Bxf7 (total capture 8)
+18. Nge7
+19. e6
+20. Nb4
+21. e4
+22. Nc2+
+23. Kd1
+24. Nxa1 (total capture 9)
+25. exf5 (total capture 10)
+26. Nxf5 (total capture 11)
+27. Ne2
+28. Ke7
+29. Nf4
+30. Rad8
+31. Kc1
+32. Nh6
+33. Nc4
+34. Nxf7 (total capture 12)
+35. exf7 (total capture 13)
+36. Kxf7 (total capture 14)
+37. Ne5+
+38. Kf6
+39. Nfd3
+40. b6
+41. Kb1
+42. c5
+43. Kxa1 (total capture 15)
+44. c4
+45. Ng4+
+46. Kf5
+47. Nde5
+48. h5
+49. Nf7
+50. hxg4 (total capture 16)
+51. Nxh8 (total capture 17)
+52. Rxh8 (total capture 18)
+53. Kb1
+54. b5
+55. Kc2
+56. Rd8
+57. Rd1
+58. Rd2+
+59. Rxd2 (total capture 19)
+
+<ANSWER>: Capture occurred in: 5. dxe5, 6. dxc4, 7. Qxd8+, 8. Kxd8, 11. Bxc4, 14. Bxd2+, 15. Nxd2, 17. Bxf7, 24. Nxa1, 25. exf5, 26. Nxf5, 34. Nxf7, 35. exf7, 36. Kxf7, 43. Kxa1, 50. hxg4, 51. Nxh8, 52. Rxh8, 59. Rxd2
+Total 19 pieces were captured."
+How many chess pieces have been captured so far in this game - Nf3 d5 e4 dxe4 Ng5 Nf6 Qe2 Bf5 Qb5+ Bd7 Qxb7 Bc6 Bb5 Bxb5 Qxa8 Bc6 Qxa7 h6 Nh3 e3 Qxe3 e6 O-O Bd6 c3 Bxh2+ Kxh2 Ng4+ Kg1 Nxe3 dxe3 O-O Nd2 Nd7 Nc4 Qh4 Nf4 e5 Na5 exf4 Nxc6 f3 gxf3 Qg5+ Kh2 Qh5+ Kg1 Qg6+ Kh2 Qxc6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. Nf3
+2. d5
+3. e4
+4. dxe4 (total capture 1)
+5. Ng5
+6. Nf6
+7. Qe2
+8. Bf5
+9. Qb5+
+10. Bd7
+11. Qxb7 (total capture 2)
+12. Bc6
+13. Bb5
+14. Bxb5 (total capture 3)
+15. Qxa8 (total capture 4)
+16. Bc6
+17. Qxa7 (total capture 5)
+18. h6
+19. Nh3
+20. e3
+21. Qxe3 (total capture 6)
+22. e6
+23. O-O
+24. Bd6
+25. c3
+26. Bxh2+ (total capture 7)
+27. Kxh2 (total capture 8)
+28. Ng4+
+29. Kg1
+30. Nxe3 (total capture 9)
+31. dxe3 (total capture 10)
+32. O-O
+33. Nd2
+34. Nd7
+35. Nc4
+36. Qh4
+37. Nf4
+38. e5
+39. Na5
+40. exf4 (total capture 11)
+41. Nxc6 (total capture 12)
+42. f3
+43. gxf3 (total capture 13)
+44. Qg5+
+45. Kh2
+46. Qh5+
+47. Kg1
+48. Qg6+
+49. Kh2
+50. Qxc6 (total capture 14)
+
+<ANSWER>: Capture occurred in: 4. dxe4, 11. Qxb7, 14. Bxb5, 15. Qxa8, 17. Qxa7, 21. Qxe3, 26. Bxh2+, 27. Kxh2, 30. Nxe3, 31. dxe3, 40. exf4, 41. Nxc6, 43. gxf3, 50. Qxc6
+Total 14 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 d3 d5 a4 dxe4 dxe4 Qxd1+ Kxd1 Nf6 f3 Bc5 Ne2 Nc6 g4 Bd7 g5 Nh5 Nbc3 O-O-O f4 Nd4 a5 Nxe2 Bxe2 Bd4 Bxh5 Bc6 Re1 Bxc3+ Ke2 Bxe1 Kxe1 g6 Bg4 Bxe4 c4 Rd4 Bd2 Rhd8?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. d3
+4. d5
+5. a4
+6. dxe4 (total capture 1)
+7. dxe4 (total capture 2)
+8. Qxd1+ (total capture 3)
+9. Kxd1 (total capture 4)
+10. Nf6
+11. f3
+12. Bc5
+13. Ne2
+14. Nc6
+15. g4
+16. Bd7
+17. g5
+18. Nh5
+19. Nbc3
+20. O-O-O
+21. f4
+22. Nd4
+23. a5
+24. Nxe2 (total capture 5)
+25. Bxe2 (total capture 6)
+26. Bd4
+27. Bxh5 (total capture 7)
+28. Bc6
+29. Re1
+30. Bxc3+ (total capture 8)
+31. Ke2
+32. Bxe1 (total capture 9)
+33. Kxe1 (total capture 10)
+34. g6
+35. Bg4
+36. Bxe4 (total capture 11)
+37. c4
+38. Rd4
+39. Bd2
+40. Rhd8
+
+<ANSWER>: Capture occurred in: 6. dxe4, 7. dxe4, 8. Qxd1+, 9. Kxd1, 24. Nxe2, 25. Bxe2, 27. Bxh5, 30. Bxc3+, 32. Bxe1, 33. Kxe1, 36. Bxe4
+Total 11 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 e6 c4 d5 Nc3 Nf6 cxd5 exd5 Bg5 Nc6 e3 Bb4 Bd3 O-O Ne2 Re8 O-O h6 Bh4 Qd6 Bg3 Qe6 Nf4 Qe7 Nfxd5 Nxd5 Nxd5 Qf8 Nxc7 Rxe3 fxe3 Rb8 Nd5 Bd6 Qf3 Bxg3 Qxg3 Be6 Nf4 Bd7 Bc4 Nb4 Nh5 g6 Bxf7+ Kh8 Qxg6 Nc6 Rf6 Ne7 Qxh6+ Qxh6 Rxh6#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. e6
+3. c4
+4. d5
+5. Nc3
+6. Nf6
+7. cxd5 (total capture 1)
+8. exd5 (total capture 2)
+9. Bg5
+10. Nc6
+11. e3
+12. Bb4
+13. Bd3
+14. O-O
+15. Ne2
+16. Re8
+17. O-O
+18. h6
+19. Bh4
+20. Qd6
+21. Bg3
+22. Qe6
+23. Nf4
+24. Qe7
+25. Nfxd5 (total capture 3)
+26. Nxd5 (total capture 4)
+27. Nxd5 (total capture 5)
+28. Qf8
+29. Nxc7 (total capture 6)
+30. Rxe3 (total capture 7)
+31. fxe3 (total capture 8)
+32. Rb8
+33. Nd5
+34. Bd6
+35. Qf3
+36. Bxg3 (total capture 9)
+37. Qxg3 (total capture 10)
+38. Be6
+39. Nf4
+40. Bd7
+41. Bc4
+42. Nb4
+43. Nh5
+44. g6
+45. Bxf7+ (total capture 11)
+46. Kh8
+47. Qxg6 (total capture 12)
+48. Nc6
+49. Rf6
+50. Ne7
+51. Qxh6+ (total capture 13)
+52. Qxh6 (total capture 14)
+53. Rxh6# (total capture 15)
+
+<ANSWER>: Capture occurred in: 7. cxd5, 8. exd5, 25. Nfxd5, 26. Nxd5, 27. Nxd5, 29. Nxc7, 30. Rxe3, 31. fxe3, 36. Bxg3, 37. Qxg3, 45. Bxf7+, 47. Qxg6, 51. Qxh6+, 52. Qxh6, 53. Rxh6#
+Total 15 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Bc4 Nf6 c3 Bc5 d3 d5 exd5 Nxd5 Qf3 c6 Be3 Na6 Ne2 O-O Nd2 Nxe3 fxe3 Nc7 O-O a6 Bxf7+ Rxf7 Qxf7+ Kh8 Ne4 Bxe3+ Kh1 Ne6 Rf3 Bc5 Nxc5?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Bc4
+4. Nf6
+5. c3
+6. Bc5
+7. d3
+8. d5
+9. exd5 (total capture 1)
+10. Nxd5 (total capture 2)
+11. Qf3
+12. c6
+13. Be3
+14. Na6
+15. Ne2
+16. O-O
+17. Nd2
+18. Nxe3 (total capture 3)
+19. fxe3 (total capture 4)
+20. Nc7
+21. O-O
+22. a6
+23. Bxf7+ (total capture 5)
+24. Rxf7 (total capture 6)
+25. Qxf7+ (total capture 7)
+26. Kh8
+27. Ne4
+28. Bxe3+ (total capture 8)
+29. Kh1
+30. Ne6
+31. Rf3
+32. Bc5
+33. Nxc5 (total capture 9)
+
+<ANSWER>: Capture occurred in: 9. exd5, 10. Nxd5, 18. Nxe3, 19. fxe3, 23. Bxf7+, 24. Rxf7, 25. Qxf7+, 28. Bxe3+, 33. Nxc5
+Total 9 pieces were captured."
+How many chess pieces have been captured so far in this game - Nf3 Nf6 g3 b6 Bg2 Bb7 O-O e6 d3 d5 Nc3 Be7 Nd2 c5 e4 d4 Ne2 e5 Nf3 Nbd7 c3 O-O cxd4 cxd4 Nd2 Ba6 Nb3 Nc5 Nxc5 bxc5 b3 Qb6 f4 Qb5 fxe5 Nd7 Nf4 Nxe5 a4 Qd7 Bb2 g5 Nd5 Bxd3 Nxe7+ Qxe7 Rf5 Ba6 Qh5 f6 h4 Bc8 Rff1 Bg4 Qh6 Qg7 hxg5 Qxg5 Qxg5+ fxg5 Ba3 Rac8 Rxf8+ Kxf8 Rc1 Nd3 Rf1+ Kg7 Rd1 Bxd1?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. Nf3
+2. Nf6
+3. g3
+4. b6
+5. Bg2
+6. Bb7
+7. O-O
+8. e6
+9. d3
+10. d5
+11. Nc3
+12. Be7
+13. Nd2
+14. c5
+15. e4
+16. d4
+17. Ne2
+18. e5
+19. Nf3
+20. Nbd7
+21. c3
+22. O-O
+23. cxd4 (total capture 1)
+24. cxd4 (total capture 2)
+25. Nd2
+26. Ba6
+27. Nb3
+28. Nc5
+29. Nxc5 (total capture 3)
+30. bxc5 (total capture 4)
+31. b3
+32. Qb6
+33. f4
+34. Qb5
+35. fxe5 (total capture 5)
+36. Nd7
+37. Nf4
+38. Nxe5 (total capture 6)
+39. a4
+40. Qd7
+41. Bb2
+42. g5
+43. Nd5
+44. Bxd3 (total capture 7)
+45. Nxe7+ (total capture 8)
+46. Qxe7 (total capture 9)
+47. Rf5
+48. Ba6
+49. Qh5
+50. f6
+51. h4
+52. Bc8
+53. Rff1
+54. Bg4
+55. Qh6
+56. Qg7
+57. hxg5 (total capture 10)
+58. Qxg5 (total capture 11)
+59. Qxg5+ (total capture 12)
+60. fxg5 (total capture 13)
+61. Ba3
+62. Rac8
+63. Rxf8+ (total capture 14)
+64. Kxf8 (total capture 15)
+65. Rc1
+66. Nd3
+67. Rf1+
+68. Kg7
+69. Rd1
+70. Bxd1 (total capture 16)
+
+<ANSWER>: Capture occurred in: 23. cxd4, 24. cxd4, 29. Nxc5, 30. bxc5, 35. fxe5, 38. Nxe5, 44. Bxd3, 45. Nxe7+, 46. Qxe7, 57. hxg5, 58. Qxg5, 59. Qxg5+, 60. fxg5, 63. Rxf8+, 64. Kxf8, 70. Bxd1
+Total 16 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Bc4 Nf6 f4 Nxe4 Bxf7+ Kxf7 Qh5+ g6 Qxe5 Qe7 Qxh8 Ng3+ Kf2 Nxh1+ Kf1 Qc5 Nc3 Qf2#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Bc4
+4. Nf6
+5. f4
+6. Nxe4 (total capture 1)
+7. Bxf7+ (total capture 2)
+8. Kxf7 (total capture 3)
+9. Qh5+
+10. g6
+11. Qxe5 (total capture 4)
+12. Qe7
+13. Qxh8 (total capture 5)
+14. Ng3+
+15. Kf2
+16. Nxh1+ (total capture 6)
+17. Kf1
+18. Qc5
+19. Nc3
+20. Qf2#
+
+<ANSWER>: Capture occurred in: 6. Nxe4, 7. Bxf7+, 8. Kxf7, 11. Qxe5, 13. Qxh8, 16. Nxh1+
+Total 6 pieces were captured."
+How many chess pieces have been captured so far in this game - Nf3 c5 c4 Nc6 Nc3 Na5 d3 h6 g3 Qc7 Bf4 d6 Bg2 Bg4 h3 Bh5 Nd5 Qd8 Qa4+ Nc6 b4 a6 bxc5 Nf6 cxd6 exd6 Nxf6+ Qxf6 Nh4 Qxa1+ Kd2 Qb2+ Qc2 Qf6 Qa4 Be7 Bxc6+ Kf8 Bxb7 Rb8 Rb1 Qe6 f3 Qxh3 c5 Qe6 c6 Bd8 Qe4 Qxa2+ Kc1 Qa3+ Rb2 Qa1+ Rb1 Qc3+ Kd1 Ba5 Bxd6+ Kg8 Bb4 Bxb4 Rxb4 Qa1+ Kc2 Qa2+ Rb2 Qa5 Nf5 Qc7 Ne7+ Kf8 Nd5 Qd6 Qe7+ Qxe7 Nxe7 a5 Nd5 f5 c7 Re8 c8=Q Rxc8+ Bxc8 Be8 Bxf5 a4 Rb8 Kf7 Kb2 g6 Be4 Rf8 Ka3 Ke6 Bxg6 Kxd5 Rxe8 Rf6 Be4+ Kd6 Kxa4 Kd7 Rg8 Ra6+ Kb5 Ra2 Rg7+ Kd8 Kc6 Rxe2 Kd6 Rh2 Rg8#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. Nf3
+2. c5
+3. c4
+4. Nc6
+5. Nc3
+6. Na5
+7. d3
+8. h6
+9. g3
+10. Qc7
+11. Bf4
+12. d6
+13. Bg2
+14. Bg4
+15. h3
+16. Bh5
+17. Nd5
+18. Qd8
+19. Qa4+
+20. Nc6
+21. b4
+22. a6
+23. bxc5 (total capture 1)
+24. Nf6
+25. cxd6 (total capture 2)
+26. exd6 (total capture 3)
+27. Nxf6+ (total capture 4)
+28. Qxf6 (total capture 5)
+29. Nh4
+30. Qxa1+ (total capture 6)
+31. Kd2
+32. Qb2+
+33. Qc2
+34. Qf6
+35. Qa4
+36. Be7
+37. Bxc6+ (total capture 7)
+38. Kf8
+39. Bxb7 (total capture 8)
+40. Rb8
+41. Rb1
+42. Qe6
+43. f3
+44. Qxh3 (total capture 9)
+45. c5
+46. Qe6
+47. c6
+48. Bd8
+49. Qe4
+50. Qxa2+ (total capture 10)
+51. Kc1
+52. Qa3+
+53. Rb2
+54. Qa1+
+55. Rb1
+56. Qc3+
+57. Kd1
+58. Ba5
+59. Bxd6+ (total capture 11)
+60. Kg8
+61. Bb4
+62. Bxb4 (total capture 12)
+63. Rxb4 (total capture 13)
+64. Qa1+
+65. Kc2
+66. Qa2+
+67. Rb2
+68. Qa5
+69. Nf5
+70. Qc7
+71. Ne7+
+72. Kf8
+73. Nd5
+74. Qd6
+75. Qe7+
+76. Qxe7 (total capture 14)
+77. Nxe7 (total capture 15)
+78. a5
+79. Nd5
+80. f5
+81. c7
+82. Re8
+83. c8=Q
+84. Rxc8+ (total capture 16)
+85. Bxc8 (total capture 17)
+86. Be8
+87. Bxf5 (total capture 18)
+88. a4
+89. Rb8
+90. Kf7
+91. Kb2
+92. g6
+93. Be4
+94. Rf8
+95. Ka3
+96. Ke6
+97. Bxg6 (total capture 19)
+98. Kxd5 (total capture 20)
+99. Rxe8 (total capture 21)
+100. Rf6
+101. Be4+
+102. Kd6
+103. Kxa4 (total capture 22)
+104. Kd7
+105. Rg8
+106. Ra6+
+107. Kb5
+108. Ra2
+109. Rg7+
+110. Kd8
+111. Kc6
+112. Rxe2 (total capture 23)
+113. Kd6
+114. Rh2
+115. Rg8#
+
+<ANSWER>: Capture occurred in: 23. bxc5, 25. cxd6, 26. exd6, 27. Nxf6+, 28. Qxf6, 30. Qxa1+, 37. Bxc6+, 39. Bxb7, 44. Qxh3, 50. Qxa2+, 59. Bxd6+, 62. Bxb4, 63. Rxb4, 76. Qxe7, 77. Nxe7, 84. Rxc8+, 85. Bxc8, 87. Bxf5, 97. Bxg6, 98. Kxd5, 99. Rxe8, 103. Kxa4, 112. Rxe2
+Total 23 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 Bf4 Nf6 h3 g6 e3 Bg7 c4 dxc4 Bxc4 O-O Nf3 a6 O-O b5 Bb3 Bb7 Nc3 Bxf3 Qxf3 c6 Bxb8 Rxb8 Qxc6 b4 Ne2 a5 Nc1 Rc8 Qb5 Ne4 Qd3 Nf6 Rd1 e6 a3 bxa3 bxa3 Ra8 a4 Nd7 Bc4 Nb6 Bb5 Nd5 Na2 e5 e4 Nf4 Qf3 Ne6 d5 Nd4 Qd3 f5 f3 fxe4 fxe4 Bh6 Kh1 Rc8 Bc6 Nxc6 dxc6 Qxd3 Rxd3 Rxc6 Rd5 Bg7 Rxa5 Rc4 Re1 Rc2 Nb4 Rc4 Nd5 Rf4 Nxf4 exf4 e5 Kf8 e6 Bf6 Ra8+ Ke7 Ra7+ Ke8 Rf7 Be7 a5 Ra4 Re5 h5 h4 Ra1+ Kh2 Ra2 Rb5 f3 Rxf3 Bxh4 Rf7 Be7 Rg7 Rxa5 Rxa5?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. Bf4
+4. Nf6
+5. h3
+6. g6
+7. e3
+8. Bg7
+9. c4
+10. dxc4 (total capture 1)
+11. Bxc4 (total capture 2)
+12. O-O
+13. Nf3
+14. a6
+15. O-O
+16. b5
+17. Bb3
+18. Bb7
+19. Nc3
+20. Bxf3 (total capture 3)
+21. Qxf3 (total capture 4)
+22. c6
+23. Bxb8 (total capture 5)
+24. Rxb8 (total capture 6)
+25. Qxc6 (total capture 7)
+26. b4
+27. Ne2
+28. a5
+29. Nc1
+30. Rc8
+31. Qb5
+32. Ne4
+33. Qd3
+34. Nf6
+35. Rd1
+36. e6
+37. a3
+38. bxa3 (total capture 8)
+39. bxa3 (total capture 9)
+40. Ra8
+41. a4
+42. Nd7
+43. Bc4
+44. Nb6
+45. Bb5
+46. Nd5
+47. Na2
+48. e5
+49. e4
+50. Nf4
+51. Qf3
+52. Ne6
+53. d5
+54. Nd4
+55. Qd3
+56. f5
+57. f3
+58. fxe4 (total capture 10)
+59. fxe4 (total capture 11)
+60. Bh6
+61. Kh1
+62. Rc8
+63. Bc6
+64. Nxc6 (total capture 12)
+65. dxc6 (total capture 13)
+66. Qxd3 (total capture 14)
+67. Rxd3 (total capture 15)
+68. Rxc6 (total capture 16)
+69. Rd5
+70. Bg7
+71. Rxa5 (total capture 17)
+72. Rc4
+73. Re1
+74. Rc2
+75. Nb4
+76. Rc4
+77. Nd5
+78. Rf4
+79. Nxf4 (total capture 18)
+80. exf4 (total capture 19)
+81. e5
+82. Kf8
+83. e6
+84. Bf6
+85. Ra8+
+86. Ke7
+87. Ra7+
+88. Ke8
+89. Rf7
+90. Be7
+91. a5
+92. Ra4
+93. Re5
+94. h5
+95. h4
+96. Ra1+
+97. Kh2
+98. Ra2
+99. Rb5
+100. f3
+101. Rxf3 (total capture 20)
+102. Bxh4 (total capture 21)
+103. Rf7
+104. Be7
+105. Rg7
+106. Rxa5 (total capture 22)
+107. Rxa5 (total capture 23)
+
+<ANSWER>: Capture occurred in: 10. dxc4, 11. Bxc4, 20. Bxf3, 21. Qxf3, 23. Bxb8, 24. Rxb8, 25. Qxc6, 38. bxa3, 39. bxa3, 58. fxe4, 59. fxe4, 64. Nxc6, 65. dxc6, 66. Qxd3, 67. Rxd3, 68. Rxc6, 71. Rxa5, 79. Nxf4, 80. exf4, 101. Rxf3, 102. Bxh4, 106. Rxa5, 107. Rxa5
+Total 23 pieces were captured."
+How many chess pieces have been captured so far in this game - f4 Nf6 Nf3 e6 d3 Bb4+ Nc3 Ba5 e4 O-O f5 exf5 exf5 Nc6 Qe2 d6 Bf4 Re8 Be3 Bxf5 O-O-O Bb6 g4 Bxg4 h3 Bh5 Bg2 Bxe3+ Kb1 a5 Qf1 a4 Nh4 a3 bxa3 Rxa3 Nb5 Ra6 d4 Qa8 Nxc7 Qa7 Nxe8 Nxe8 Re1 Rxa2 c3 Ra1+ Kc2 Qa2+ Kd3 Rxe1 Qxe1 Qxg2 Nxg2 Bg6+ Ke2 Bh6 Kf1 Bd3+ Kg1 Nf6 Kh2 g6 Qd1 Be4 Nh4 Bf4+ Kg1 Be3+ Kf1 Bxh1 Qa1 Ne4 Qa8+ Kg7 Qxb7 Nd2+ Ke1 Nf3+ Ke2 Bc1 Nxf3 Bxf3+ Kxf3 h5 Qxc6 g5 d5 g4+ hxg4 h4 Qxd6 h3 Qe5+ Kf8 d6 h2 Qe7+ Kg7 d7 h1=Q+ Kg3 Qh8 d8=N Qh6 Qxf7+ Kh8 Qf8+ Qxf8 Ne6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. f4
+2. Nf6
+3. Nf3
+4. e6
+5. d3
+6. Bb4+
+7. Nc3
+8. Ba5
+9. e4
+10. O-O
+11. f5
+12. exf5 (total capture 1)
+13. exf5 (total capture 2)
+14. Nc6
+15. Qe2
+16. d6
+17. Bf4
+18. Re8
+19. Be3
+20. Bxf5 (total capture 3)
+21. O-O-O
+22. Bb6
+23. g4
+24. Bxg4 (total capture 4)
+25. h3
+26. Bh5
+27. Bg2
+28. Bxe3+ (total capture 5)
+29. Kb1
+30. a5
+31. Qf1
+32. a4
+33. Nh4
+34. a3
+35. bxa3 (total capture 6)
+36. Rxa3 (total capture 7)
+37. Nb5
+38. Ra6
+39. d4
+40. Qa8
+41. Nxc7 (total capture 8)
+42. Qa7
+43. Nxe8 (total capture 9)
+44. Nxe8 (total capture 10)
+45. Re1
+46. Rxa2 (total capture 11)
+47. c3
+48. Ra1+
+49. Kc2
+50. Qa2+
+51. Kd3
+52. Rxe1 (total capture 12)
+53. Qxe1 (total capture 13)
+54. Qxg2 (total capture 14)
+55. Nxg2 (total capture 15)
+56. Bg6+
+57. Ke2
+58. Bh6
+59. Kf1
+60. Bd3+
+61. Kg1
+62. Nf6
+63. Kh2
+64. g6
+65. Qd1
+66. Be4
+67. Nh4
+68. Bf4+
+69. Kg1
+70. Be3+
+71. Kf1
+72. Bxh1 (total capture 16)
+73. Qa1
+74. Ne4
+75. Qa8+
+76. Kg7
+77. Qxb7 (total capture 17)
+78. Nd2+
+79. Ke1
+80. Nf3+
+81. Ke2
+82. Bc1
+83. Nxf3 (total capture 18)
+84. Bxf3+ (total capture 19)
+85. Kxf3 (total capture 20)
+86. h5
+87. Qxc6 (total capture 21)
+88. g5
+89. d5
+90. g4+
+91. hxg4 (total capture 22)
+92. h4
+93. Qxd6 (total capture 23)
+94. h3
+95. Qe5+
+96. Kf8
+97. d6
+98. h2
+99. Qe7+
+100. Kg7
+101. d7
+102. h1=Q+
+103. Kg3
+104. Qh8
+105. d8=N
+106. Qh6
+107. Qxf7+ (total capture 24)
+108. Kh8
+109. Qf8+
+110. Qxf8 (total capture 25)
+111. Ne6
+
+<ANSWER>: Capture occurred in: 12. exf5, 13. exf5, 20. Bxf5, 24. Bxg4, 28. Bxe3+, 35. bxa3, 36. Rxa3, 41. Nxc7, 43. Nxe8, 44. Nxe8, 46. Rxa2, 52. Rxe1, 53. Qxe1, 54. Qxg2, 55. Nxg2, 72. Bxh1, 77. Qxb7, 83. Nxf3, 84. Bxf3+, 85. Kxf3, 87. Qxc6, 91. hxg4, 93. Qxd6, 107. Qxf7+, 110. Qxf8
+Total 25 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 Nxe5 Qd4 Qf3 Qxe5 Nc3 Nf6 O-O Bg4 Qe3 Bc5 Qe1 Qf4 d4 Bxd4 Bxf4 Bxc3 bxc3 O-O e5 Rfe8 h3 Bf5 Qe2 Nd5 g3 Nxc3 Qf3 Nd5 Rab1 Bxh3 Rfe1 Bf5 Rxb7 Bxc2 Rc1 Ba4 Qa3 Rab8 Rxb8 Rxb8 Qxa4 Nxf4 gxf4 Rb6 Rxc6 Rb1+ Kg2 Rb6 Rxb6 cxb6 Qe8#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Bb5
+6. a6
+7. Bxc6 (total capture 1)
+8. dxc6 (total capture 2)
+9. Nxe5 (total capture 3)
+10. Qd4
+11. Qf3
+12. Qxe5 (total capture 4)
+13. Nc3
+14. Nf6
+15. O-O
+16. Bg4
+17. Qe3
+18. Bc5
+19. Qe1
+20. Qf4
+21. d4
+22. Bxd4 (total capture 5)
+23. Bxf4 (total capture 6)
+24. Bxc3 (total capture 7)
+25. bxc3 (total capture 8)
+26. O-O
+27. e5
+28. Rfe8
+29. h3
+30. Bf5
+31. Qe2
+32. Nd5
+33. g3
+34. Nxc3 (total capture 9)
+35. Qf3
+36. Nd5
+37. Rab1
+38. Bxh3 (total capture 10)
+39. Rfe1
+40. Bf5
+41. Rxb7 (total capture 11)
+42. Bxc2 (total capture 12)
+43. Rc1
+44. Ba4
+45. Qa3
+46. Rab8
+47. Rxb8 (total capture 13)
+48. Rxb8 (total capture 14)
+49. Qxa4 (total capture 15)
+50. Nxf4 (total capture 16)
+51. gxf4 (total capture 17)
+52. Rb6
+53. Rxc6 (total capture 18)
+54. Rb1+
+55. Kg2
+56. Rb6
+57. Rxb6 (total capture 19)
+58. cxb6 (total capture 20)
+59. Qe8#
+
+<ANSWER>: Capture occurred in: 7. Bxc6, 8. dxc6, 9. Nxe5, 12. Qxe5, 22. Bxd4, 23. Bxf4, 24. Bxc3, 25. bxc3, 34. Nxc3, 38. Bxh3, 41. Rxb7, 42. Bxc2, 47. Rxb8, 48. Rxb8, 49. Qxa4, 50. Nxf4, 51. gxf4, 53. Rxc6, 57. Rxb6, 58. cxb6
+Total 20 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 d6 d4 exd4 Nxd4 c5 Nf3 Nc6 Bb5 Bd7 O-O a6 Bxc6 Bxc6 Re1 Nf6 e5 dxe5 Nxe5 Qxd1 Rxd1 Be7 Nxc6 bxc6 c4 O-O Nc3 Rfe8 Bf4 Nh5 Be3 Bf8 Na4 Re5 Nb6 Rb8 Nd7 Ree8 Nxb8 Rxb8 b3 Re8 Rd6 Re6 Rxe6 fxe6 Re1 e5 Bd2 Bd6 Bc3 Nf6 Bxe5 Bxe5 Rxe5 Kf7 Rxc5 Ne4 Rxc6 a5 f3 Nc3 a3 a4 b4 g6 b5 Ke7 Kf1 Nb1 Ra6 Nxa3 Rxa4 Nc2 Ke2 Nd4+ Kd3 Ne6 Ra7+ Kd6 Ra6+ Kd7 Rxe6 Kxe6 Kd4 Kd7 Kd5 Kc7 c5 h6 b6+ Kb7 Kd6 Ka6 c6 Kxb6 c7 Kb7 Kd7 Kb6 c8=Q Ka7 Kc6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. d6
+5. d4
+6. exd4 (total capture 1)
+7. Nxd4 (total capture 2)
+8. c5
+9. Nf3
+10. Nc6
+11. Bb5
+12. Bd7
+13. O-O
+14. a6
+15. Bxc6 (total capture 3)
+16. Bxc6 (total capture 4)
+17. Re1
+18. Nf6
+19. e5
+20. dxe5 (total capture 5)
+21. Nxe5 (total capture 6)
+22. Qxd1 (total capture 7)
+23. Rxd1 (total capture 8)
+24. Be7
+25. Nxc6 (total capture 9)
+26. bxc6 (total capture 10)
+27. c4
+28. O-O
+29. Nc3
+30. Rfe8
+31. Bf4
+32. Nh5
+33. Be3
+34. Bf8
+35. Na4
+36. Re5
+37. Nb6
+38. Rb8
+39. Nd7
+40. Ree8
+41. Nxb8 (total capture 11)
+42. Rxb8 (total capture 12)
+43. b3
+44. Re8
+45. Rd6
+46. Re6
+47. Rxe6 (total capture 13)
+48. fxe6 (total capture 14)
+49. Re1
+50. e5
+51. Bd2
+52. Bd6
+53. Bc3
+54. Nf6
+55. Bxe5 (total capture 15)
+56. Bxe5 (total capture 16)
+57. Rxe5 (total capture 17)
+58. Kf7
+59. Rxc5 (total capture 18)
+60. Ne4
+61. Rxc6 (total capture 19)
+62. a5
+63. f3
+64. Nc3
+65. a3
+66. a4
+67. b4
+68. g6
+69. b5
+70. Ke7
+71. Kf1
+72. Nb1
+73. Ra6
+74. Nxa3 (total capture 20)
+75. Rxa4 (total capture 21)
+76. Nc2
+77. Ke2
+78. Nd4+
+79. Kd3
+80. Ne6
+81. Ra7+
+82. Kd6
+83. Ra6+
+84. Kd7
+85. Rxe6 (total capture 22)
+86. Kxe6 (total capture 23)
+87. Kd4
+88. Kd7
+89. Kd5
+90. Kc7
+91. c5
+92. h6
+93. b6+
+94. Kb7
+95. Kd6
+96. Ka6
+97. c6
+98. Kxb6 (total capture 24)
+99. c7
+100. Kb7
+101. Kd7
+102. Kb6
+103. c8=Q
+104. Ka7
+105. Kc6
+
+<ANSWER>: Capture occurred in: 6. exd4, 7. Nxd4, 15. Bxc6, 16. Bxc6, 20. dxe5, 21. Nxe5, 22. Qxd1, 23. Rxd1, 25. Nxc6, 26. bxc6, 41. Nxb8, 42. Rxb8, 47. Rxe6, 48. fxe6, 55. Bxe5, 56. Bxe5, 57. Rxe5, 59. Rxc5, 61. Rxc6, 74. Nxa3, 75. Rxa4, 85. Rxe6, 86. Kxe6, 98. Kxb6
+Total 24 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 e6 Nf3 d5 e3 c5 b3 cxd4 exd4 Bb4+ c3 Ba5 Bd3 Nf6 Nbd2 Bxc3 Rb1 Qa5 O-O Bxd2 Bxd2 Qb6 Rc1 Bd7 Ne5 O-O Nxd7 Nbxd7 f4 Qxd4+ Rf2 Qxd3 Rc7 Qd4 Rxb7 Ne4 Rb4 Qxf2+ Kh1 Qg1+ Kxg1 Rfc8 Rb7 Ndc5 Rb5 Nxd2 Qxd2 a6 Rb4 a5 Rb5 Ne4?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. e6
+3. Nf3
+4. d5
+5. e3
+6. c5
+7. b3
+8. cxd4 (total capture 1)
+9. exd4 (total capture 2)
+10. Bb4+
+11. c3
+12. Ba5
+13. Bd3
+14. Nf6
+15. Nbd2
+16. Bxc3 (total capture 3)
+17. Rb1
+18. Qa5
+19. O-O
+20. Bxd2 (total capture 4)
+21. Bxd2 (total capture 5)
+22. Qb6
+23. Rc1
+24. Bd7
+25. Ne5
+26. O-O
+27. Nxd7 (total capture 6)
+28. Nbxd7 (total capture 7)
+29. f4
+30. Qxd4+ (total capture 8)
+31. Rf2
+32. Qxd3 (total capture 9)
+33. Rc7
+34. Qd4
+35. Rxb7 (total capture 10)
+36. Ne4
+37. Rb4
+38. Qxf2+ (total capture 11)
+39. Kh1
+40. Qg1+
+41. Kxg1 (total capture 12)
+42. Rfc8
+43. Rb7
+44. Ndc5
+45. Rb5
+46. Nxd2 (total capture 13)
+47. Qxd2 (total capture 14)
+48. a6
+49. Rb4
+50. a5
+51. Rb5
+52. Ne4
+
+<ANSWER>: Capture occurred in: 8. cxd4, 9. exd4, 16. Bxc3, 20. Bxd2, 21. Bxd2, 27. Nxd7, 28. Nbxd7, 30. Qxd4+, 32. Qxd3, 35. Rxb7, 38. Qxf2+, 41. Kxg1, 46. Nxd2, 47. Qxd2
+Total 14 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Bc4 Be7 O-O O-O Nxc6 bxc6 e5 Nd5 Qg4 Nxc3 Bh6 g6 Bxf8 Bxf8 bxc3 d5 exd6 Bxd6 Bb3 Qc7 h3 e5 Qf3 Bb7 Rfe1 c5 Qe2 Re8 Qb5 Bc6 Qc4 h5 Rad1 e4 Rxd6 e3 Rxg6+ Kf8 f3 Qg3 Rxg3?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nf3
+4. e6
+5. d4
+6. cxd4 (total capture 1)
+7. Nxd4 (total capture 2)
+8. Nf6
+9. Nc3
+10. Nc6
+11. Bc4
+12. Be7
+13. O-O
+14. O-O
+15. Nxc6 (total capture 3)
+16. bxc6 (total capture 4)
+17. e5
+18. Nd5
+19. Qg4
+20. Nxc3 (total capture 5)
+21. Bh6
+22. g6
+23. Bxf8 (total capture 6)
+24. Bxf8 (total capture 7)
+25. bxc3 (total capture 8)
+26. d5
+27. exd6 (total capture 9)
+28. Bxd6 (total capture 10)
+29. Bb3
+30. Qc7
+31. h3
+32. e5
+33. Qf3
+34. Bb7
+35. Rfe1
+36. c5
+37. Qe2
+38. Re8
+39. Qb5
+40. Bc6
+41. Qc4
+42. h5
+43. Rad1
+44. e4
+45. Rxd6 (total capture 11)
+46. e3
+47. Rxg6+ (total capture 12)
+48. Kf8
+49. f3
+50. Qg3
+51. Rxg3 (total capture 13)
+
+<ANSWER>: Capture occurred in: 6. cxd4, 7. Nxd4, 15. Nxc6, 16. bxc6, 20. Nxc3, 23. Bxf8, 24. Bxf8, 25. bxc3, 27. exd6, 28. Bxd6, 45. Rxd6, 47. Rxg6+, 51. Rxg3
+Total 13 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 d6 Bc4 Bg4 Nc3 h6 Nxe5 dxe5 Qxg4 Nf6 Qf3 Nc6 d3 Nd4 Qd1 c6 Be3 b5 Bxd4 Qxd4 Nxb5 cxb5 Bxb5+ Nd7 c3 Qb6 Bxd7+ Kxd7 O-O Bd6 b4 Rhe8 a4 Ke7 Rb1 Kf8 c4 Bxb4 Rb3 a5 Qg4 Rad8 Qf5 Kg8 Kh1 Qf6 Qxf6 gxf6 f4 h5 fxe5 fxe5 Rf5 h4 h3 Rd6 Rh5 Red8 Rxh4 Rxd3 Rxd3 Rxd3 Rg4+ Kf8 h4 Rd4 h5 Bd2 g3 Rxc4 Rh4 Rxa4 g4 Rxe4 h6 Bxh6 Rxh6 Rxg4 Ra6 Ra4 Kg2 f5 Rf6+ Ke7 Rxf5 Ke6 Rh5 Ra3 Kf2 a4 Ke2 e4 Ra5 Kd6 Kd2 e3+ Ke2 Kc6 Re5 Kd6 Rg5 Ke6 Rh5 Kf6 Ra5 Ke6 Ra8 Kd5 Rd8+ Ke4 Re8+ Kf4 Rf8+ Ke4 Re8+ Kd4 Rd8+ Ke5 Rb8 Kd6 Rb4 Kc5 Rh4 Kd5 Rb4 Kc5 Rh4 Kd5 Rf4 Ke5 Rb4 Kd5 Rh4 Ke5 Rg4 Ra2+ Kxe3 a3 Kd3 Rh2 Rg1 a2 Kc3 Rh3+ Kb2 Rh2+ Ka1 Ke4 Rg3 Kf4 Ra3 Rh1+ Kxa2 Rh2+ Kb3 Ke4 Kb4 Kd5 Rd3+ Ke4 Rd8 Rb2+ Kc3 Re2 Re8+ Kf3 Rf8+ Kg2 Kd3 Ra2 Ke3 Ra3+ Ke2 Ra2+ Kd3 Ra3+ Kc2 Rf3 Rg8+ Rg3 Rh8 Kf2 Kd2 Re3 Rf8+ Rf3 Re8 Rg3 Re2+ Kf3 Re3+ Kg4 Re8 Rg2+ Ke1 Kf3 Rf8+ Ke3 Re8+ Kf3 Rf8+ Kg3 Kf1 Kh2 Rh8+ Kg3 Rg8+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. d6
+5. Bc4
+6. Bg4
+7. Nc3
+8. h6
+9. Nxe5 (total capture 1)
+10. dxe5 (total capture 2)
+11. Qxg4 (total capture 3)
+12. Nf6
+13. Qf3
+14. Nc6
+15. d3
+16. Nd4
+17. Qd1
+18. c6
+19. Be3
+20. b5
+21. Bxd4 (total capture 4)
+22. Qxd4 (total capture 5)
+23. Nxb5 (total capture 6)
+24. cxb5 (total capture 7)
+25. Bxb5+ (total capture 8)
+26. Nd7
+27. c3
+28. Qb6
+29. Bxd7+ (total capture 9)
+30. Kxd7 (total capture 10)
+31. O-O
+32. Bd6
+33. b4
+34. Rhe8
+35. a4
+36. Ke7
+37. Rb1
+38. Kf8
+39. c4
+40. Bxb4 (total capture 11)
+41. Rb3
+42. a5
+43. Qg4
+44. Rad8
+45. Qf5
+46. Kg8
+47. Kh1
+48. Qf6
+49. Qxf6 (total capture 12)
+50. gxf6 (total capture 13)
+51. f4
+52. h5
+53. fxe5 (total capture 14)
+54. fxe5 (total capture 15)
+55. Rf5
+56. h4
+57. h3
+58. Rd6
+59. Rh5
+60. Red8
+61. Rxh4 (total capture 16)
+62. Rxd3 (total capture 17)
+63. Rxd3 (total capture 18)
+64. Rxd3 (total capture 19)
+65. Rg4+
+66. Kf8
+67. h4
+68. Rd4
+69. h5
+70. Bd2
+71. g3
+72. Rxc4 (total capture 20)
+73. Rh4
+74. Rxa4 (total capture 21)
+75. g4
+76. Rxe4 (total capture 22)
+77. h6
+78. Bxh6 (total capture 23)
+79. Rxh6 (total capture 24)
+80. Rxg4 (total capture 25)
+81. Ra6
+82. Ra4
+83. Kg2
+84. f5
+85. Rf6+
+86. Ke7
+87. Rxf5 (total capture 26)
+88. Ke6
+89. Rh5
+90. Ra3
+91. Kf2
+92. a4
+93. Ke2
+94. e4
+95. Ra5
+96. Kd6
+97. Kd2
+98. e3+
+99. Ke2
+100. Kc6
+101. Re5
+102. Kd6
+103. Rg5
+104. Ke6
+105. Rh5
+106. Kf6
+107. Ra5
+108. Ke6
+109. Ra8
+110. Kd5
+111. Rd8+
+112. Ke4
+113. Re8+
+114. Kf4
+115. Rf8+
+116. Ke4
+117. Re8+
+118. Kd4
+119. Rd8+
+120. Ke5
+121. Rb8
+122. Kd6
+123. Rb4
+124. Kc5
+125. Rh4
+126. Kd5
+127. Rb4
+128. Kc5
+129. Rh4
+130. Kd5
+131. Rf4
+132. Ke5
+133. Rb4
+134. Kd5
+135. Rh4
+136. Ke5
+137. Rg4
+138. Ra2+
+139. Kxe3 (total capture 27)
+140. a3
+141. Kd3
+142. Rh2
+143. Rg1
+144. a2
+145. Kc3
+146. Rh3+
+147. Kb2
+148. Rh2+
+149. Ka1
+150. Ke4
+151. Rg3
+152. Kf4
+153. Ra3
+154. Rh1+
+155. Kxa2 (total capture 28)
+156. Rh2+
+157. Kb3
+158. Ke4
+159. Kb4
+160. Kd5
+161. Rd3+
+162. Ke4
+163. Rd8
+164. Rb2+
+165. Kc3
+166. Re2
+167. Re8+
+168. Kf3
+169. Rf8+
+170. Kg2
+171. Kd3
+172. Ra2
+173. Ke3
+174. Ra3+
+175. Ke2
+176. Ra2+
+177. Kd3
+178. Ra3+
+179. Kc2
+180. Rf3
+181. Rg8+
+182. Rg3
+183. Rh8
+184. Kf2
+185. Kd2
+186. Re3
+187. Rf8+
+188. Rf3
+189. Re8
+190. Rg3
+191. Re2+
+192. Kf3
+193. Re3+
+194. Kg4
+195. Re8
+196. Rg2+
+197. Ke1
+198. Kf3
+199. Rf8+
+200. Ke3
+201. Re8+
+202. Kf3
+203. Rf8+
+204. Kg3
+205. Kf1
+206. Kh2
+207. Rh8+
+208. Kg3
+209. Rg8+
+
+<ANSWER>: Capture occurred in: 9. Nxe5, 10. dxe5, 11. Qxg4, 21. Bxd4, 22. Qxd4, 23. Nxb5, 24. cxb5, 25. Bxb5+, 29. Bxd7+, 30. Kxd7, 40. Bxb4, 49. Qxf6, 50. gxf6, 53. fxe5, 54. fxe5, 61. Rxh4, 62. Rxd3, 63. Rxd3, 64. Rxd3, 72. Rxc4, 74. Rxa4, 76. Rxe4, 78. Bxh6, 79. Rxh6, 80. Rxg4, 87. Rxf5, 139. Kxe3, 155. Kxa2
+Total 28 pieces were captured."
+How many chess pieces have been captured so far in this game - Nf3 e6 e4 d5 exd5 exd5 d4 c5 c4 Nf6 Nc3 cxd4 Nxd4 Bb4 Qa4+ Nc6 Nxc6 Bxc3+ bxc3 bxc6 Qxc6+ Bd7 Qc5 Rc8 Qxa7 dxc4 Qa3 Nd5 Rb1 Ne7 Rb4 O-O Bxc4 Nc6 Ra4 Re8+ Be3 Ne5 Ba6 Bxa4 Bxc8 Nd3+ Ke2 Bb5 Rb1 Nf4+ Kf3 Qd5+ Kxf4 g5+ Kg3 Qe5+ f4 Qxe3+ Kg4 Qxf4+ Kh5 Qh4#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. Nf3
+2. e6
+3. e4
+4. d5
+5. exd5 (total capture 1)
+6. exd5 (total capture 2)
+7. d4
+8. c5
+9. c4
+10. Nf6
+11. Nc3
+12. cxd4 (total capture 3)
+13. Nxd4 (total capture 4)
+14. Bb4
+15. Qa4+
+16. Nc6
+17. Nxc6 (total capture 5)
+18. Bxc3+ (total capture 6)
+19. bxc3 (total capture 7)
+20. bxc6 (total capture 8)
+21. Qxc6+ (total capture 9)
+22. Bd7
+23. Qc5
+24. Rc8
+25. Qxa7 (total capture 10)
+26. dxc4 (total capture 11)
+27. Qa3
+28. Nd5
+29. Rb1
+30. Ne7
+31. Rb4
+32. O-O
+33. Bxc4 (total capture 12)
+34. Nc6
+35. Ra4
+36. Re8+
+37. Be3
+38. Ne5
+39. Ba6
+40. Bxa4 (total capture 13)
+41. Bxc8 (total capture 14)
+42. Nd3+
+43. Ke2
+44. Bb5
+45. Rb1
+46. Nf4+
+47. Kf3
+48. Qd5+
+49. Kxf4 (total capture 15)
+50. g5+
+51. Kg3
+52. Qe5+
+53. f4
+54. Qxe3+ (total capture 16)
+55. Kg4
+56. Qxf4+ (total capture 17)
+57. Kh5
+58. Qh4#
+
+<ANSWER>: Capture occurred in: 5. exd5, 6. exd5, 12. cxd4, 13. Nxd4, 17. Nxc6, 18. Bxc3+, 19. bxc3, 20. bxc6, 21. Qxc6+, 25. Qxa7, 26. dxc4, 33. Bxc4, 40. Bxa4, 41. Bxc8, 49. Kxf4, 54. Qxe3+, 56. Qxf4+
+Total 17 pieces were captured."
+How many chess pieces have been captured so far in this game - d3 e5 Nf3 d6 d4 e4 Nfd2 e3 fxe3 Qh4+ g3 Qh5 e4 Bh3 Bxh3 Qxh3 e5 d5 c3 Nc6 Na3 Nh6 Nb5 O-O-O e3 Qg2 Qf3 Qxf3 Nxf3 Ng4 O-O h5 Ng5 Rh6 Nxf7 Rf6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d3
+2. e5
+3. Nf3
+4. d6
+5. d4
+6. e4
+7. Nfd2
+8. e3
+9. fxe3 (total capture 1)
+10. Qh4+
+11. g3
+12. Qh5
+13. e4
+14. Bh3
+15. Bxh3 (total capture 2)
+16. Qxh3 (total capture 3)
+17. e5
+18. d5
+19. c3
+20. Nc6
+21. Na3
+22. Nh6
+23. Nb5
+24. O-O-O
+25. e3
+26. Qg2
+27. Qf3
+28. Qxf3 (total capture 4)
+29. Nxf3 (total capture 5)
+30. Ng4
+31. O-O
+32. h5
+33. Ng5
+34. Rh6
+35. Nxf7 (total capture 6)
+36. Rf6
+
+<ANSWER>: Capture occurred in: 9. fxe3, 15. Bxh3, 16. Qxh3, 28. Qxf3, 29. Nxf3, 35. Nxf7
+Total 6 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nf3 d6 Bb5+ Bd7 Qe2 a6 Bc4 Nc6 O-O e6 a3 Be7 d3 Nf6 Nc3 O-O Bg5 h6 Be3 Qc7 d4 cxd4 Nxd4 Nxd4 Bxd4 Rac8 b3 b5 Bd3 e5 Nd5 Nxd5 exd5 Bf6 Bb2 Qb7 Be4 Bg5 Rfd1 f5 Bd3 e4 Bxe4 fxe4 Qxe4 Rce8 Qg6 Bf6 Bxf6 Rxf6 Qd3 Bf5 Qf3 Bxc2 Rd2 Rxf3?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nf3
+4. d6
+5. Bb5+
+6. Bd7
+7. Qe2
+8. a6
+9. Bc4
+10. Nc6
+11. O-O
+12. e6
+13. a3
+14. Be7
+15. d3
+16. Nf6
+17. Nc3
+18. O-O
+19. Bg5
+20. h6
+21. Be3
+22. Qc7
+23. d4
+24. cxd4 (total capture 1)
+25. Nxd4 (total capture 2)
+26. Nxd4 (total capture 3)
+27. Bxd4 (total capture 4)
+28. Rac8
+29. b3
+30. b5
+31. Bd3
+32. e5
+33. Nd5
+34. Nxd5 (total capture 5)
+35. exd5 (total capture 6)
+36. Bf6
+37. Bb2
+38. Qb7
+39. Be4
+40. Bg5
+41. Rfd1
+42. f5
+43. Bd3
+44. e4
+45. Bxe4 (total capture 7)
+46. fxe4 (total capture 8)
+47. Qxe4 (total capture 9)
+48. Rce8
+49. Qg6
+50. Bf6
+51. Bxf6 (total capture 10)
+52. Rxf6 (total capture 11)
+53. Qd3
+54. Bf5
+55. Qf3
+56. Bxc2 (total capture 12)
+57. Rd2
+58. Rxf3 (total capture 13)
+
+<ANSWER>: Capture occurred in: 24. cxd4, 25. Nxd4, 26. Nxd4, 27. Bxd4, 34. Nxd5, 35. exd5, 45. Bxe4, 46. fxe4, 47. Qxe4, 51. Bxf6, 52. Rxf6, 56. Bxc2, 58. Rxf3
+Total 13 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 c4 e6 cxd5 exd5 Nc3 Nf6 Nf3 Bb4 e3 O-O Bd3 Bg4 a3 Bxc3+ bxc3 Nc6 O-O Qd6 h3 Bxf3 Qxf3 Rae8 Bd2 h6 Rfe1 g5 Bf5 h5 g4 h4 e4 dxe4 Bxe4 Rxe4 Rxe4 Nxd4 Rxd4 c5 Rxd6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. c4
+4. e6
+5. cxd5 (total capture 1)
+6. exd5 (total capture 2)
+7. Nc3
+8. Nf6
+9. Nf3
+10. Bb4
+11. e3
+12. O-O
+13. Bd3
+14. Bg4
+15. a3
+16. Bxc3+ (total capture 3)
+17. bxc3 (total capture 4)
+18. Nc6
+19. O-O
+20. Qd6
+21. h3
+22. Bxf3 (total capture 5)
+23. Qxf3 (total capture 6)
+24. Rae8
+25. Bd2
+26. h6
+27. Rfe1
+28. g5
+29. Bf5
+30. h5
+31. g4
+32. h4
+33. e4
+34. dxe4 (total capture 7)
+35. Bxe4 (total capture 8)
+36. Rxe4 (total capture 9)
+37. Rxe4 (total capture 10)
+38. Nxd4 (total capture 11)
+39. Rxd4 (total capture 12)
+40. c5
+41. Rxd6 (total capture 13)
+
+<ANSWER>: Capture occurred in: 5. cxd5, 6. exd5, 16. Bxc3+, 17. bxc3, 22. Bxf3, 23. Qxf3, 34. dxe4, 35. Bxe4, 36. Rxe4, 37. Rxe4, 38. Nxd4, 39. Rxd4, 41. Rxd6
+Total 13 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 d3 Bc5 Nf3 d6 h4 h6 Nfd2 Nc6 d4 Bxd4 c3 Bc5 b4 Bb6 a4 a6 a5 Ra7 axb6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. d3
+4. Bc5
+5. Nf3
+6. d6
+7. h4
+8. h6
+9. Nfd2
+10. Nc6
+11. d4
+12. Bxd4 (total capture 1)
+13. c3
+14. Bc5
+15. b4
+16. Bb6
+17. a4
+18. a6
+19. a5
+20. Ra7
+21. axb6 (total capture 2)
+
+<ANSWER>: Capture occurred in: 12. Bxd4, 21. axb6
+Total 2 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 Nf6 e5 Nd5 Nc3 Nxc3 dxc3 d6 Bg5 Nd7 Bc4 Nxe5 Bb3 h6 Be3 Bf5 f4 Ng4 Qd5 Nxe3 Qxf7+ Kd7 Ba4+ c6 Rc1 Be6 Qh5 Nxg2+ Kd1 Nxf4 Qf3 Nd5 Ke1 Kc7 Rd1 h5 Qe4 Nb6 Bxc6 bxc6 Qxe6 g5 Nf3 Rh6 Qf5 Rf6 Qh3 g4 Qxh5 gxf3 Rf1 f2+ Rxf2 Rxf2 Kxf2 Bg7 Qf7 Be5 h3 Qd7 Qh5 Rf8+ Ke1 Bg3+ Ke2 Qe6+ Kd2 Nc4+ Kc1 Ne3 Rd3 Qxa2 Kd2 Bf4 Ke2 Qxb2 Rd2 Nxc2 Qa5+ Kd7 Qxa7+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. Nf6
+3. e5
+4. Nd5
+5. Nc3
+6. Nxc3 (total capture 1)
+7. dxc3 (total capture 2)
+8. d6
+9. Bg5
+10. Nd7
+11. Bc4
+12. Nxe5 (total capture 3)
+13. Bb3
+14. h6
+15. Be3
+16. Bf5
+17. f4
+18. Ng4
+19. Qd5
+20. Nxe3 (total capture 4)
+21. Qxf7+ (total capture 5)
+22. Kd7
+23. Ba4+
+24. c6
+25. Rc1
+26. Be6
+27. Qh5
+28. Nxg2+ (total capture 6)
+29. Kd1
+30. Nxf4 (total capture 7)
+31. Qf3
+32. Nd5
+33. Ke1
+34. Kc7
+35. Rd1
+36. h5
+37. Qe4
+38. Nb6
+39. Bxc6 (total capture 8)
+40. bxc6 (total capture 9)
+41. Qxe6 (total capture 10)
+42. g5
+43. Nf3
+44. Rh6
+45. Qf5
+46. Rf6
+47. Qh3
+48. g4
+49. Qxh5 (total capture 11)
+50. gxf3 (total capture 12)
+51. Rf1
+52. f2+
+53. Rxf2 (total capture 13)
+54. Rxf2 (total capture 14)
+55. Kxf2 (total capture 15)
+56. Bg7
+57. Qf7
+58. Be5
+59. h3
+60. Qd7
+61. Qh5
+62. Rf8+
+63. Ke1
+64. Bg3+
+65. Ke2
+66. Qe6+
+67. Kd2
+68. Nc4+
+69. Kc1
+70. Ne3
+71. Rd3
+72. Qxa2 (total capture 16)
+73. Kd2
+74. Bf4
+75. Ke2
+76. Qxb2 (total capture 17)
+77. Rd2
+78. Nxc2 (total capture 18)
+79. Qa5+
+80. Kd7
+81. Qxa7+ (total capture 19)
+
+<ANSWER>: Capture occurred in: 6. Nxc3, 7. dxc3, 12. Nxe5, 20. Nxe3, 21. Qxf7+, 28. Nxg2+, 30. Nxf4, 39. Bxc6, 40. bxc6, 41. Qxe6, 49. Qxh5, 50. gxf3, 53. Rxf2, 54. Rxf2, 55. Kxf2, 72. Qxa2, 76. Qxb2, 78. Nxc2, 81. Qxa7+
+Total 19 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Nc3 f5 d4 fxe4 Nxe4 Nf6 Bg5 exd4 Nxd4 d5 Nxf6+ gxf6 Qh5+ Ke7 Nxc6+ bxc6 Be3 Be6 Bd3 d4 Bf4 Kd7 O-O c5 Rfd1 c6 c3 Bd5 cxd4 cxd4 Bf5+ Be6 Rxd4+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Nc3
+6. f5
+7. d4
+8. fxe4 (total capture 1)
+9. Nxe4 (total capture 2)
+10. Nf6
+11. Bg5
+12. exd4 (total capture 3)
+13. Nxd4 (total capture 4)
+14. d5
+15. Nxf6+ (total capture 5)
+16. gxf6 (total capture 6)
+17. Qh5+
+18. Ke7
+19. Nxc6+ (total capture 7)
+20. bxc6 (total capture 8)
+21. Be3
+22. Be6
+23. Bd3
+24. d4
+25. Bf4
+26. Kd7
+27. O-O
+28. c5
+29. Rfd1
+30. c6
+31. c3
+32. Bd5
+33. cxd4 (total capture 9)
+34. cxd4 (total capture 10)
+35. Bf5+
+36. Be6
+37. Rxd4+ (total capture 11)
+
+<ANSWER>: Capture occurred in: 8. fxe4, 9. Nxe4, 12. exd4, 13. Nxd4, 15. Nxf6+, 16. gxf6, 19. Nxc6+, 20. bxc6, 33. cxd4, 34. cxd4, 37. Rxd4+
+Total 11 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nf3 a6 d4 cxd4 Nxd4 Nf6 e5 Ne4 Bd3 d5 Bxe4 dxe4 Nc3 g6 b3 Bg7 f4 O-O O-O f6 e6 f5 Nce2 Qb6 Bb2 Nc6 c3 Rd8 Kh1 Bxe6 Qe1 Nxd4 Nxd4 Bxd4 cxd4 Rac8 Rd1 Bf7 h3 Rc2 Bc3 Rxa2 Ra1 Rxg2 Kxg2 Bd5 Kg3 Qxb3 Rb1 Qa3 Kh4 b5 Ra1 Qd6 Kg3 Rb8 h4 b4 Rb1 a5 Bd2 Bc4 Rg1 Qxd4 h5 gxh5 Kh4+ Kf7 Qg3 b3 Bc3 Qb6 Qg7+ Ke6 Qe5+ Kd7 Rbd1+ Kc6 Bxa5 Qf2+ Kg5 Rg8+ Kh6 Rg6+ Rxg6+ hxg6 Rc1 b2 Rxc4+ Kb7 Qc7+ Ka6 Rc6+ Kb5 Rb6+ Kxa5 Qa7#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nf3
+4. a6
+5. d4
+6. cxd4 (total capture 1)
+7. Nxd4 (total capture 2)
+8. Nf6
+9. e5
+10. Ne4
+11. Bd3
+12. d5
+13. Bxe4 (total capture 3)
+14. dxe4 (total capture 4)
+15. Nc3
+16. g6
+17. b3
+18. Bg7
+19. f4
+20. O-O
+21. O-O
+22. f6
+23. e6
+24. f5
+25. Nce2
+26. Qb6
+27. Bb2
+28. Nc6
+29. c3
+30. Rd8
+31. Kh1
+32. Bxe6 (total capture 5)
+33. Qe1
+34. Nxd4 (total capture 6)
+35. Nxd4 (total capture 7)
+36. Bxd4 (total capture 8)
+37. cxd4 (total capture 9)
+38. Rac8
+39. Rd1
+40. Bf7
+41. h3
+42. Rc2
+43. Bc3
+44. Rxa2 (total capture 10)
+45. Ra1
+46. Rxg2 (total capture 11)
+47. Kxg2 (total capture 12)
+48. Bd5
+49. Kg3
+50. Qxb3 (total capture 13)
+51. Rb1
+52. Qa3
+53. Kh4
+54. b5
+55. Ra1
+56. Qd6
+57. Kg3
+58. Rb8
+59. h4
+60. b4
+61. Rb1
+62. a5
+63. Bd2
+64. Bc4
+65. Rg1
+66. Qxd4 (total capture 14)
+67. h5
+68. gxh5 (total capture 15)
+69. Kh4+
+70. Kf7
+71. Qg3
+72. b3
+73. Bc3
+74. Qb6
+75. Qg7+
+76. Ke6
+77. Qe5+
+78. Kd7
+79. Rbd1+
+80. Kc6
+81. Bxa5 (total capture 16)
+82. Qf2+
+83. Kg5
+84. Rg8+
+85. Kh6
+86. Rg6+
+87. Rxg6+ (total capture 17)
+88. hxg6 (total capture 18)
+89. Rc1
+90. b2
+91. Rxc4+ (total capture 19)
+92. Kb7
+93. Qc7+
+94. Ka6
+95. Rc6+
+96. Kb5
+97. Rb6+
+98. Kxa5 (total capture 20)
+99. Qa7#
+
+<ANSWER>: Capture occurred in: 6. cxd4, 7. Nxd4, 13. Bxe4, 14. dxe4, 32. Bxe6, 34. Nxd4, 35. Nxd4, 36. Bxd4, 37. cxd4, 44. Rxa2, 46. Rxg2, 47. Kxg2, 50. Qxb3, 66. Qxd4, 68. gxh5, 81. Bxa5, 87. Rxg6+, 88. hxg6, 91. Rxc4+, 98. Kxa5
+Total 20 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nc3 d6 f4 Nc6 Nf3 Nf6 Bb5 Bd7 Bxc6 Bxc6 d3 g6 O-O Bg7 Qe1 O-O f5 b5 fxg6 hxg6 Qh4 b4 Ne2 c4 Ng5 Re8 Rxf6 exf6 Qh7+ Kf8 Nxf7 Kxf7 Bh6 Rg8 Nf4 Qe8 Nxg6 Rb8 Nf4 Rb7 Nh5 Qf8 Nxf6 Rh8 Qf5 Rxh6 Nd7+ Rf6 Qh5+ Ke7 Nxf8 Kxf8 Rf1 Rxf1+ Kxf1 Rf7+ Ke2 cxd3+ Kxd3 Bxb2 Qa5 Bc3 Qd8+ Kg7 Qg5+ Kf8 Qd8+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nc3
+4. d6
+5. f4
+6. Nc6
+7. Nf3
+8. Nf6
+9. Bb5
+10. Bd7
+11. Bxc6 (total capture 1)
+12. Bxc6 (total capture 2)
+13. d3
+14. g6
+15. O-O
+16. Bg7
+17. Qe1
+18. O-O
+19. f5
+20. b5
+21. fxg6 (total capture 3)
+22. hxg6 (total capture 4)
+23. Qh4
+24. b4
+25. Ne2
+26. c4
+27. Ng5
+28. Re8
+29. Rxf6 (total capture 5)
+30. exf6 (total capture 6)
+31. Qh7+
+32. Kf8
+33. Nxf7 (total capture 7)
+34. Kxf7 (total capture 8)
+35. Bh6
+36. Rg8
+37. Nf4
+38. Qe8
+39. Nxg6 (total capture 9)
+40. Rb8
+41. Nf4
+42. Rb7
+43. Nh5
+44. Qf8
+45. Nxf6 (total capture 10)
+46. Rh8
+47. Qf5
+48. Rxh6 (total capture 11)
+49. Nd7+
+50. Rf6
+51. Qh5+
+52. Ke7
+53. Nxf8 (total capture 12)
+54. Kxf8 (total capture 13)
+55. Rf1
+56. Rxf1+ (total capture 14)
+57. Kxf1 (total capture 15)
+58. Rf7+
+59. Ke2
+60. cxd3+ (total capture 16)
+61. Kxd3 (total capture 17)
+62. Bxb2 (total capture 18)
+63. Qa5
+64. Bc3
+65. Qd8+
+66. Kg7
+67. Qg5+
+68. Kf8
+69. Qd8+
+
+<ANSWER>: Capture occurred in: 11. Bxc6, 12. Bxc6, 21. fxg6, 22. hxg6, 29. Rxf6, 30. exf6, 33. Nxf7, 34. Kxf7, 39. Nxg6, 45. Nxf6, 48. Rxh6, 53. Nxf8, 54. Kxf8, 56. Rxf1+, 57. Kxf1, 60. cxd3+, 61. Kxd3, 62. Bxb2
+Total 18 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 h3 Nf6 d3 Bb4+ c3 Ba5 Nxe5 O-O Bg5 h6 Bxf6 gxf6 Ng4 Bxg4 Qxg4+ Kh8 O-O Rg8 Qf4 Qxd3 Qxf6+ Rg7 Qxh6+ Rh7 Qf6+ Rg7 e5 Qc2 Qh4+ Qh7 Qxh7+ Rxh7 Nd2 Rh5 Nf3 Rf8 Rad1 b5 Rfe1 b4 cxb4 Bxb4 Re4 c5 Rd7 Rc8 Rxf7 a5 a3 c4 axb4 axb4 Rxc4 b3 e6 Kg8 Rg4+ Kh8 e7 c5 Rf8+ Rxf8 exf8=Q+ Kh7 Qg7#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Bb5
+6. a6
+7. Bxc6 (total capture 1)
+8. dxc6 (total capture 2)
+9. h3
+10. Nf6
+11. d3
+12. Bb4+
+13. c3
+14. Ba5
+15. Nxe5 (total capture 3)
+16. O-O
+17. Bg5
+18. h6
+19. Bxf6 (total capture 4)
+20. gxf6 (total capture 5)
+21. Ng4
+22. Bxg4 (total capture 6)
+23. Qxg4+ (total capture 7)
+24. Kh8
+25. O-O
+26. Rg8
+27. Qf4
+28. Qxd3 (total capture 8)
+29. Qxf6+ (total capture 9)
+30. Rg7
+31. Qxh6+ (total capture 10)
+32. Rh7
+33. Qf6+
+34. Rg7
+35. e5
+36. Qc2
+37. Qh4+
+38. Qh7
+39. Qxh7+ (total capture 11)
+40. Rxh7 (total capture 12)
+41. Nd2
+42. Rh5
+43. Nf3
+44. Rf8
+45. Rad1
+46. b5
+47. Rfe1
+48. b4
+49. cxb4 (total capture 13)
+50. Bxb4 (total capture 14)
+51. Re4
+52. c5
+53. Rd7
+54. Rc8
+55. Rxf7 (total capture 15)
+56. a5
+57. a3
+58. c4
+59. axb4 (total capture 16)
+60. axb4 (total capture 17)
+61. Rxc4 (total capture 18)
+62. b3
+63. e6
+64. Kg8
+65. Rg4+
+66. Kh8
+67. e7
+68. c5
+69. Rf8+
+70. Rxf8 (total capture 19)
+71. exf8=Q+ (total capture 20)
+72. Kh7
+73. Qg7#
+
+<ANSWER>: Capture occurred in: 7. Bxc6, 8. dxc6, 15. Nxe5, 19. Bxf6, 20. gxf6, 22. Bxg4, 23. Qxg4+, 28. Qxd3, 29. Qxf6+, 31. Qxh6+, 39. Qxh7+, 40. Rxh7, 49. cxb4, 50. Bxb4, 55. Rxf7, 59. axb4, 60. axb4, 61. Rxc4, 70. Rxf8, 71. exf8=Q+
+Total 20 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 d4 Nf6 e5 Nd5 Nf3 Ne7 Bc4 d5 exd6 Qxd6 O-O a6 Nc3 b5 Ne4 Qd8 Be2 Bb7 Nc5 Bc6 c3 Nd5 Bg5 Be7 Bxe7 Qxe7 Ne5 Qd6 a4 bxa4 Ne4 Qd8 Nxc6 Nxc6 Qxa4 Ne7 Bxa6 O-O Qc4 Qd5 Qxd5 Nxd5 Bb7 Rxa1 Rxa1 Nce7 g3 h6 Kg2 Rb8 Ra7 Nc8 Bxc8 Rxc8 Kf3 Rb8 c4 Rb3+ Kg2 Nb6 Rxc7 Rxb2 Nd6 f6 Ne8 g5 Nxf6+ Kh8 Rg7 Kxg7?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. d4
+4. Nf6
+5. e5
+6. Nd5
+7. Nf3
+8. Ne7
+9. Bc4
+10. d5
+11. exd6 (total capture 1)
+12. Qxd6 (total capture 2)
+13. O-O
+14. a6
+15. Nc3
+16. b5
+17. Ne4
+18. Qd8
+19. Be2
+20. Bb7
+21. Nc5
+22. Bc6
+23. c3
+24. Nd5
+25. Bg5
+26. Be7
+27. Bxe7 (total capture 3)
+28. Qxe7 (total capture 4)
+29. Ne5
+30. Qd6
+31. a4
+32. bxa4 (total capture 5)
+33. Ne4
+34. Qd8
+35. Nxc6 (total capture 6)
+36. Nxc6 (total capture 7)
+37. Qxa4 (total capture 8)
+38. Ne7
+39. Bxa6 (total capture 9)
+40. O-O
+41. Qc4
+42. Qd5
+43. Qxd5 (total capture 10)
+44. Nxd5 (total capture 11)
+45. Bb7
+46. Rxa1 (total capture 12)
+47. Rxa1 (total capture 13)
+48. Nce7
+49. g3
+50. h6
+51. Kg2
+52. Rb8
+53. Ra7
+54. Nc8
+55. Bxc8 (total capture 14)
+56. Rxc8 (total capture 15)
+57. Kf3
+58. Rb8
+59. c4
+60. Rb3+
+61. Kg2
+62. Nb6
+63. Rxc7 (total capture 16)
+64. Rxb2 (total capture 17)
+65. Nd6
+66. f6
+67. Ne8
+68. g5
+69. Nxf6+ (total capture 18)
+70. Kh8
+71. Rg7
+72. Kxg7 (total capture 19)
+
+<ANSWER>: Capture occurred in: 11. exd6, 12. Qxd6, 27. Bxe7, 28. Qxe7, 32. bxa4, 35. Nxc6, 36. Nxc6, 37. Qxa4, 39. Bxa6, 43. Qxd5, 44. Nxd5, 46. Rxa1, 47. Rxa1, 55. Bxc8, 56. Rxc8, 63. Rxc7, 64. Rxb2, 69. Nxf6+, 72. Kxg7
+Total 19 pieces were captured."
+How many chess pieces have been captured so far in this game - c3 d5 d4 e5 dxe5 f6 e4 dxe4 Qxd8+ Kxd8 Nd2 Bf5 Ne2 Nd7 Nd4 g6 exf6 Ngxf6 Nc4 a6 Ne3 Ne5 Nexf5 gxf5 Bg5 Be7 Nxf5 Rg8 h4 Ke8 O-O-O Kf7 Be2 Ke6 Nd4+ Kf7 Nf5 Ke6 Nxe7 Kxe7 f4 exf3 gxf3 Rad8 f4 Rxd1+ Rxd1 Nd7 Rxd7+ Kxd7 Bxf6 Rg2 Bd3 Ke6 Bg5 h5 Bg6 c5 Bxh5 b5 Bg6 c4 f5+ Ke5 f6 Rg1+ Kd2 Rg2+ Ke3?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. c3
+2. d5
+3. d4
+4. e5
+5. dxe5 (total capture 1)
+6. f6
+7. e4
+8. dxe4 (total capture 2)
+9. Qxd8+ (total capture 3)
+10. Kxd8 (total capture 4)
+11. Nd2
+12. Bf5
+13. Ne2
+14. Nd7
+15. Nd4
+16. g6
+17. exf6 (total capture 5)
+18. Ngxf6 (total capture 6)
+19. Nc4
+20. a6
+21. Ne3
+22. Ne5
+23. Nexf5 (total capture 7)
+24. gxf5 (total capture 8)
+25. Bg5
+26. Be7
+27. Nxf5 (total capture 9)
+28. Rg8
+29. h4
+30. Ke8
+31. O-O-O
+32. Kf7
+33. Be2
+34. Ke6
+35. Nd4+
+36. Kf7
+37. Nf5
+38. Ke6
+39. Nxe7 (total capture 10)
+40. Kxe7 (total capture 11)
+41. f4
+42. exf3 (total capture 12)
+43. gxf3 (total capture 13)
+44. Rad8
+45. f4
+46. Rxd1+ (total capture 14)
+47. Rxd1 (total capture 15)
+48. Nd7
+49. Rxd7+ (total capture 16)
+50. Kxd7 (total capture 17)
+51. Bxf6 (total capture 18)
+52. Rg2
+53. Bd3
+54. Ke6
+55. Bg5
+56. h5
+57. Bg6
+58. c5
+59. Bxh5 (total capture 19)
+60. b5
+61. Bg6
+62. c4
+63. f5+
+64. Ke5
+65. f6
+66. Rg1+
+67. Kd2
+68. Rg2+
+69. Ke3
+
+<ANSWER>: Capture occurred in: 5. dxe5, 8. dxe4, 9. Qxd8+, 10. Kxd8, 17. exf6, 18. Ngxf6, 23. Nexf5, 24. gxf5, 27. Nxf5, 39. Nxe7, 40. Kxe7, 42. exf3, 43. gxf3, 46. Rxd1+, 47. Rxd1, 49. Rxd7+, 50. Kxd7, 51. Bxf6, 59. Bxh5
+Total 19 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nf3 e6 d4 cxd4 Nxd4 Qc7 Be3 a6 Nc3 Bb4 a3 Bxc3+ bxc3 Qxc3+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nf3
+4. e6
+5. d4
+6. cxd4 (total capture 1)
+7. Nxd4 (total capture 2)
+8. Qc7
+9. Be3
+10. a6
+11. Nc3
+12. Bb4
+13. a3
+14. Bxc3+ (total capture 3)
+15. bxc3 (total capture 4)
+16. Qxc3+ (total capture 5)
+
+<ANSWER>: Capture occurred in: 6. cxd4, 7. Nxd4, 14. Bxc3+, 15. bxc3, 16. Qxc3+
+Total 5 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bc4 Qc7 Bb3 b5 Be3 Bb7 Qe2 e6 O-O-O b4 Na4 Bc6 Nxc6 Nxc6 Bb6 Qb7 f4 Be7 e5 dxe5 fxe5 Nd7 Qf2 O-O Rhf1 Ndxe5 Qg3 Bd8 Bc5 Be7 Bxe7 Qxe7 Nb6 Rab8 Nc4 Qc5 Nd6 Nd4 Rfe1 Nxb3+ axb3 f6 Qh3 Rfd8 Qxe6+ Kh8 Rxe5?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nf3
+4. d6
+5. d4
+6. cxd4 (total capture 1)
+7. Nxd4 (total capture 2)
+8. Nf6
+9. Nc3
+10. a6
+11. Bc4
+12. Qc7
+13. Bb3
+14. b5
+15. Be3
+16. Bb7
+17. Qe2
+18. e6
+19. O-O-O
+20. b4
+21. Na4
+22. Bc6
+23. Nxc6 (total capture 3)
+24. Nxc6 (total capture 4)
+25. Bb6
+26. Qb7
+27. f4
+28. Be7
+29. e5
+30. dxe5 (total capture 5)
+31. fxe5 (total capture 6)
+32. Nd7
+33. Qf2
+34. O-O
+35. Rhf1
+36. Ndxe5 (total capture 7)
+37. Qg3
+38. Bd8
+39. Bc5
+40. Be7
+41. Bxe7 (total capture 8)
+42. Qxe7 (total capture 9)
+43. Nb6
+44. Rab8
+45. Nc4
+46. Qc5
+47. Nd6
+48. Nd4
+49. Rfe1
+50. Nxb3+ (total capture 10)
+51. axb3 (total capture 11)
+52. f6
+53. Qh3
+54. Rfd8
+55. Qxe6+ (total capture 12)
+56. Kh8
+57. Rxe5 (total capture 13)
+
+<ANSWER>: Capture occurred in: 6. cxd4, 7. Nxd4, 23. Nxc6, 24. Nxc6, 30. dxe5, 31. fxe5, 36. Ndxe5, 41. Bxe7, 42. Qxe7, 50. Nxb3+, 51. axb3, 55. Qxe6+, 57. Rxe5
+Total 13 pieces were captured."
+How many chess pieces have been captured so far in this game - c4 e6 g3 d5 cxd5 exd5 Bg2 Nf6 Nc3 Be6 Nf3 Be7 d3 O-O Bf4 Nh5 Qd2 Nxf4 Qxf4 Bb4 Qxb4?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. c4
+2. e6
+3. g3
+4. d5
+5. cxd5 (total capture 1)
+6. exd5 (total capture 2)
+7. Bg2
+8. Nf6
+9. Nc3
+10. Be6
+11. Nf3
+12. Be7
+13. d3
+14. O-O
+15. Bf4
+16. Nh5
+17. Qd2
+18. Nxf4 (total capture 3)
+19. Qxf4 (total capture 4)
+20. Bb4
+21. Qxb4 (total capture 5)
+
+<ANSWER>: Capture occurred in: 5. cxd5, 6. exd5, 18. Nxf4, 19. Qxf4, 21. Qxb4
+Total 5 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 d4 cxd4 c3 dxc3 Nxc3 Nc6 Nf3 d6 Bc4 e6 Qe2 Nf6 O-O Be7 Rd1 O-O Bb3 Qc7 Bf4 e5 Bg5 Bg4 Bxf6 Bxf6 Nb5 Qe7 h3 Bh5 g4 Bg6 Nxd6 Rad8 Nf5 Rxd1+ Rxd1 Bxf5 exf5 e4 Nd2 Rd8 Nxe4 Rxd1+ Bxd1 Nd4 Qe3 Qb4 b3 Qa3 Nxf6+ gxf6 Qxd4 Qxa2 Qxf6 Qb1 Qd8+ Kg7 Kg2 Qe4+ Bf3 Qb4 f6+ Kg6 Qh8 Qxb3 Qg7#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. d4
+4. cxd4 (total capture 1)
+5. c3
+6. dxc3 (total capture 2)
+7. Nxc3 (total capture 3)
+8. Nc6
+9. Nf3
+10. d6
+11. Bc4
+12. e6
+13. Qe2
+14. Nf6
+15. O-O
+16. Be7
+17. Rd1
+18. O-O
+19. Bb3
+20. Qc7
+21. Bf4
+22. e5
+23. Bg5
+24. Bg4
+25. Bxf6 (total capture 4)
+26. Bxf6 (total capture 5)
+27. Nb5
+28. Qe7
+29. h3
+30. Bh5
+31. g4
+32. Bg6
+33. Nxd6 (total capture 6)
+34. Rad8
+35. Nf5
+36. Rxd1+ (total capture 7)
+37. Rxd1 (total capture 8)
+38. Bxf5 (total capture 9)
+39. exf5 (total capture 10)
+40. e4
+41. Nd2
+42. Rd8
+43. Nxe4 (total capture 11)
+44. Rxd1+ (total capture 12)
+45. Bxd1 (total capture 13)
+46. Nd4
+47. Qe3
+48. Qb4
+49. b3
+50. Qa3
+51. Nxf6+ (total capture 14)
+52. gxf6 (total capture 15)
+53. Qxd4 (total capture 16)
+54. Qxa2 (total capture 17)
+55. Qxf6 (total capture 18)
+56. Qb1
+57. Qd8+
+58. Kg7
+59. Kg2
+60. Qe4+
+61. Bf3
+62. Qb4
+63. f6+
+64. Kg6
+65. Qh8
+66. Qxb3 (total capture 19)
+67. Qg7#
+
+<ANSWER>: Capture occurred in: 4. cxd4, 6. dxc3, 7. Nxc3, 25. Bxf6, 26. Bxf6, 33. Nxd6, 36. Rxd1+, 37. Rxd1, 38. Bxf5, 39. exf5, 43. Nxe4, 44. Rxd1+, 45. Bxd1, 51. Nxf6+, 52. gxf6, 53. Qxd4, 54. Qxa2, 55. Qxf6, 66. Qxb3
+Total 19 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 Nf6 c4 e6 Nf3 d5 Bg5 Be7 cxd5 exd5 Nc3 O-O e3 c6 Qc2 Nbd7 Bd3 h6 Bh4 Nb6 O-O Be6 Ne5 Nh5 Bxe7 Qxe7 f4 Nd7 Nxd7 Bxd7 Qe2 Nf6 Rae1 Rfe8 Qd2 Qd6 Bb1 Re7 Qd3 g6 a3 Bf5 Qd1 Bxb1 Qxb1 Rae8 Rf3 a6 f5 g5 Qd3 c5 dxc5 Qxc5 b4 Qc4 Qd2 d4 Nd1 dxe3 Rfxe3 Rxe3 Rxe3 Rxe3 Qxe3 Qd5 Qf3 Qd4+ Kh1 Kg7 h3 g4 hxg4 Nxg4 g3 h5 Kg2 Qd2+ Kg1 Qd4+ Kg2 Kf6 Kh3 Qg1?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. Nf6
+3. c4
+4. e6
+5. Nf3
+6. d5
+7. Bg5
+8. Be7
+9. cxd5 (total capture 1)
+10. exd5 (total capture 2)
+11. Nc3
+12. O-O
+13. e3
+14. c6
+15. Qc2
+16. Nbd7
+17. Bd3
+18. h6
+19. Bh4
+20. Nb6
+21. O-O
+22. Be6
+23. Ne5
+24. Nh5
+25. Bxe7 (total capture 3)
+26. Qxe7 (total capture 4)
+27. f4
+28. Nd7
+29. Nxd7 (total capture 5)
+30. Bxd7 (total capture 6)
+31. Qe2
+32. Nf6
+33. Rae1
+34. Rfe8
+35. Qd2
+36. Qd6
+37. Bb1
+38. Re7
+39. Qd3
+40. g6
+41. a3
+42. Bf5
+43. Qd1
+44. Bxb1 (total capture 7)
+45. Qxb1 (total capture 8)
+46. Rae8
+47. Rf3
+48. a6
+49. f5
+50. g5
+51. Qd3
+52. c5
+53. dxc5 (total capture 9)
+54. Qxc5 (total capture 10)
+55. b4
+56. Qc4
+57. Qd2
+58. d4
+59. Nd1
+60. dxe3 (total capture 11)
+61. Rfxe3 (total capture 12)
+62. Rxe3 (total capture 13)
+63. Rxe3 (total capture 14)
+64. Rxe3 (total capture 15)
+65. Qxe3 (total capture 16)
+66. Qd5
+67. Qf3
+68. Qd4+
+69. Kh1
+70. Kg7
+71. h3
+72. g4
+73. hxg4 (total capture 17)
+74. Nxg4 (total capture 18)
+75. g3
+76. h5
+77. Kg2
+78. Qd2+
+79. Kg1
+80. Qd4+
+81. Kg2
+82. Kf6
+83. Kh3
+84. Qg1
+
+<ANSWER>: Capture occurred in: 9. cxd5, 10. exd5, 25. Bxe7, 26. Qxe7, 29. Nxd7, 30. Bxd7, 44. Bxb1, 45. Qxb1, 53. dxc5, 54. Qxc5, 60. dxe3, 61. Rfxe3, 62. Rxe3, 63. Rxe3, 64. Rxe3, 65. Qxe3, 73. hxg4, 74. Nxg4
+Total 18 pieces were captured."
+How many chess pieces have been captured so far in this game - b3 e5 Bb2 Nc6 e3 Nf6 Bb5 Bd6 Ne2 O-O O-O a6 Bxc6 dxc6 d3 Re8 h3 Nd5 c4 Nf6 Ng3 Bf8 Qc2 g6 Nd2 Bg7 Rad1 c5 f4 exf4 exf4 b6 Nde4 Bb7 f5 Rf8 Qf2 Nxe4 dxe4 Qe8 Bxg7 Kxg7 Qf4 Qc6 Rd5 f6 h4 Rae8 fxg6 hxg6 h5 g5 Qf5 Re7 Qg6+ Kh8 Qh6+ Kg8 Rxg5+ Kf7 Qg6+ Ke6 Rd5 Qe8 Qg4+ Kf7 Rxf6+ Kxf6 Rf5+ Ke6 Rxf8+ Kd6 Nf5+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. b3
+2. e5
+3. Bb2
+4. Nc6
+5. e3
+6. Nf6
+7. Bb5
+8. Bd6
+9. Ne2
+10. O-O
+11. O-O
+12. a6
+13. Bxc6 (total capture 1)
+14. dxc6 (total capture 2)
+15. d3
+16. Re8
+17. h3
+18. Nd5
+19. c4
+20. Nf6
+21. Ng3
+22. Bf8
+23. Qc2
+24. g6
+25. Nd2
+26. Bg7
+27. Rad1
+28. c5
+29. f4
+30. exf4 (total capture 3)
+31. exf4 (total capture 4)
+32. b6
+33. Nde4
+34. Bb7
+35. f5
+36. Rf8
+37. Qf2
+38. Nxe4 (total capture 5)
+39. dxe4 (total capture 6)
+40. Qe8
+41. Bxg7 (total capture 7)
+42. Kxg7 (total capture 8)
+43. Qf4
+44. Qc6
+45. Rd5
+46. f6
+47. h4
+48. Rae8
+49. fxg6 (total capture 9)
+50. hxg6 (total capture 10)
+51. h5
+52. g5
+53. Qf5
+54. Re7
+55. Qg6+
+56. Kh8
+57. Qh6+
+58. Kg8
+59. Rxg5+ (total capture 11)
+60. Kf7
+61. Qg6+
+62. Ke6
+63. Rd5
+64. Qe8
+65. Qg4+
+66. Kf7
+67. Rxf6+ (total capture 12)
+68. Kxf6 (total capture 13)
+69. Rf5+
+70. Ke6
+71. Rxf8+ (total capture 14)
+72. Kd6
+73. Nf5+
+
+<ANSWER>: Capture occurred in: 13. Bxc6, 14. dxc6, 30. exf4, 31. exf4, 38. Nxe4, 39. dxe4, 41. Bxg7, 42. Kxg7, 49. fxg6, 50. hxg6, 59. Rxg5+, 67. Rxf6+, 68. Kxf6, 71. Rxf8+
+Total 14 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Be2 O-O Bg5 h6 Be3 e5 d5 a5 Qd2 Kh7 c5 Na6 cxd6 cxd6 f3 b6 Rc1 Nc5 b3 Nh5 Nb5 Ba6 Bc4 f5 exf5 gxf5 Ne2 Qe7 a4 Rae8 O-O f4 Bf2 Kh8 Qc2 e4 Bxc5 bxc5 Qxe4 Qxe4 fxe4 Bxb5 axb5 Rxe4 Bd3 Re3 Rf3 Be5 Rc4 Kg7 Kf2 Nf6 Nxf4 Rxf3+ gxf3 Bxf4 Rxf4 Nxd5 Re4 Nb6 Rg4+ Kf7 Rg6 Rd8 Be4 a4 bxa4 Nxa4 Bf5 c4 Bc2 Nc5 Rxh6 d5 h4 Ne6 b6 d4 Bf5 Ng7 Bg4 d3 f4 c3 b7 d2 Rc6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. Nf6
+3. c4
+4. g6
+5. Nc3
+6. Bg7
+7. e4
+8. d6
+9. Be2
+10. O-O
+11. Bg5
+12. h6
+13. Be3
+14. e5
+15. d5
+16. a5
+17. Qd2
+18. Kh7
+19. c5
+20. Na6
+21. cxd6 (total capture 1)
+22. cxd6 (total capture 2)
+23. f3
+24. b6
+25. Rc1
+26. Nc5
+27. b3
+28. Nh5
+29. Nb5
+30. Ba6
+31. Bc4
+32. f5
+33. exf5 (total capture 3)
+34. gxf5 (total capture 4)
+35. Ne2
+36. Qe7
+37. a4
+38. Rae8
+39. O-O
+40. f4
+41. Bf2
+42. Kh8
+43. Qc2
+44. e4
+45. Bxc5 (total capture 5)
+46. bxc5 (total capture 6)
+47. Qxe4 (total capture 7)
+48. Qxe4 (total capture 8)
+49. fxe4 (total capture 9)
+50. Bxb5 (total capture 10)
+51. axb5 (total capture 11)
+52. Rxe4 (total capture 12)
+53. Bd3
+54. Re3
+55. Rf3
+56. Be5
+57. Rc4
+58. Kg7
+59. Kf2
+60. Nf6
+61. Nxf4 (total capture 13)
+62. Rxf3+ (total capture 14)
+63. gxf3 (total capture 15)
+64. Bxf4 (total capture 16)
+65. Rxf4 (total capture 17)
+66. Nxd5 (total capture 18)
+67. Re4
+68. Nb6
+69. Rg4+
+70. Kf7
+71. Rg6
+72. Rd8
+73. Be4
+74. a4
+75. bxa4 (total capture 19)
+76. Nxa4 (total capture 20)
+77. Bf5
+78. c4
+79. Bc2
+80. Nc5
+81. Rxh6 (total capture 21)
+82. d5
+83. h4
+84. Ne6
+85. b6
+86. d4
+87. Bf5
+88. Ng7
+89. Bg4
+90. d3
+91. f4
+92. c3
+93. b7
+94. d2
+95. Rc6
+
+<ANSWER>: Capture occurred in: 21. cxd6, 22. cxd6, 33. exf5, 34. gxf5, 45. Bxc5, 46. bxc5, 47. Qxe4, 48. Qxe4, 49. fxe4, 50. Bxb5, 51. axb5, 52. Rxe4, 61. Nxf4, 62. Rxf3+, 63. gxf3, 64. Bxf4, 65. Rxf4, 66. Nxd5, 75. bxa4, 76. Nxa4, 81. Rxh6
+Total 21 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Qf3 Nf6 d3 Bc5 Bg5 d6 h3 O-O Nc3 Bb4 Ne2 Nc6 O-O-O Qe8 Bxf6 gxf6 Nd5 Kh8 Qxf6+ Kg8 Qh6 Qe6 Qg5+ Qg6 Qe7 Nxe7 Nxe7+ Kg7 Nxg6 Kxg6 d4 exd4 Nxd4 Re8 Bd3 Kg7 Nf5+ Bxf5 exf5 Kh8 f6 Re6 c3 Bc5 f4 Rxf6 Rhf1 Be3+ Kb1 Bxf4 g3 Bg5 Rxf6 Bxf6 Rf1 Kg7 g4 Re8 Rg1 Bh4 Kc2 c5 g5 d5 c4 dxc4 Bxc4 f6 gxf6+ Kxf6 Rg4 Bf2 Rf4+ Kg7 Rxf2 Kg6 h4 h5 Rg2+ Kh6 Bf7 Re7 Bd5 b5 Bf3 a5 Rg5 Kh7 Rxh5+ Kg8 Rxc5 b4 Rxa5 Rb7 Bxb7?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Qf3
+4. Nf6
+5. d3
+6. Bc5
+7. Bg5
+8. d6
+9. h3
+10. O-O
+11. Nc3
+12. Bb4
+13. Ne2
+14. Nc6
+15. O-O-O
+16. Qe8
+17. Bxf6 (total capture 1)
+18. gxf6 (total capture 2)
+19. Nd5
+20. Kh8
+21. Qxf6+ (total capture 3)
+22. Kg8
+23. Qh6
+24. Qe6
+25. Qg5+
+26. Qg6
+27. Qe7
+28. Nxe7 (total capture 4)
+29. Nxe7+ (total capture 5)
+30. Kg7
+31. Nxg6 (total capture 6)
+32. Kxg6 (total capture 7)
+33. d4
+34. exd4 (total capture 8)
+35. Nxd4 (total capture 9)
+36. Re8
+37. Bd3
+38. Kg7
+39. Nf5+
+40. Bxf5 (total capture 10)
+41. exf5 (total capture 11)
+42. Kh8
+43. f6
+44. Re6
+45. c3
+46. Bc5
+47. f4
+48. Rxf6 (total capture 12)
+49. Rhf1
+50. Be3+
+51. Kb1
+52. Bxf4 (total capture 13)
+53. g3
+54. Bg5
+55. Rxf6 (total capture 14)
+56. Bxf6 (total capture 15)
+57. Rf1
+58. Kg7
+59. g4
+60. Re8
+61. Rg1
+62. Bh4
+63. Kc2
+64. c5
+65. g5
+66. d5
+67. c4
+68. dxc4 (total capture 16)
+69. Bxc4 (total capture 17)
+70. f6
+71. gxf6+ (total capture 18)
+72. Kxf6 (total capture 19)
+73. Rg4
+74. Bf2
+75. Rf4+
+76. Kg7
+77. Rxf2 (total capture 20)
+78. Kg6
+79. h4
+80. h5
+81. Rg2+
+82. Kh6
+83. Bf7
+84. Re7
+85. Bd5
+86. b5
+87. Bf3
+88. a5
+89. Rg5
+90. Kh7
+91. Rxh5+ (total capture 21)
+92. Kg8
+93. Rxc5 (total capture 22)
+94. b4
+95. Rxa5 (total capture 23)
+96. Rb7
+97. Bxb7 (total capture 24)
+
+<ANSWER>: Capture occurred in: 17. Bxf6, 18. gxf6, 21. Qxf6+, 28. Nxe7, 29. Nxe7+, 31. Nxg6, 32. Kxg6, 34. exd4, 35. Nxd4, 40. Bxf5, 41. exf5, 48. Rxf6, 52. Bxf4, 55. Rxf6, 56. Bxf6, 68. dxc4, 69. Bxc4, 71. gxf6+, 72. Kxf6, 77. Rxf2, 91. Rxh5+, 93. Rxc5, 95. Rxa5, 97. Bxb7
+Total 24 pieces were captured."
+How many chess pieces have been captured so far in this game - f4 d5 Nf3 e5 fxe5 Nc6 e3 Nge7 d4 Ng6 h4 Bg4 h5 Bxf3 Qxf3 Nge7 c4 Nb4 Na3 g6 hxg6 Nxg6 Bd2 Qe7 cxd5 O-O-O Bc4 h5 Bc3 h4 e4 Qg5 Rf1 h3 gxh3 Nh4 Qg4+ Qxg4 hxg4 Ng2+ Kf2 Rh2 Kg3 Rh7 Kxg2 Be7 d6 cxd6 Bxb4?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. f4
+2. d5
+3. Nf3
+4. e5
+5. fxe5 (total capture 1)
+6. Nc6
+7. e3
+8. Nge7
+9. d4
+10. Ng6
+11. h4
+12. Bg4
+13. h5
+14. Bxf3 (total capture 2)
+15. Qxf3 (total capture 3)
+16. Nge7
+17. c4
+18. Nb4
+19. Na3
+20. g6
+21. hxg6 (total capture 4)
+22. Nxg6 (total capture 5)
+23. Bd2
+24. Qe7
+25. cxd5 (total capture 6)
+26. O-O-O
+27. Bc4
+28. h5
+29. Bc3
+30. h4
+31. e4
+32. Qg5
+33. Rf1
+34. h3
+35. gxh3 (total capture 7)
+36. Nh4
+37. Qg4+
+38. Qxg4 (total capture 8)
+39. hxg4 (total capture 9)
+40. Ng2+
+41. Kf2
+42. Rh2
+43. Kg3
+44. Rh7
+45. Kxg2 (total capture 10)
+46. Be7
+47. d6
+48. cxd6 (total capture 11)
+49. Bxb4 (total capture 12)
+
+<ANSWER>: Capture occurred in: 5. fxe5, 14. Bxf3, 15. Qxf3, 21. hxg6, 22. Nxg6, 25. cxd5, 35. gxh3, 38. Qxg4, 39. hxg4, 45. Kxg2, 48. cxd6, 49. Bxb4
+Total 12 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Bc4 h6 Nc3 Nf6 d3 Bc5 O-O O-O Bxh6 gxh6 Nh4 d6 Qf3 Kh7 Nf5 Bxf5 Qxf5+ Kh8 Qh3 h5 g4 Rg8 Kh1 Rxg4 Bxf7 Qf8 Bxh5 Rg7 Rg1 Bxf2 Rxg7 Qxg7 Rf1 Bb6 Rg1 Qxg1#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Bc4
+6. h6
+7. Nc3
+8. Nf6
+9. d3
+10. Bc5
+11. O-O
+12. O-O
+13. Bxh6 (total capture 1)
+14. gxh6 (total capture 2)
+15. Nh4
+16. d6
+17. Qf3
+18. Kh7
+19. Nf5
+20. Bxf5 (total capture 3)
+21. Qxf5+ (total capture 4)
+22. Kh8
+23. Qh3
+24. h5
+25. g4
+26. Rg8
+27. Kh1
+28. Rxg4 (total capture 5)
+29. Bxf7 (total capture 6)
+30. Qf8
+31. Bxh5 (total capture 7)
+32. Rg7
+33. Rg1
+34. Bxf2 (total capture 8)
+35. Rxg7 (total capture 9)
+36. Qxg7 (total capture 10)
+37. Rf1
+38. Bb6
+39. Rg1
+40. Qxg1# (total capture 11)
+
+<ANSWER>: Capture occurred in: 13. Bxh6, 14. gxh6, 20. Bxf5, 21. Qxf5+, 28. Rxg4, 29. Bxf7, 31. Bxh5, 34. Bxf2, 35. Rxg7, 36. Qxg7, 40. Qxg1#
+Total 11 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 Nf6 c4 d5 Nf3 Bg4 h3 Bh5 g4 Bg6 Ne5 Be4 f3 Bg6 Nxg6 hxg6 Bg5 e6 Nc3 Bb4 a3 Bxc3+ bxc3 Nbd7 cxd5 exd5 e4 dxe4 fxe4 Qc8 e5 Nd5 Qb3 N5b6 Bg2 O-O O-O c6 Be7 Re8 Qxf7+ Kh7 Be4 Nf8 Bxf8 Rxf8 Qxg6+ Kg8 Qh7#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. Nf6
+3. c4
+4. d5
+5. Nf3
+6. Bg4
+7. h3
+8. Bh5
+9. g4
+10. Bg6
+11. Ne5
+12. Be4
+13. f3
+14. Bg6
+15. Nxg6 (total capture 1)
+16. hxg6 (total capture 2)
+17. Bg5
+18. e6
+19. Nc3
+20. Bb4
+21. a3
+22. Bxc3+ (total capture 3)
+23. bxc3 (total capture 4)
+24. Nbd7
+25. cxd5 (total capture 5)
+26. exd5 (total capture 6)
+27. e4
+28. dxe4 (total capture 7)
+29. fxe4 (total capture 8)
+30. Qc8
+31. e5
+32. Nd5
+33. Qb3
+34. N5b6
+35. Bg2
+36. O-O
+37. O-O
+38. c6
+39. Be7
+40. Re8
+41. Qxf7+ (total capture 9)
+42. Kh7
+43. Be4
+44. Nf8
+45. Bxf8 (total capture 10)
+46. Rxf8 (total capture 11)
+47. Qxg6+ (total capture 12)
+48. Kg8
+49. Qh7#
+
+<ANSWER>: Capture occurred in: 15. Nxg6, 16. hxg6, 22. Bxc3+, 23. bxc3, 25. cxd5, 26. exd5, 28. dxe4, 29. fxe4, 41. Qxf7+, 45. Bxf8, 46. Rxf8, 47. Qxg6+
+Total 12 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nf6 Nxe5 Nxe4 Qf3 Be7 Qxf7#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nf6
+5. Nxe5 (total capture 1)
+6. Nxe4 (total capture 2)
+7. Qf3
+8. Be7
+9. Qxf7# (total capture 3)
+
+<ANSWER>: Capture occurred in: 5. Nxe5, 6. Nxe4, 9. Qxf7#
+Total 3 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 b6 e4 Bb7 Bd3 Nf6 Nf3 Nxe4 O-O Nf6 Nc3 e6 Re1 Be7 Bf4 O-O a3 Nd5 Nxd5 Bxd5 c4 Bb7 d5 exd5 cxd5 Bxd5 Bxh7+ Kxh7 Qxd5 Nc6 Rxe7 Qxe7 Qh5+ Kg8 Ng5 Qxg5 Qxg5 Rae8 Qd5 Re7 Bxc7 Rfe8 h4 Ne5 Bxe5 Rxe5 Qxd7 a5 Rc1 Kh7 Qxf7 Re2 Rc7 Rg8 Qh5#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. b6
+3. e4
+4. Bb7
+5. Bd3
+6. Nf6
+7. Nf3
+8. Nxe4 (total capture 1)
+9. O-O
+10. Nf6
+11. Nc3
+12. e6
+13. Re1
+14. Be7
+15. Bf4
+16. O-O
+17. a3
+18. Nd5
+19. Nxd5 (total capture 2)
+20. Bxd5 (total capture 3)
+21. c4
+22. Bb7
+23. d5
+24. exd5 (total capture 4)
+25. cxd5 (total capture 5)
+26. Bxd5 (total capture 6)
+27. Bxh7+ (total capture 7)
+28. Kxh7 (total capture 8)
+29. Qxd5 (total capture 9)
+30. Nc6
+31. Rxe7 (total capture 10)
+32. Qxe7 (total capture 11)
+33. Qh5+
+34. Kg8
+35. Ng5
+36. Qxg5 (total capture 12)
+37. Qxg5 (total capture 13)
+38. Rae8
+39. Qd5
+40. Re7
+41. Bxc7 (total capture 14)
+42. Rfe8
+43. h4
+44. Ne5
+45. Bxe5 (total capture 15)
+46. Rxe5 (total capture 16)
+47. Qxd7 (total capture 17)
+48. a5
+49. Rc1
+50. Kh7
+51. Qxf7 (total capture 18)
+52. Re2
+53. Rc7
+54. Rg8
+55. Qh5#
+
+<ANSWER>: Capture occurred in: 8. Nxe4, 19. Nxd5, 20. Bxd5, 24. exd5, 25. cxd5, 26. Bxd5, 27. Bxh7+, 28. Kxh7, 29. Qxd5, 31. Rxe7, 32. Qxe7, 36. Qxg5, 37. Qxg5, 41. Bxc7, 45. Bxe5, 46. Rxe5, 47. Qxd7, 51. Qxf7
+Total 18 pieces were captured."
+How many chess pieces have been captured so far in this game - c4 g5 Nc3 Bg7 h3 e6 d4 d5 e3 Bd7 cxd5 Qf6 Nf3 Ne7 dxe6 Bxe6 Qa4+ Nbc6 Ne4 Qf5 Bd3 Qa5+ Qxa5 Nxa5 O-O O-O-O b4 Nac6 b5 Nb4 Ba3 Nxd3 Bxe7 Rd7 Bf6 Rg8 Bxg7 Rxg7 Nf6 Re7 Rad1 Bc4 Nh5 Rg6 Rc1 Bxb5 d5 Ne5 d6 Rd7 Nxe5 Rdxd6 Nxg6 Bxf1 Ne7+ Kb8 Kxf1 Re6 Nd5 Rd6 Nxc7 Rd7 Nb5 Rd5 Nc7 Rd7 Nb5 a6 Nd4 a5 Nf6 Rd6 Nxh7 Ka7 Nxg5 Ka6 Nxf7 Rd5 g4 b5 Rc6+ Kb7 Rf6 b4 g5 a4 g6 Rh5 g7?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. c4
+2. g5
+3. Nc3
+4. Bg7
+5. h3
+6. e6
+7. d4
+8. d5
+9. e3
+10. Bd7
+11. cxd5 (total capture 1)
+12. Qf6
+13. Nf3
+14. Ne7
+15. dxe6 (total capture 2)
+16. Bxe6 (total capture 3)
+17. Qa4+
+18. Nbc6
+19. Ne4
+20. Qf5
+21. Bd3
+22. Qa5+
+23. Qxa5 (total capture 4)
+24. Nxa5 (total capture 5)
+25. O-O
+26. O-O-O
+27. b4
+28. Nac6
+29. b5
+30. Nb4
+31. Ba3
+32. Nxd3 (total capture 6)
+33. Bxe7 (total capture 7)
+34. Rd7
+35. Bf6
+36. Rg8
+37. Bxg7 (total capture 8)
+38. Rxg7 (total capture 9)
+39. Nf6
+40. Re7
+41. Rad1
+42. Bc4
+43. Nh5
+44. Rg6
+45. Rc1
+46. Bxb5 (total capture 10)
+47. d5
+48. Ne5
+49. d6
+50. Rd7
+51. Nxe5 (total capture 11)
+52. Rdxd6 (total capture 12)
+53. Nxg6 (total capture 13)
+54. Bxf1 (total capture 14)
+55. Ne7+
+56. Kb8
+57. Kxf1 (total capture 15)
+58. Re6
+59. Nd5
+60. Rd6
+61. Nxc7 (total capture 16)
+62. Rd7
+63. Nb5
+64. Rd5
+65. Nc7
+66. Rd7
+67. Nb5
+68. a6
+69. Nd4
+70. a5
+71. Nf6
+72. Rd6
+73. Nxh7 (total capture 17)
+74. Ka7
+75. Nxg5 (total capture 18)
+76. Ka6
+77. Nxf7 (total capture 19)
+78. Rd5
+79. g4
+80. b5
+81. Rc6+
+82. Kb7
+83. Rf6
+84. b4
+85. g5
+86. a4
+87. g6
+88. Rh5
+89. g7
+
+<ANSWER>: Capture occurred in: 11. cxd5, 15. dxe6, 16. Bxe6, 23. Qxa5, 24. Nxa5, 32. Nxd3, 33. Bxe7, 37. Bxg7, 38. Rxg7, 46. Bxb5, 51. Nxe5, 52. Rdxd6, 53. Nxg6, 54. Bxf1, 57. Kxf1, 61. Nxc7, 73. Nxh7, 75. Nxg5, 77. Nxf7
+Total 19 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 f4 exf4 Bc4 Qh4+ Kf1 Nf6 Nf3 Qh5 Nc3 Bb4 d3 O-O Bxf4 d6 Ne2 Bg4 Ng3 Bxf3 Nxh5 Bxd1 Nxf6+ gxf6 Rxd1 Nc6 c3 Bc5 d4 Bb6 Kf2 Ne5 h3 Nxc4 b3 Ne5 g4 Ng6 Bg3 Rfe8 Kf3 Re7 h4 Rae8 Rhe1 c5 h5 cxd4 hxg6 fxg6 cxd4 Bc7 d5 Kf7 Rc1 b6 Rc4 Bb8 Rh1 Kg8 Rhc1 f5 gxf5 gxf5 exf5 Re3+ Kf4 Re2 f6 Rxa2 Rc8 Re2 Kf5 Kf7 Rxe8 Rxe8 Bf4 a5 Rg1 Rg8 Rxg8 Kxg8 Ke6 Kf8 Bh6+ Ke8 f7+ Kd8 f8=Q+ Kc7 Qe7+ Kc8 Qd7#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. f4
+4. exf4 (total capture 1)
+5. Bc4
+6. Qh4+
+7. Kf1
+8. Nf6
+9. Nf3
+10. Qh5
+11. Nc3
+12. Bb4
+13. d3
+14. O-O
+15. Bxf4 (total capture 2)
+16. d6
+17. Ne2
+18. Bg4
+19. Ng3
+20. Bxf3 (total capture 3)
+21. Nxh5 (total capture 4)
+22. Bxd1 (total capture 5)
+23. Nxf6+ (total capture 6)
+24. gxf6 (total capture 7)
+25. Rxd1 (total capture 8)
+26. Nc6
+27. c3
+28. Bc5
+29. d4
+30. Bb6
+31. Kf2
+32. Ne5
+33. h3
+34. Nxc4 (total capture 9)
+35. b3
+36. Ne5
+37. g4
+38. Ng6
+39. Bg3
+40. Rfe8
+41. Kf3
+42. Re7
+43. h4
+44. Rae8
+45. Rhe1
+46. c5
+47. h5
+48. cxd4 (total capture 10)
+49. hxg6 (total capture 11)
+50. fxg6 (total capture 12)
+51. cxd4 (total capture 13)
+52. Bc7
+53. d5
+54. Kf7
+55. Rc1
+56. b6
+57. Rc4
+58. Bb8
+59. Rh1
+60. Kg8
+61. Rhc1
+62. f5
+63. gxf5 (total capture 14)
+64. gxf5 (total capture 15)
+65. exf5 (total capture 16)
+66. Re3+
+67. Kf4
+68. Re2
+69. f6
+70. Rxa2 (total capture 17)
+71. Rc8
+72. Re2
+73. Kf5
+74. Kf7
+75. Rxe8 (total capture 18)
+76. Rxe8 (total capture 19)
+77. Bf4
+78. a5
+79. Rg1
+80. Rg8
+81. Rxg8 (total capture 20)
+82. Kxg8 (total capture 21)
+83. Ke6
+84. Kf8
+85. Bh6+
+86. Ke8
+87. f7+
+88. Kd8
+89. f8=Q+
+90. Kc7
+91. Qe7+
+92. Kc8
+93. Qd7#
+
+<ANSWER>: Capture occurred in: 4. exf4, 15. Bxf4, 20. Bxf3, 21. Nxh5, 22. Bxd1, 23. Nxf6+, 24. gxf6, 25. Rxd1, 34. Nxc4, 48. cxd4, 49. hxg6, 50. fxg6, 51. cxd4, 63. gxf5, 64. gxf5, 65. exf5, 70. Rxa2, 75. Rxe8, 76. Rxe8, 81. Rxg8, 82. Kxg8
+Total 21 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 O-O Nf6 Nxe5 Qd4 Nf3 Qxe4 Re1 Bc5 Rxe4+ Nxe4 d4 Bb6 Qe1 Bf5 Nh4 g6 Nc3 O-O Nxe4 Bxd4 Nxf5 gxf5 Ng5 Rfe8 Qd1 Rad8 Bd2 Bxb2 Rb1 Bc3 Qh5 Rd7 Qxh7+ Kf8 Bxc3 Re2 Bb4+ Rde7 Qh8#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Bb5
+6. a6
+7. Bxc6 (total capture 1)
+8. dxc6 (total capture 2)
+9. O-O
+10. Nf6
+11. Nxe5 (total capture 3)
+12. Qd4
+13. Nf3
+14. Qxe4 (total capture 4)
+15. Re1
+16. Bc5
+17. Rxe4+ (total capture 5)
+18. Nxe4 (total capture 6)
+19. d4
+20. Bb6
+21. Qe1
+22. Bf5
+23. Nh4
+24. g6
+25. Nc3
+26. O-O
+27. Nxe4 (total capture 7)
+28. Bxd4 (total capture 8)
+29. Nxf5 (total capture 9)
+30. gxf5 (total capture 10)
+31. Ng5
+32. Rfe8
+33. Qd1
+34. Rad8
+35. Bd2
+36. Bxb2 (total capture 11)
+37. Rb1
+38. Bc3
+39. Qh5
+40. Rd7
+41. Qxh7+ (total capture 12)
+42. Kf8
+43. Bxc3 (total capture 13)
+44. Re2
+45. Bb4+
+46. Rde7
+47. Qh8#
+
+<ANSWER>: Capture occurred in: 7. Bxc6, 8. dxc6, 11. Nxe5, 14. Qxe4, 17. Rxe4+, 18. Nxe4, 27. Nxe4, 28. Bxd4, 29. Nxf5, 30. gxf5, 36. Bxb2, 41. Qxh7+, 43. Bxc3
+Total 13 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 d4 d5 e5 c5 c3 Nc6 Bb5 Bd7 Bxc6 Bxc6 Be3 cxd4 cxd4 Bb4+ Nc3 Ne7 Ne2 O-O Bg5 Qc7 O-O Nf5 Rc1 h6 Bf4 b6 Ng3 Nxg3 fxg3 Qe7 Qg4 f5 Qf3 b5 g4 Qh4 gxf5 Rxf5 Ne2 Be8 g4 Rf8 Kh1 Bg6 Ng3 Be4 Nxe4 dxe4 Qxe4 Qxg4 Rf3 Bd2 Rg1 Qh4 Rgf1 Bxf4 Rxf4 Qe7 d5 Rxf4 Rxf4 Rc8 Rf1 Rc4 d6 Qd7 Qa8+ Rc8 Qf3 Qc6 Qxc6 Rxc6 d7?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. d4
+4. d5
+5. e5
+6. c5
+7. c3
+8. Nc6
+9. Bb5
+10. Bd7
+11. Bxc6 (total capture 1)
+12. Bxc6 (total capture 2)
+13. Be3
+14. cxd4 (total capture 3)
+15. cxd4 (total capture 4)
+16. Bb4+
+17. Nc3
+18. Ne7
+19. Ne2
+20. O-O
+21. Bg5
+22. Qc7
+23. O-O
+24. Nf5
+25. Rc1
+26. h6
+27. Bf4
+28. b6
+29. Ng3
+30. Nxg3 (total capture 5)
+31. fxg3 (total capture 6)
+32. Qe7
+33. Qg4
+34. f5
+35. Qf3
+36. b5
+37. g4
+38. Qh4
+39. gxf5 (total capture 7)
+40. Rxf5 (total capture 8)
+41. Ne2
+42. Be8
+43. g4
+44. Rf8
+45. Kh1
+46. Bg6
+47. Ng3
+48. Be4
+49. Nxe4 (total capture 9)
+50. dxe4 (total capture 10)
+51. Qxe4 (total capture 11)
+52. Qxg4 (total capture 12)
+53. Rf3
+54. Bd2
+55. Rg1
+56. Qh4
+57. Rgf1
+58. Bxf4 (total capture 13)
+59. Rxf4 (total capture 14)
+60. Qe7
+61. d5
+62. Rxf4 (total capture 15)
+63. Rxf4 (total capture 16)
+64. Rc8
+65. Rf1
+66. Rc4
+67. d6
+68. Qd7
+69. Qa8+
+70. Rc8
+71. Qf3
+72. Qc6
+73. Qxc6 (total capture 17)
+74. Rxc6 (total capture 18)
+75. d7
+
+<ANSWER>: Capture occurred in: 11. Bxc6, 12. Bxc6, 14. cxd4, 15. cxd4, 30. Nxg3, 31. fxg3, 39. gxf5, 40. Rxf5, 49. Nxe4, 50. dxe4, 51. Qxe4, 52. Qxg4, 58. Bxf4, 59. Rxf4, 62. Rxf4, 63. Rxf4, 73. Qxc6, 74. Rxc6
+Total 18 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c6 Nf3 d5 e5 f6 d4 h6 a3 Bf5 Bd3 Bxd3 Qxd3 e6 Qg6+ Kd7 Nc3 Ne7 Qd3 Na6 b4 Kc7 O-O Rc8 b5 cxb5 Nxb5+ Kb8 Rb1 Nc6 Nd6 Bxd6 exd6 Qxd6 Qxa6 Nd8 Qd3 e5 dxe5 fxe5 Nh4 e4 Qd4 Nc6 Qb2 Na5 Bd2 b6 Bxa5 g5 Nf5 Qf6 Bc3 Qxf5 Bxh8 Rxh8 Qxh8+ Kb7 Qg7+ Ka6 Qxh6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c6
+3. Nf3
+4. d5
+5. e5
+6. f6
+7. d4
+8. h6
+9. a3
+10. Bf5
+11. Bd3
+12. Bxd3 (total capture 1)
+13. Qxd3 (total capture 2)
+14. e6
+15. Qg6+
+16. Kd7
+17. Nc3
+18. Ne7
+19. Qd3
+20. Na6
+21. b4
+22. Kc7
+23. O-O
+24. Rc8
+25. b5
+26. cxb5 (total capture 3)
+27. Nxb5+ (total capture 4)
+28. Kb8
+29. Rb1
+30. Nc6
+31. Nd6
+32. Bxd6 (total capture 5)
+33. exd6 (total capture 6)
+34. Qxd6 (total capture 7)
+35. Qxa6 (total capture 8)
+36. Nd8
+37. Qd3
+38. e5
+39. dxe5 (total capture 9)
+40. fxe5 (total capture 10)
+41. Nh4
+42. e4
+43. Qd4
+44. Nc6
+45. Qb2
+46. Na5
+47. Bd2
+48. b6
+49. Bxa5 (total capture 11)
+50. g5
+51. Nf5
+52. Qf6
+53. Bc3
+54. Qxf5 (total capture 12)
+55. Bxh8 (total capture 13)
+56. Rxh8 (total capture 14)
+57. Qxh8+ (total capture 15)
+58. Kb7
+59. Qg7+
+60. Ka6
+61. Qxh6 (total capture 16)
+
+<ANSWER>: Capture occurred in: 12. Bxd3, 13. Qxd3, 26. cxb5, 27. Nxb5+, 32. Bxd6, 33. exd6, 34. Qxd6, 35. Qxa6, 39. dxe5, 40. fxe5, 49. Bxa5, 54. Qxf5, 55. Bxh8, 56. Rxh8, 57. Qxh8+, 61. Qxh6
+Total 16 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 d4 exd4 Bc4 d6 c3 dxc3 Nxc3 Be6 Nd5 Be7 O-O Nf6 Re1 O-O Bd2 Bxd5 exd5 Nb8 Bb3 Nbd7 Bc3 Nc5 Bc2 Qd7 b4 Na6 Qd3 g6 Qe3 Rae8 Qh6 Kh8 Ng5 Nxb4 Qxh7#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. d4
+6. exd4 (total capture 1)
+7. Bc4
+8. d6
+9. c3
+10. dxc3 (total capture 2)
+11. Nxc3 (total capture 3)
+12. Be6
+13. Nd5
+14. Be7
+15. O-O
+16. Nf6
+17. Re1
+18. O-O
+19. Bd2
+20. Bxd5 (total capture 4)
+21. exd5 (total capture 5)
+22. Nb8
+23. Bb3
+24. Nbd7
+25. Bc3
+26. Nc5
+27. Bc2
+28. Qd7
+29. b4
+30. Na6
+31. Qd3
+32. g6
+33. Qe3
+34. Rae8
+35. Qh6
+36. Kh8
+37. Ng5
+38. Nxb4 (total capture 6)
+39. Qxh7# (total capture 7)
+
+<ANSWER>: Capture occurred in: 6. exd4, 10. dxc3, 11. Nxc3, 20. Bxd5, 21. exd5, 38. Nxb4, 39. Qxh7#
+Total 7 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Nf3 Nc6 Bc4 e6 d3 Nf6 Nc3 Nd4 a3 Be7 Be3 d5 Ba2 Nxf3+ Qxf3 d4 e5 Nd5 Nxd5 exd5 Bf4 Be6 O-O-O O-O g4 f6 exf6 Rxf6 g5 Rf5 Rde1 Bxg5 Bxg5 Qxg5+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Nf3
+4. Nc6
+5. Bc4
+6. e6
+7. d3
+8. Nf6
+9. Nc3
+10. Nd4
+11. a3
+12. Be7
+13. Be3
+14. d5
+15. Ba2
+16. Nxf3+ (total capture 1)
+17. Qxf3 (total capture 2)
+18. d4
+19. e5
+20. Nd5
+21. Nxd5 (total capture 3)
+22. exd5 (total capture 4)
+23. Bf4
+24. Be6
+25. O-O-O
+26. O-O
+27. g4
+28. f6
+29. exf6 (total capture 5)
+30. Rxf6 (total capture 6)
+31. g5
+32. Rf5
+33. Rde1
+34. Bxg5 (total capture 7)
+35. Bxg5 (total capture 8)
+36. Qxg5+ (total capture 9)
+
+<ANSWER>: Capture occurred in: 16. Nxf3+, 17. Qxf3, 21. Nxd5, 22. exd5, 29. exf6, 30. Rxf6, 34. Bxg5, 35. Bxg5, 36. Qxg5+
+Total 9 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 e5 Nf3 exd4 Nxd4 Qh4 g3 Qe4 f3 Qe7 Nc3 d5 e4 dxe4 fxe4 f5 Bd3 fxe4 Bxe4 Nf6 Qe2 Nxe4 Nxe4 Qb4+ c3 Qb6 b3 Nc6 Be3 Ne5 Nf3 Qc6 Nxe5 Qxe4 Nc4 Qxh1+ Kf2 Qxa1 Bd4+ Be7 a4 O-O+ Kg2 c5 Be5 b6 Nb2 a6 c4 Bd7 Qc2 Qf1#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. e5
+3. Nf3
+4. exd4 (total capture 1)
+5. Nxd4 (total capture 2)
+6. Qh4
+7. g3
+8. Qe4
+9. f3
+10. Qe7
+11. Nc3
+12. d5
+13. e4
+14. dxe4 (total capture 3)
+15. fxe4 (total capture 4)
+16. f5
+17. Bd3
+18. fxe4 (total capture 5)
+19. Bxe4 (total capture 6)
+20. Nf6
+21. Qe2
+22. Nxe4 (total capture 7)
+23. Nxe4 (total capture 8)
+24. Qb4+
+25. c3
+26. Qb6
+27. b3
+28. Nc6
+29. Be3
+30. Ne5
+31. Nf3
+32. Qc6
+33. Nxe5 (total capture 9)
+34. Qxe4 (total capture 10)
+35. Nc4
+36. Qxh1+ (total capture 11)
+37. Kf2
+38. Qxa1 (total capture 12)
+39. Bd4+
+40. Be7
+41. a4
+42. O-O+
+43. Kg2
+44. c5
+45. Be5
+46. b6
+47. Nb2
+48. a6
+49. c4
+50. Bd7
+51. Qc2
+52. Qf1#
+
+<ANSWER>: Capture occurred in: 4. exd4, 5. Nxd4, 14. dxe4, 15. fxe4, 18. fxe4, 19. Bxe4, 22. Nxe4, 23. Nxe4, 33. Nxe5, 34. Qxe4, 36. Qxh1+, 38. Qxa1
+Total 12 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 d4 exd4 Bc4 Be7 Nxd4 Nxd4 Qxd4 Nf6 e5 c5 Qf4 d5 exf6 Bxf6 Bb5+ Bd7 Bxd7+ Qxd7 O-O O-O Nd2 Bg5 Qg3 h6 Nf3 Bxc1 Raxc1 Qa4 a3 Qb5 b3 Qa6 a4 c4 Rfd1 cxb3 cxb3 Rad8 Nd4 Qf6 Qf3 Qg5 Qf5 Qh4 Nf3 Qe4 Qxe4 dxe4 Nd2 f5 Kf1 Rd3 Ke2 Rfd8 Rc7 f4 Re7 f3+ gxf3 exf3+ Ke1 g5 Re3 g4 Rxd3 Rxd3 Ne4 Rxb3 Nf6+ Kg7 Nxg4 h5 Ne5 Ra3 Rd7+ Kf6 Rxb7 Kxe5 Rb4 Ra1+ Kd2 Rh1 Rh4 Ra1 Rxh5+ Kf4 Rh4+ Kg5 Rb4 a5 Rb5+ Kf4 Rxa5 Ke4 Rh5 Ra2+ Ke1 Kd3 Rd5+ Ke4 Rd2 Ra1+ Rd1 Rxa4 Rc1 Kf4 Kd2 Ra2+ Rc2 Ra8 Rc4+ Kf5 Ke3 Ra3+ Kd2 Ra2+ Rc2 Ra3 Rc3 Rxc3 Kxc3 Kg4 Kd3 Kh3 Ke3 Kxh2 Kxf3 Kh3 Ke4 Kh4 f4 Kh5 Ke5 Kh6 Ke6 Kh7 Ke7 Kg8 f5?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. d4
+6. exd4 (total capture 1)
+7. Bc4
+8. Be7
+9. Nxd4 (total capture 2)
+10. Nxd4 (total capture 3)
+11. Qxd4 (total capture 4)
+12. Nf6
+13. e5
+14. c5
+15. Qf4
+16. d5
+17. exf6 (total capture 5)
+18. Bxf6 (total capture 6)
+19. Bb5+
+20. Bd7
+21. Bxd7+ (total capture 7)
+22. Qxd7 (total capture 8)
+23. O-O
+24. O-O
+25. Nd2
+26. Bg5
+27. Qg3
+28. h6
+29. Nf3
+30. Bxc1 (total capture 9)
+31. Raxc1 (total capture 10)
+32. Qa4
+33. a3
+34. Qb5
+35. b3
+36. Qa6
+37. a4
+38. c4
+39. Rfd1
+40. cxb3 (total capture 11)
+41. cxb3 (total capture 12)
+42. Rad8
+43. Nd4
+44. Qf6
+45. Qf3
+46. Qg5
+47. Qf5
+48. Qh4
+49. Nf3
+50. Qe4
+51. Qxe4 (total capture 13)
+52. dxe4 (total capture 14)
+53. Nd2
+54. f5
+55. Kf1
+56. Rd3
+57. Ke2
+58. Rfd8
+59. Rc7
+60. f4
+61. Re7
+62. f3+
+63. gxf3 (total capture 15)
+64. exf3+ (total capture 16)
+65. Ke1
+66. g5
+67. Re3
+68. g4
+69. Rxd3 (total capture 17)
+70. Rxd3 (total capture 18)
+71. Ne4
+72. Rxb3 (total capture 19)
+73. Nf6+
+74. Kg7
+75. Nxg4 (total capture 20)
+76. h5
+77. Ne5
+78. Ra3
+79. Rd7+
+80. Kf6
+81. Rxb7 (total capture 21)
+82. Kxe5 (total capture 22)
+83. Rb4
+84. Ra1+
+85. Kd2
+86. Rh1
+87. Rh4
+88. Ra1
+89. Rxh5+ (total capture 23)
+90. Kf4
+91. Rh4+
+92. Kg5
+93. Rb4
+94. a5
+95. Rb5+
+96. Kf4
+97. Rxa5 (total capture 24)
+98. Ke4
+99. Rh5
+100. Ra2+
+101. Ke1
+102. Kd3
+103. Rd5+
+104. Ke4
+105. Rd2
+106. Ra1+
+107. Rd1
+108. Rxa4 (total capture 25)
+109. Rc1
+110. Kf4
+111. Kd2
+112. Ra2+
+113. Rc2
+114. Ra8
+115. Rc4+
+116. Kf5
+117. Ke3
+118. Ra3+
+119. Kd2
+120. Ra2+
+121. Rc2
+122. Ra3
+123. Rc3
+124. Rxc3 (total capture 26)
+125. Kxc3 (total capture 27)
+126. Kg4
+127. Kd3
+128. Kh3
+129. Ke3
+130. Kxh2 (total capture 28)
+131. Kxf3 (total capture 29)
+132. Kh3
+133. Ke4
+134. Kh4
+135. f4
+136. Kh5
+137. Ke5
+138. Kh6
+139. Ke6
+140. Kh7
+141. Ke7
+142. Kg8
+143. f5
+
+<ANSWER>: Capture occurred in: 6. exd4, 9. Nxd4, 10. Nxd4, 11. Qxd4, 17. exf6, 18. Bxf6, 21. Bxd7+, 22. Qxd7, 30. Bxc1, 31. Raxc1, 40. cxb3, 41. cxb3, 51. Qxe4, 52. dxe4, 63. gxf3, 64. exf3+, 69. Rxd3, 70. Rxd3, 72. Rxb3, 75. Nxg4, 81. Rxb7, 82. Kxe5, 89. Rxh5+, 97. Rxa5, 108. Rxa4, 124. Rxc3, 125. Kxc3, 130. Kxh2, 131. Kxf3
+Total 29 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 d6 d4 Qd7 Bc4 c6 Nf3 d5 exd5 cxd5 Bb3 b6 Ne5 Qd8 O-O e6 Ba4+ b5 Bxb5+ Ke7 a3 a6 Ba4 Qb6 b4 Qxd4 Qxd4 Bb7 Qb6 Nd7 Qxb7 Rc8 Qxd7+ Kf6 Ng4+ Kf5 Ne3+ Kf6 Qxc8 Bxb4 axb4 Nh6 Qxh8 Nf5 Ng4+ Ke7 Qxh7 Kd6 Bf4+ Ke7 Ne5 Nd6 Qg8 d4 Nf3 d3 cxd3 Nf5 Qe8+ Kf6 Be5+ Kg6 Qf8 Nh6 Qxg7+ Kh5 Be8 Nf5 Qg5#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. d6
+3. d4
+4. Qd7
+5. Bc4
+6. c6
+7. Nf3
+8. d5
+9. exd5 (total capture 1)
+10. cxd5 (total capture 2)
+11. Bb3
+12. b6
+13. Ne5
+14. Qd8
+15. O-O
+16. e6
+17. Ba4+
+18. b5
+19. Bxb5+ (total capture 3)
+20. Ke7
+21. a3
+22. a6
+23. Ba4
+24. Qb6
+25. b4
+26. Qxd4 (total capture 4)
+27. Qxd4 (total capture 5)
+28. Bb7
+29. Qb6
+30. Nd7
+31. Qxb7 (total capture 6)
+32. Rc8
+33. Qxd7+ (total capture 7)
+34. Kf6
+35. Ng4+
+36. Kf5
+37. Ne3+
+38. Kf6
+39. Qxc8 (total capture 8)
+40. Bxb4 (total capture 9)
+41. axb4 (total capture 10)
+42. Nh6
+43. Qxh8 (total capture 11)
+44. Nf5
+45. Ng4+
+46. Ke7
+47. Qxh7 (total capture 12)
+48. Kd6
+49. Bf4+
+50. Ke7
+51. Ne5
+52. Nd6
+53. Qg8
+54. d4
+55. Nf3
+56. d3
+57. cxd3 (total capture 13)
+58. Nf5
+59. Qe8+
+60. Kf6
+61. Be5+
+62. Kg6
+63. Qf8
+64. Nh6
+65. Qxg7+ (total capture 14)
+66. Kh5
+67. Be8
+68. Nf5
+69. Qg5#
+
+<ANSWER>: Capture occurred in: 9. exd5, 10. cxd5, 19. Bxb5+, 26. Qxd4, 27. Qxd4, 31. Qxb7, 33. Qxd7+, 39. Qxc8, 40. Bxb4, 41. axb4, 43. Qxh8, 47. Qxh7, 57. cxd3, 65. Qxg7+
+Total 14 pieces were captured."
+How many chess pieces have been captured so far in this game - e3 c5 d4 e6 Nc3 Nc6 Nf3 d5 e4 Bd6 Bb5 Ne7 Bxc6+ Nxc6 Nb5 Qa5+ c3 Qxb5 a4 Qc4 Nd2 Qa6 b4 cxb4 c4 dxc4 O-O Nxd4 Rb1 c3 Nb3 Ne2+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e3
+2. c5
+3. d4
+4. e6
+5. Nc3
+6. Nc6
+7. Nf3
+8. d5
+9. e4
+10. Bd6
+11. Bb5
+12. Ne7
+13. Bxc6+ (total capture 1)
+14. Nxc6 (total capture 2)
+15. Nb5
+16. Qa5+
+17. c3
+18. Qxb5 (total capture 3)
+19. a4
+20. Qc4
+21. Nd2
+22. Qa6
+23. b4
+24. cxb4 (total capture 4)
+25. c4
+26. dxc4 (total capture 5)
+27. O-O
+28. Nxd4 (total capture 6)
+29. Rb1
+30. c3
+31. Nb3
+32. Ne2+
+
+<ANSWER>: Capture occurred in: 13. Bxc6+, 14. Nxc6, 18. Qxb5, 24. cxb4, 26. dxc4, 28. Nxd4
+Total 6 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Bc4 Nf6 d3 Nc6 Nf3 Nd4 Nxe5 Bb4+ c3 Bd6 Nxf7?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Bc4
+4. Nf6
+5. d3
+6. Nc6
+7. Nf3
+8. Nd4
+9. Nxe5 (total capture 1)
+10. Bb4+
+11. c3
+12. Bd6
+13. Nxf7 (total capture 2)
+
+<ANSWER>: Capture occurred in: 9. Nxe5, 13. Nxf7
+Total 2 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 Nf3 Be7 d4 c6 Nc3 Nf6 Bc4 O-O O-O Qc7 d5 Ng4 dxe6 dxe6 Bd2 Bd6 Bg5 Bxh2+ Nxh2 Qxh2#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. Nf3
+4. Be7
+5. d4
+6. c6
+7. Nc3
+8. Nf6
+9. Bc4
+10. O-O
+11. O-O
+12. Qc7
+13. d5
+14. Ng4
+15. dxe6 (total capture 1)
+16. dxe6 (total capture 2)
+17. Bd2
+18. Bd6
+19. Bg5
+20. Bxh2+ (total capture 3)
+21. Nxh2 (total capture 4)
+22. Qxh2# (total capture 5)
+
+<ANSWER>: Capture occurred in: 15. dxe6, 16. dxe6, 20. Bxh2+, 21. Nxh2, 22. Qxh2#
+Total 5 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Bc4 d6 Ng5 Qxg5 d3 Qxg2 Rf1 g6 Bg5 Qxg5 Nc3 a6 Qe2 Nf6 Nd5 Nxd5 Bxd5 Bg7 c3 O-O Rh1 Bg4 f3 Qh4+ Kd1 Be6 f4 Bxd5 exd5 Ne7 d4 Nf5 fxe5 Rae8 e6 fxe6 dxe6 Ne7 Kc2 Rf2?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Bc4
+6. d6
+7. Ng5
+8. Qxg5 (total capture 1)
+9. d3
+10. Qxg2 (total capture 2)
+11. Rf1
+12. g6
+13. Bg5
+14. Qxg5 (total capture 3)
+15. Nc3
+16. a6
+17. Qe2
+18. Nf6
+19. Nd5
+20. Nxd5 (total capture 4)
+21. Bxd5 (total capture 5)
+22. Bg7
+23. c3
+24. O-O
+25. Rh1
+26. Bg4
+27. f3
+28. Qh4+
+29. Kd1
+30. Be6
+31. f4
+32. Bxd5 (total capture 6)
+33. exd5 (total capture 7)
+34. Ne7
+35. d4
+36. Nf5
+37. fxe5 (total capture 8)
+38. Rae8
+39. e6
+40. fxe6 (total capture 9)
+41. dxe6 (total capture 10)
+42. Ne7
+43. Kc2
+44. Rf2
+
+<ANSWER>: Capture occurred in: 8. Qxg5, 10. Qxg2, 14. Qxg5, 20. Nxd5, 21. Bxd5, 32. Bxd5, 33. exd5, 37. fxe5, 40. fxe6, 41. dxe6
+Total 10 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 d6 Bc4 Be7 d4 Nf6 dxe5 dxe5 Qxd8+ Bxd8 Nxe5 O-O Bg5 Nc6 Nxc6 bxc6 e5 Nd5 Bxd5 cxd5 Bxd8 Rxd8 Nc3 Rb8 O-O-O c6 Ne4 Re8 Nd6 Rxe5 Rhe1 Rxe1 Rxe1 Be6 f4 g6 h3 Rd8 Nb7 Rd7 Nc5 Re7 g4 Kf8 f5 gxf5 gxf5 Bxf5 Rxe7 Kxe7 h4 Bg4 Kd2 f5 Ke3 h5 Kf4 Kd6 Nd3 c5 Ne5 Ke6 c3 c4 Nxg4 hxg4 Kg5 g3 h5 g2 h6 g1=Q+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. d6
+5. Bc4
+6. Be7
+7. d4
+8. Nf6
+9. dxe5 (total capture 1)
+10. dxe5 (total capture 2)
+11. Qxd8+ (total capture 3)
+12. Bxd8 (total capture 4)
+13. Nxe5 (total capture 5)
+14. O-O
+15. Bg5
+16. Nc6
+17. Nxc6 (total capture 6)
+18. bxc6 (total capture 7)
+19. e5
+20. Nd5
+21. Bxd5 (total capture 8)
+22. cxd5 (total capture 9)
+23. Bxd8 (total capture 10)
+24. Rxd8 (total capture 11)
+25. Nc3
+26. Rb8
+27. O-O-O
+28. c6
+29. Ne4
+30. Re8
+31. Nd6
+32. Rxe5 (total capture 12)
+33. Rhe1
+34. Rxe1 (total capture 13)
+35. Rxe1 (total capture 14)
+36. Be6
+37. f4
+38. g6
+39. h3
+40. Rd8
+41. Nb7
+42. Rd7
+43. Nc5
+44. Re7
+45. g4
+46. Kf8
+47. f5
+48. gxf5 (total capture 15)
+49. gxf5 (total capture 16)
+50. Bxf5 (total capture 17)
+51. Rxe7 (total capture 18)
+52. Kxe7 (total capture 19)
+53. h4
+54. Bg4
+55. Kd2
+56. f5
+57. Ke3
+58. h5
+59. Kf4
+60. Kd6
+61. Nd3
+62. c5
+63. Ne5
+64. Ke6
+65. c3
+66. c4
+67. Nxg4 (total capture 20)
+68. hxg4 (total capture 21)
+69. Kg5
+70. g3
+71. h5
+72. g2
+73. h6
+74. g1=Q+
+
+<ANSWER>: Capture occurred in: 9. dxe5, 10. dxe5, 11. Qxd8+, 12. Bxd8, 13. Nxe5, 17. Nxc6, 18. bxc6, 21. Bxd5, 22. cxd5, 23. Bxd8, 24. Rxd8, 32. Rxe5, 34. Rxe1, 35. Rxe1, 48. gxf5, 49. gxf5, 50. Bxf5, 51. Rxe7, 52. Kxe7, 67. Nxg4, 68. hxg4
+Total 21 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 Nf6 c4 d5 cxd5 Nxd5 e4 Nf6 Nc3 c6 Nf3 Bg4 Be2 e6 O-O Be7 Bg5 O-O a3 Nbd7 Qc2 h6 Be3 Rc8 Rab1 b6 Bf4 c5 Rbd1 Qe8 d5 exd5 exd5 Nh5 Be3 Bd6 Nb5 Bb8 d6 a6 Nc3 b5 h3 Be6 a4 b4 Bxa6 bxc3 Qxc3 Rc6 Bb5 Rxd6 Bxc5 Nxc5 Bxe8?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. Nf6
+3. c4
+4. d5
+5. cxd5 (total capture 1)
+6. Nxd5 (total capture 2)
+7. e4
+8. Nf6
+9. Nc3
+10. c6
+11. Nf3
+12. Bg4
+13. Be2
+14. e6
+15. O-O
+16. Be7
+17. Bg5
+18. O-O
+19. a3
+20. Nbd7
+21. Qc2
+22. h6
+23. Be3
+24. Rc8
+25. Rab1
+26. b6
+27. Bf4
+28. c5
+29. Rbd1
+30. Qe8
+31. d5
+32. exd5 (total capture 3)
+33. exd5 (total capture 4)
+34. Nh5
+35. Be3
+36. Bd6
+37. Nb5
+38. Bb8
+39. d6
+40. a6
+41. Nc3
+42. b5
+43. h3
+44. Be6
+45. a4
+46. b4
+47. Bxa6 (total capture 5)
+48. bxc3 (total capture 6)
+49. Qxc3 (total capture 7)
+50. Rc6
+51. Bb5
+52. Rxd6 (total capture 8)
+53. Bxc5 (total capture 9)
+54. Nxc5 (total capture 10)
+55. Bxe8 (total capture 11)
+
+<ANSWER>: Capture occurred in: 5. cxd5, 6. Nxd5, 32. exd5, 33. exd5, 47. Bxa6, 48. bxc3, 49. Qxc3, 52. Rxd6, 53. Bxc5, 54. Nxc5, 55. Bxe8
+Total 11 pieces were captured."
+How many chess pieces have been captured so far in this game - c4 f5?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. c4
+2. f5
+
+<ANSWER>: Capture occurred in
+Total 0 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 d4 d5 e5 c5 c3 Nc6 Nf3 cxd4 cxd4 Nge7 Nc3 Nf5 Bb5 Be7 Be3 Bd7 Bxc6 Bxc6 Qd2 O-O g4 Nxe3 Qxe3 Qb6 O-O-O f6 h4 Rac8 g5 fxe5 Nxe5 Bb5 f4 Bd6 h5 Bxe5 Qxe5 Rf5 Qe3 Rcf8 Rdf1 Bxf1 Rxf1 Qa6 Rf2 b5 g6 Rxh5 gxh7+ Rxh7 Qd3 Rh4 Qg3 Rh1+ Kd2 b4 Ne2 Qxa2 Rg2 Qxb2+ Ke3 Qb3+ Kf2 Qxg3+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. d4
+4. d5
+5. e5
+6. c5
+7. c3
+8. Nc6
+9. Nf3
+10. cxd4 (total capture 1)
+11. cxd4 (total capture 2)
+12. Nge7
+13. Nc3
+14. Nf5
+15. Bb5
+16. Be7
+17. Be3
+18. Bd7
+19. Bxc6 (total capture 3)
+20. Bxc6 (total capture 4)
+21. Qd2
+22. O-O
+23. g4
+24. Nxe3 (total capture 5)
+25. Qxe3 (total capture 6)
+26. Qb6
+27. O-O-O
+28. f6
+29. h4
+30. Rac8
+31. g5
+32. fxe5 (total capture 7)
+33. Nxe5 (total capture 8)
+34. Bb5
+35. f4
+36. Bd6
+37. h5
+38. Bxe5 (total capture 9)
+39. Qxe5 (total capture 10)
+40. Rf5
+41. Qe3
+42. Rcf8
+43. Rdf1
+44. Bxf1 (total capture 11)
+45. Rxf1 (total capture 12)
+46. Qa6
+47. Rf2
+48. b5
+49. g6
+50. Rxh5 (total capture 13)
+51. gxh7+ (total capture 14)
+52. Rxh7 (total capture 15)
+53. Qd3
+54. Rh4
+55. Qg3
+56. Rh1+
+57. Kd2
+58. b4
+59. Ne2
+60. Qxa2 (total capture 16)
+61. Rg2
+62. Qxb2+ (total capture 17)
+63. Ke3
+64. Qb3+
+65. Kf2
+66. Qxg3+ (total capture 18)
+
+<ANSWER>: Capture occurred in: 10. cxd4, 11. cxd4, 19. Bxc6, 20. Bxc6, 24. Nxe3, 25. Qxe3, 32. fxe5, 33. Nxe5, 38. Bxe5, 39. Qxe5, 44. Bxf1, 45. Rxf1, 50. Rxh5, 51. gxh7+, 52. Rxh7, 60. Qxa2, 62. Qxb2+, 66. Qxg3+
+Total 18 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 d3 Nc6 c3 Nf6 Bg5 d5 Bxf6 gxf6 f3 d4 c4 Bb4+ Nd2 f5 a3 Bxd2+ Qxd2 fxe4 fxe4 Bg4 Qh6 Qe7 Qg7 O-O-O Qxg4+ Kb8 b4 Rdg8 Qd1 Qh4+ g3 Rxg3 Nf3 Rxf3+ Kd2 Qf2+ Qe2 Qxe2+ Bxe2 Re3 Rhg1 Ne7 Rg2 Ng6 Rag1 b6 Bh5 Nf4 Rg5 Ng6 h4 f6 R5g4 Rf8 Bxg6 hxg6 Rxg6 Rh3 R1g4 Rh2+ Kc1 Kb7 Rh6 c5 b5 a6 a4 Rh1+ Kb2 Rf7 h5 Rh3 Kc2 axb5 axb5 Kc7 Rh8 Kd7 h6 Ke7 Rgg8 Kd7 Rd8+ Kc7 Rc8+ Kd7 Rc6 f5 exf5 Rh2+ Kb3 Rxf5 Rxb6 Rf3 Rh7+ Kc8 Rc6+ Kd8 Rh8+ Kd7 Rxc5 Rxd3+ Kb4 Rb2+ Ka5 Ra3+ Kb6 Ke6 h7 Rh2 Re8+ Kf5 Rcxe5+ Kf4 Re4+ Kf5 R4e7 Rh6+ Kb7 Raa6 h8=Q Rhb6+ Kc8 Ra8+ Kd7 Rb7+ Kc6 Rxe7 Rxa8 Ke6 Qh6+ Kf7 Qf8+ Ke6 Re8 Rxe8 Qxe8+ Kf6 b6 d3 b7 d2 b8=Q d1=Q Qbe5#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. d3
+4. Nc6
+5. c3
+6. Nf6
+7. Bg5
+8. d5
+9. Bxf6 (total capture 1)
+10. gxf6 (total capture 2)
+11. f3
+12. d4
+13. c4
+14. Bb4+
+15. Nd2
+16. f5
+17. a3
+18. Bxd2+ (total capture 3)
+19. Qxd2 (total capture 4)
+20. fxe4 (total capture 5)
+21. fxe4 (total capture 6)
+22. Bg4
+23. Qh6
+24. Qe7
+25. Qg7
+26. O-O-O
+27. Qxg4+ (total capture 7)
+28. Kb8
+29. b4
+30. Rdg8
+31. Qd1
+32. Qh4+
+33. g3
+34. Rxg3 (total capture 8)
+35. Nf3
+36. Rxf3+ (total capture 9)
+37. Kd2
+38. Qf2+
+39. Qe2
+40. Qxe2+ (total capture 10)
+41. Bxe2 (total capture 11)
+42. Re3
+43. Rhg1
+44. Ne7
+45. Rg2
+46. Ng6
+47. Rag1
+48. b6
+49. Bh5
+50. Nf4
+51. Rg5
+52. Ng6
+53. h4
+54. f6
+55. R5g4
+56. Rf8
+57. Bxg6 (total capture 12)
+58. hxg6 (total capture 13)
+59. Rxg6 (total capture 14)
+60. Rh3
+61. R1g4
+62. Rh2+
+63. Kc1
+64. Kb7
+65. Rh6
+66. c5
+67. b5
+68. a6
+69. a4
+70. Rh1+
+71. Kb2
+72. Rf7
+73. h5
+74. Rh3
+75. Kc2
+76. axb5 (total capture 15)
+77. axb5 (total capture 16)
+78. Kc7
+79. Rh8
+80. Kd7
+81. h6
+82. Ke7
+83. Rgg8
+84. Kd7
+85. Rd8+
+86. Kc7
+87. Rc8+
+88. Kd7
+89. Rc6
+90. f5
+91. exf5 (total capture 17)
+92. Rh2+
+93. Kb3
+94. Rxf5 (total capture 18)
+95. Rxb6 (total capture 19)
+96. Rf3
+97. Rh7+
+98. Kc8
+99. Rc6+
+100. Kd8
+101. Rh8+
+102. Kd7
+103. Rxc5 (total capture 20)
+104. Rxd3+ (total capture 21)
+105. Kb4
+106. Rb2+
+107. Ka5
+108. Ra3+
+109. Kb6
+110. Ke6
+111. h7
+112. Rh2
+113. Re8+
+114. Kf5
+115. Rcxe5+ (total capture 22)
+116. Kf4
+117. Re4+
+118. Kf5
+119. R4e7
+120. Rh6+
+121. Kb7
+122. Raa6
+123. h8=Q
+124. Rhb6+
+125. Kc8
+126. Ra8+
+127. Kd7
+128. Rb7+
+129. Kc6
+130. Rxe7 (total capture 23)
+131. Rxa8 (total capture 24)
+132. Ke6
+133. Qh6+
+134. Kf7
+135. Qf8+
+136. Ke6
+137. Re8
+138. Rxe8 (total capture 25)
+139. Qxe8+ (total capture 26)
+140. Kf6
+141. b6
+142. d3
+143. b7
+144. d2
+145. b8=Q
+146. d1=Q
+147. Qbe5#
+
+<ANSWER>: Capture occurred in: 9. Bxf6, 10. gxf6, 18. Bxd2+, 19. Qxd2, 20. fxe4, 21. fxe4, 27. Qxg4+, 34. Rxg3, 36. Rxf3+, 40. Qxe2+, 41. Bxe2, 57. Bxg6, 58. hxg6, 59. Rxg6, 76. axb5, 77. axb5, 91. exf5, 94. Rxf5, 95. Rxb6, 103. Rxc5, 104. Rxd3+, 115. Rcxe5+, 130. Rxe7, 131. Rxa8, 138. Rxe8, 139. Qxe8+
+Total 26 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 e6 c4 f5 Nc3 Nf6 Bg5 Be7 Nf3 O-O e3 d6 Bd3 c5 O-O Nc6 a3 e5 dxe5 dxe5 Bxf6 Bxf6 e4 f4 Qc2 Nd4 Nxd4 cxd4 Nd5 Bh4 c5 Qg5 g3 Bh3 Rfe1 fxg3 fxg3 Bxg3 hxg3 Qxg3+ Kh1 Rf2 Qxf2 Qxf2 Rg1 Rf8 Ne7+ Kh8 Nf5 Bxf5 Raf1 Qh4+ Kg2 Bh3+?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. e6
+3. c4
+4. f5
+5. Nc3
+6. Nf6
+7. Bg5
+8. Be7
+9. Nf3
+10. O-O
+11. e3
+12. d6
+13. Bd3
+14. c5
+15. O-O
+16. Nc6
+17. a3
+18. e5
+19. dxe5 (total capture 1)
+20. dxe5 (total capture 2)
+21. Bxf6 (total capture 3)
+22. Bxf6 (total capture 4)
+23. e4
+24. f4
+25. Qc2
+26. Nd4
+27. Nxd4 (total capture 5)
+28. cxd4 (total capture 6)
+29. Nd5
+30. Bh4
+31. c5
+32. Qg5
+33. g3
+34. Bh3
+35. Rfe1
+36. fxg3 (total capture 7)
+37. fxg3 (total capture 8)
+38. Bxg3 (total capture 9)
+39. hxg3 (total capture 10)
+40. Qxg3+ (total capture 11)
+41. Kh1
+42. Rf2
+43. Qxf2 (total capture 12)
+44. Qxf2 (total capture 13)
+45. Rg1
+46. Rf8
+47. Ne7+
+48. Kh8
+49. Nf5
+50. Bxf5 (total capture 14)
+51. Raf1
+52. Qh4+
+53. Kg2
+54. Bh3+
+
+<ANSWER>: Capture occurred in: 19. dxe5, 20. dxe5, 21. Bxf6, 22. Bxf6, 27. Nxd4, 28. cxd4, 36. fxg3, 37. fxg3, 38. Bxg3, 39. hxg3, 40. Qxg3+, 43. Qxf2, 44. Qxf2, 50. Bxf5
+Total 14 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 c4 dxc4 e3 b5 a4 Bd7 axb5 Bxb5 Nf3 a6 b3 e6 bxc4 Bb4+ Bd2 Bxd2+ Nbxd2 Bc6 Ne5 Qd6 c5 Qd5 Bc4 Qxg2 Ke2 Qxh1 Nxc6 Qxc6 Qg1 g6 Qg5 h6 Qf4 Ne7 Qf6 O-O e4 Nd7 Qh4 Nf6 Qxf6 Rae8 d5 exd5 exd5 Qxf6 Ne4 Qe5 Bd3?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. c4
+4. dxc4 (total capture 1)
+5. e3
+6. b5
+7. a4
+8. Bd7
+9. axb5 (total capture 2)
+10. Bxb5 (total capture 3)
+11. Nf3
+12. a6
+13. b3
+14. e6
+15. bxc4 (total capture 4)
+16. Bb4+
+17. Bd2
+18. Bxd2+ (total capture 5)
+19. Nbxd2 (total capture 6)
+20. Bc6
+21. Ne5
+22. Qd6
+23. c5
+24. Qd5
+25. Bc4
+26. Qxg2 (total capture 7)
+27. Ke2
+28. Qxh1 (total capture 8)
+29. Nxc6 (total capture 9)
+30. Qxc6 (total capture 10)
+31. Qg1
+32. g6
+33. Qg5
+34. h6
+35. Qf4
+36. Ne7
+37. Qf6
+38. O-O
+39. e4
+40. Nd7
+41. Qh4
+42. Nf6
+43. Qxf6 (total capture 11)
+44. Rae8
+45. d5
+46. exd5 (total capture 12)
+47. exd5 (total capture 13)
+48. Qxf6 (total capture 14)
+49. Ne4
+50. Qe5
+51. Bd3
+
+<ANSWER>: Capture occurred in: 4. dxc4, 9. axb5, 10. Bxb5, 15. bxc4, 18. Bxd2+, 19. Nbxd2, 26. Qxg2, 28. Qxh1, 29. Nxc6, 30. Qxc6, 43. Qxf6, 46. exd5, 47. exd5, 48. Qxf6
+Total 14 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 d4 Qe7 Nc3 g6 Nf3 Nf6 e5 Nd5 Nxd5 exd5 Bd3 Nc6 O-O h6 c3 Qe6 Be3 h5 Qc2 h4 h3 d6 Ng5 Qe7 f4 Nd8 a4 Ne6 Rfe1 Bh6 b4 Nxg5 exd6 cxd6 Bf2 Nxh3+ gxh3 Be6 f5 Qg5+ Kh2 Qf4+ Kg1 O-O-O fxe6 Qf3 e7 Rde8 Bb5 Qxh3 Bxe8 Rxe8 Qe2 Bf4 c4 Bh2+ Kh1 Bf4+ Kg1 Qh2+ Kf1 Qh3+ Kg1 Qh2+ Kf1 h3 Bg1 Qh1 Kf2 Qg2#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. d4
+4. Qe7
+5. Nc3
+6. g6
+7. Nf3
+8. Nf6
+9. e5
+10. Nd5
+11. Nxd5 (total capture 1)
+12. exd5 (total capture 2)
+13. Bd3
+14. Nc6
+15. O-O
+16. h6
+17. c3
+18. Qe6
+19. Be3
+20. h5
+21. Qc2
+22. h4
+23. h3
+24. d6
+25. Ng5
+26. Qe7
+27. f4
+28. Nd8
+29. a4
+30. Ne6
+31. Rfe1
+32. Bh6
+33. b4
+34. Nxg5 (total capture 3)
+35. exd6 (total capture 4)
+36. cxd6 (total capture 5)
+37. Bf2
+38. Nxh3+ (total capture 6)
+39. gxh3 (total capture 7)
+40. Be6
+41. f5
+42. Qg5+
+43. Kh2
+44. Qf4+
+45. Kg1
+46. O-O-O
+47. fxe6 (total capture 8)
+48. Qf3
+49. e7
+50. Rde8
+51. Bb5
+52. Qxh3 (total capture 9)
+53. Bxe8 (total capture 10)
+54. Rxe8 (total capture 11)
+55. Qe2
+56. Bf4
+57. c4
+58. Bh2+
+59. Kh1
+60. Bf4+
+61. Kg1
+62. Qh2+
+63. Kf1
+64. Qh3+
+65. Kg1
+66. Qh2+
+67. Kf1
+68. h3
+69. Bg1
+70. Qh1
+71. Kf2
+72. Qg2#
+
+<ANSWER>: Capture occurred in: 11. Nxd5, 12. exd5, 34. Nxg5, 35. exd6, 36. cxd6, 38. Nxh3+, 39. gxh3, 47. fxe6, 52. Qxh3, 53. Bxe8, 54. Rxe8
+Total 11 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Bc4 Bc5 Ng5 d5 exd5 f6 Ne4 f5 Nxc5 Nd4 O-O b6 Ne6 Bxe6 dxe6 c5 Re1 Qc7 d3 Nf6 c3 b5 Bxb5+ Nxb5 Qf3 Rd8 Bg5 h6 Bxf6 gxf6 Qxf5 Rxd3 Qxd3?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Bc4
+6. Bc5
+7. Ng5
+8. d5
+9. exd5 (total capture 1)
+10. f6
+11. Ne4
+12. f5
+13. Nxc5 (total capture 2)
+14. Nd4
+15. O-O
+16. b6
+17. Ne6
+18. Bxe6 (total capture 3)
+19. dxe6 (total capture 4)
+20. c5
+21. Re1
+22. Qc7
+23. d3
+24. Nf6
+25. c3
+26. b5
+27. Bxb5+ (total capture 5)
+28. Nxb5 (total capture 6)
+29. Qf3
+30. Rd8
+31. Bg5
+32. h6
+33. Bxf6 (total capture 7)
+34. gxf6 (total capture 8)
+35. Qxf5 (total capture 9)
+36. Rxd3 (total capture 10)
+37. Qxd3 (total capture 11)
+
+<ANSWER>: Capture occurred in: 9. exd5, 13. Nxc5, 18. Bxe6, 19. dxe6, 27. Bxb5+, 28. Nxb5, 33. Bxf6, 34. gxf6, 35. Qxf5, 36. Rxd3, 37. Qxd3
+Total 11 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 e6 Nf3 Nf6 e3 c5 Bc4 Nc6 O-O Ne4 Bd2 cxd4 exd4 d5 Bb3 Bd6 Re1 Qc7 Nc3 Nxd2 Qxd2 Bd7 Nxd5 Qb8 Qg5 O-O Nf6+ Kh8 c3 gxf6 Qxf6+ Kg8 Ng5 Qd8 Bc2 Qxf6 Ne4 Qe7 Re3 e5 d5 Na5 Nxd6 Qxd6 Rg3+ Kh8 Rg5 Qh6 Rxe5 Qg7 Rae1 Bh3 g3 Nc4 Rh5 Qg4 Rxh7+ Kg8 Re4 f5 Re6 Kxh7?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. e6
+3. Nf3
+4. Nf6
+5. e3
+6. c5
+7. Bc4
+8. Nc6
+9. O-O
+10. Ne4
+11. Bd2
+12. cxd4 (total capture 1)
+13. exd4 (total capture 2)
+14. d5
+15. Bb3
+16. Bd6
+17. Re1
+18. Qc7
+19. Nc3
+20. Nxd2 (total capture 3)
+21. Qxd2 (total capture 4)
+22. Bd7
+23. Nxd5 (total capture 5)
+24. Qb8
+25. Qg5
+26. O-O
+27. Nf6+
+28. Kh8
+29. c3
+30. gxf6 (total capture 6)
+31. Qxf6+ (total capture 7)
+32. Kg8
+33. Ng5
+34. Qd8
+35. Bc2
+36. Qxf6 (total capture 8)
+37. Ne4
+38. Qe7
+39. Re3
+40. e5
+41. d5
+42. Na5
+43. Nxd6 (total capture 9)
+44. Qxd6 (total capture 10)
+45. Rg3+
+46. Kh8
+47. Rg5
+48. Qh6
+49. Rxe5 (total capture 11)
+50. Qg7
+51. Rae1
+52. Bh3
+53. g3
+54. Nc4
+55. Rh5
+56. Qg4
+57. Rxh7+ (total capture 12)
+58. Kg8
+59. Re4
+60. f5
+61. Re6
+62. Kxh7 (total capture 13)
+
+<ANSWER>: Capture occurred in: 12. cxd4, 13. exd4, 20. Nxd2, 21. Qxd2, 23. Nxd5, 30. gxf6, 31. Qxf6+, 36. Qxf6, 43. Nxd6, 44. Qxd6, 49. Rxe5, 57. Rxh7+, 62. Kxh7
+Total 13 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 c4 Nf6 Nc3 Nc6 d3 d6 Nf3 Bg4 Be2 g6 h3 Be6 O-O Bg7 Be3 O-O b3 b6 Qd2 a5 Rad1 Nb4 Ng5 h6 Nxe6 fxe6 a3 Nc6 Bxh6 d5 exd5 exd5 Bxg7 Kxg7 Bf3 d4 Ne4 Nxe4 Bxe4 Qd7 Qg5 Rf6 Rfe1 a4 b4 Rb8 b5 Na5 Qxe5 Re8 Qg5 Qd6 Ra1 Re5 Qd2 Nb3 Qc2 Nxa1 Rxa1 Qf8 f3 Rg5 Qxa4 Rg3 Qa7 Qe8 Qxc7+ Rf7 Qxg3?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. c4
+4. Nf6
+5. Nc3
+6. Nc6
+7. d3
+8. d6
+9. Nf3
+10. Bg4
+11. Be2
+12. g6
+13. h3
+14. Be6
+15. O-O
+16. Bg7
+17. Be3
+18. O-O
+19. b3
+20. b6
+21. Qd2
+22. a5
+23. Rad1
+24. Nb4
+25. Ng5
+26. h6
+27. Nxe6 (total capture 1)
+28. fxe6 (total capture 2)
+29. a3
+30. Nc6
+31. Bxh6 (total capture 3)
+32. d5
+33. exd5 (total capture 4)
+34. exd5 (total capture 5)
+35. Bxg7 (total capture 6)
+36. Kxg7 (total capture 7)
+37. Bf3
+38. d4
+39. Ne4
+40. Nxe4 (total capture 8)
+41. Bxe4 (total capture 9)
+42. Qd7
+43. Qg5
+44. Rf6
+45. Rfe1
+46. a4
+47. b4
+48. Rb8
+49. b5
+50. Na5
+51. Qxe5 (total capture 10)
+52. Re8
+53. Qg5
+54. Qd6
+55. Ra1
+56. Re5
+57. Qd2
+58. Nb3
+59. Qc2
+60. Nxa1 (total capture 11)
+61. Rxa1 (total capture 12)
+62. Qf8
+63. f3
+64. Rg5
+65. Qxa4 (total capture 13)
+66. Rg3
+67. Qa7
+68. Qe8
+69. Qxc7+ (total capture 14)
+70. Rf7
+71. Qxg3 (total capture 15)
+
+<ANSWER>: Capture occurred in: 27. Nxe6, 28. fxe6, 31. Bxh6, 33. exd5, 34. exd5, 35. Bxg7, 36. Kxg7, 40. Nxe4, 41. Bxe4, 51. Qxe5, 60. Nxa1, 61. Rxa1, 65. Qxa4, 69. Qxc7+, 71. Qxg3
+Total 15 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 e6 e4 Qh4 g3 Qxe4+ Ne2 Qxh1?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. e6
+3. e4
+4. Qh4
+5. g3
+6. Qxe4+ (total capture 1)
+7. Ne2
+8. Qxh1 (total capture 2)
+
+<ANSWER>: Capture occurred in: 6. Qxe4+, 8. Qxh1
+Total 2 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 Nf6 Nc3 Nc6 Bc4 d6 d3 g6 h3 b6 Nf3 Ne5 Nxe5 dxe5 O-O Ng8 Bb5+ Bd7 Qg4 f5 exf5 c6 Bc4 Nh6 Qg5 Nxf5 Re1 Bh6 Qg4 b5 Bb3 Ne3 Qe4 Bf5 Qxc6+ Qd7 Qxa8+ Qd8 Qc6+ Bd7 Qe4 Rg8 Qxe5 b4 Bxe3 Bxe3 Rxe3 bxc3 Qf4 g5 Qf7#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. Nf6
+3. Nc3
+4. Nc6
+5. Bc4
+6. d6
+7. d3
+8. g6
+9. h3
+10. b6
+11. Nf3
+12. Ne5
+13. Nxe5 (total capture 1)
+14. dxe5 (total capture 2)
+15. O-O
+16. Ng8
+17. Bb5+
+18. Bd7
+19. Qg4
+20. f5
+21. exf5 (total capture 3)
+22. c6
+23. Bc4
+24. Nh6
+25. Qg5
+26. Nxf5 (total capture 4)
+27. Re1
+28. Bh6
+29. Qg4
+30. b5
+31. Bb3
+32. Ne3
+33. Qe4
+34. Bf5
+35. Qxc6+ (total capture 5)
+36. Qd7
+37. Qxa8+ (total capture 6)
+38. Qd8
+39. Qc6+
+40. Bd7
+41. Qe4
+42. Rg8
+43. Qxe5 (total capture 7)
+44. b4
+45. Bxe3 (total capture 8)
+46. Bxe3 (total capture 9)
+47. Rxe3 (total capture 10)
+48. bxc3 (total capture 11)
+49. Qf4
+50. g5
+51. Qf7#
+
+<ANSWER>: Capture occurred in: 13. Nxe5, 14. dxe5, 21. exf5, 26. Nxf5, 35. Qxc6+, 37. Qxa8+, 43. Qxe5, 45. Bxe3, 46. Bxe3, 47. Rxe3, 48. bxc3
+Total 11 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c5 Bc4 Nc6 Nf3 g6 d4 cxd4 Nxd4 Bg7 c3 Nf6 Nd2 d5 Bxd5 Nxd5 exd5 Qxd5 N2f3 Qe4+ Be3 Bxd4 Nxd4 Nxd4 Qxd4 Qxd4 Bxd4 O-O O-O-O Be6 Kb1 a5 Bc5 Rfe8 Rhe1 b5 b4 axb4 cxb4 Rxa2 Bd4 Rea8 Re5 Bf5+ Kc1 Rc8+ Rc5 Rxc5+ bxc5 Rc2+ Kb1 Rxc5+ Ka1 Rd5 h3 e5 g4 Be4 Rb1 exd4?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c5
+3. Bc4
+4. Nc6
+5. Nf3
+6. g6
+7. d4
+8. cxd4 (total capture 1)
+9. Nxd4 (total capture 2)
+10. Bg7
+11. c3
+12. Nf6
+13. Nd2
+14. d5
+15. Bxd5 (total capture 3)
+16. Nxd5 (total capture 4)
+17. exd5 (total capture 5)
+18. Qxd5 (total capture 6)
+19. N2f3
+20. Qe4+
+21. Be3
+22. Bxd4 (total capture 7)
+23. Nxd4 (total capture 8)
+24. Nxd4 (total capture 9)
+25. Qxd4 (total capture 10)
+26. Qxd4 (total capture 11)
+27. Bxd4 (total capture 12)
+28. O-O
+29. O-O-O
+30. Be6
+31. Kb1
+32. a5
+33. Bc5
+34. Rfe8
+35. Rhe1
+36. b5
+37. b4
+38. axb4 (total capture 13)
+39. cxb4 (total capture 14)
+40. Rxa2 (total capture 15)
+41. Bd4
+42. Rea8
+43. Re5
+44. Bf5+
+45. Kc1
+46. Rc8+
+47. Rc5
+48. Rxc5+ (total capture 16)
+49. bxc5 (total capture 17)
+50. Rc2+
+51. Kb1
+52. Rxc5+ (total capture 18)
+53. Ka1
+54. Rd5
+55. h3
+56. e5
+57. g4
+58. Be4
+59. Rb1
+60. exd4 (total capture 19)
+
+<ANSWER>: Capture occurred in: 8. cxd4, 9. Nxd4, 15. Bxd5, 16. Nxd5, 17. exd5, 18. Qxd5, 22. Bxd4, 23. Nxd4, 24. Nxd4, 25. Qxd4, 26. Qxd4, 27. Bxd4, 38. axb4, 39. cxb4, 40. Rxa2, 48. Rxc5+, 49. bxc5, 52. Rxc5+, 60. exd4
+Total 19 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 b6 Nf3 Bb7 Nc3 d5 e5 d4 Nxd4 Qxd4 d3 Qxe5+ Qe2 Qxe2+ Nxe2 Nf6 Bg5 Nbd7 O-O-O h6 Bxf6 Nxf6 Nf4 Ng4 Rd2 e5 h3 Nf6 Ne2 Bc5 f4 Be3 fxe5 Bxd2+ Kxd2 Nd7?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. b6
+3. Nf3
+4. Bb7
+5. Nc3
+6. d5
+7. e5
+8. d4
+9. Nxd4 (total capture 1)
+10. Qxd4 (total capture 2)
+11. d3
+12. Qxe5+ (total capture 3)
+13. Qe2
+14. Qxe2+ (total capture 4)
+15. Nxe2 (total capture 5)
+16. Nf6
+17. Bg5
+18. Nbd7
+19. O-O-O
+20. h6
+21. Bxf6 (total capture 6)
+22. Nxf6 (total capture 7)
+23. Nf4
+24. Ng4
+25. Rd2
+26. e5
+27. h3
+28. Nf6
+29. Ne2
+30. Bc5
+31. f4
+32. Be3
+33. fxe5 (total capture 8)
+34. Bxd2+ (total capture 9)
+35. Kxd2 (total capture 10)
+36. Nd7
+
+<ANSWER>: Capture occurred in: 9. Nxd4, 10. Qxd4, 12. Qxe5+, 14. Qxe2+, 15. Nxe2, 21. Bxf6, 22. Nxf6, 33. fxe5, 34. Bxd2+, 35. Kxd2
+Total 10 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 Nf3 c6 h3 f5 Bf4 e6 e3 Nf6 Nbd2 Be7 Bd3 Ne4 O-O O-O Bxb8 Rxb8 Ne5 Bd7 Ndf3 Be8 Bxe4 fxe4 Nd2 Bd6 Qg4 Qe7 f4 Bxe5 fxe5 Bg6 Nb3 b6 Rxf8+ Rxf8 Rf1 Rxf1+ Kxf1 Qf7+ Qf4 h5 Ke2 Qxf4 exf4 h4 Ke3 Kf7 Nd2 Bh5 c4 Ke7 cxd5 cxd5 Nf1 Kf7 g4 hxg3 Nxg3 g6 Nf1 Bf3 Nd2 Bh5 Nb1 Ke7 Nc3 Kd7 Nb5 a6 Nd6 Kc7 b3 Kd7 a3 Kc7 b4 Kd7 a4 Kc7 a5 bxa5 bxa5 Kc6 h4 Kd7 Nb7 Kc6 Nc5 Bg4 Nxa6 Kb5 Nc5 Kxa5 Nb7+ Kb6 Nd6 Kc7 Ne8+ Kd8 Nf6 Bf5 h5 gxh5 Nxh5 Ke7 Ng3 Kf7 Ne2 Ke7 Nc3 Kf7 Na4 Ke7 Nc5 Kf7 Nb7 Ke7 Nd6 Kd7 Nb5 Ke7 Na3 Kd7 Nc2 Ke7 Kf2 Kd7 Ne3 Ke7 Kg3 Kf7 Kh4 Kg6 Kg3 Kf7 Kg2 Kg6 Kh2 Kf7 Kg3 Kg6 Kh4 Kh6 Nd1 Kg6 Ne3 Kh6 Nc2 Kg6 Kg3 Kh5 Ne3 Kg6 Kf2 Kh5 Ng2 Kg6 Ke3 Kf7 Nh4 Ke7 Ng2 Kf7 Ne1 Ke7 Nc2 Kd7 Na3 Ke7 Nb5 Kd7 Nd6 Ke7 Nc8+ Kd7 Nb6+ Ke7 Na4 Kd7 Nc5+ Ke7 Kf2 Kf7 Kg3 Kg6 Nd7 Kf7 Nf6 Kg6 Ne8 Kf7 Nc7 Ke7 Nb5 Kf7 Nc3 Kg6 Kf2 Kf7 Ke3 Kg6 Nd1 Kf7 Nf2?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. Nf3
+4. c6
+5. h3
+6. f5
+7. Bf4
+8. e6
+9. e3
+10. Nf6
+11. Nbd2
+12. Be7
+13. Bd3
+14. Ne4
+15. O-O
+16. O-O
+17. Bxb8 (total capture 1)
+18. Rxb8 (total capture 2)
+19. Ne5
+20. Bd7
+21. Ndf3
+22. Be8
+23. Bxe4 (total capture 3)
+24. fxe4 (total capture 4)
+25. Nd2
+26. Bd6
+27. Qg4
+28. Qe7
+29. f4
+30. Bxe5 (total capture 5)
+31. fxe5 (total capture 6)
+32. Bg6
+33. Nb3
+34. b6
+35. Rxf8+ (total capture 7)
+36. Rxf8 (total capture 8)
+37. Rf1
+38. Rxf1+ (total capture 9)
+39. Kxf1 (total capture 10)
+40. Qf7+
+41. Qf4
+42. h5
+43. Ke2
+44. Qxf4 (total capture 11)
+45. exf4 (total capture 12)
+46. h4
+47. Ke3
+48. Kf7
+49. Nd2
+50. Bh5
+51. c4
+52. Ke7
+53. cxd5 (total capture 13)
+54. cxd5 (total capture 14)
+55. Nf1
+56. Kf7
+57. g4
+58. hxg3 (total capture 15)
+59. Nxg3 (total capture 16)
+60. g6
+61. Nf1
+62. Bf3
+63. Nd2
+64. Bh5
+65. Nb1
+66. Ke7
+67. Nc3
+68. Kd7
+69. Nb5
+70. a6
+71. Nd6
+72. Kc7
+73. b3
+74. Kd7
+75. a3
+76. Kc7
+77. b4
+78. Kd7
+79. a4
+80. Kc7
+81. a5
+82. bxa5 (total capture 17)
+83. bxa5 (total capture 18)
+84. Kc6
+85. h4
+86. Kd7
+87. Nb7
+88. Kc6
+89. Nc5
+90. Bg4
+91. Nxa6 (total capture 19)
+92. Kb5
+93. Nc5
+94. Kxa5 (total capture 20)
+95. Nb7+
+96. Kb6
+97. Nd6
+98. Kc7
+99. Ne8+
+100. Kd8
+101. Nf6
+102. Bf5
+103. h5
+104. gxh5 (total capture 21)
+105. Nxh5 (total capture 22)
+106. Ke7
+107. Ng3
+108. Kf7
+109. Ne2
+110. Ke7
+111. Nc3
+112. Kf7
+113. Na4
+114. Ke7
+115. Nc5
+116. Kf7
+117. Nb7
+118. Ke7
+119. Nd6
+120. Kd7
+121. Nb5
+122. Ke7
+123. Na3
+124. Kd7
+125. Nc2
+126. Ke7
+127. Kf2
+128. Kd7
+129. Ne3
+130. Ke7
+131. Kg3
+132. Kf7
+133. Kh4
+134. Kg6
+135. Kg3
+136. Kf7
+137. Kg2
+138. Kg6
+139. Kh2
+140. Kf7
+141. Kg3
+142. Kg6
+143. Kh4
+144. Kh6
+145. Nd1
+146. Kg6
+147. Ne3
+148. Kh6
+149. Nc2
+150. Kg6
+151. Kg3
+152. Kh5
+153. Ne3
+154. Kg6
+155. Kf2
+156. Kh5
+157. Ng2
+158. Kg6
+159. Ke3
+160. Kf7
+161. Nh4
+162. Ke7
+163. Ng2
+164. Kf7
+165. Ne1
+166. Ke7
+167. Nc2
+168. Kd7
+169. Na3
+170. Ke7
+171. Nb5
+172. Kd7
+173. Nd6
+174. Ke7
+175. Nc8+
+176. Kd7
+177. Nb6+
+178. Ke7
+179. Na4
+180. Kd7
+181. Nc5+
+182. Ke7
+183. Kf2
+184. Kf7
+185. Kg3
+186. Kg6
+187. Nd7
+188. Kf7
+189. Nf6
+190. Kg6
+191. Ne8
+192. Kf7
+193. Nc7
+194. Ke7
+195. Nb5
+196. Kf7
+197. Nc3
+198. Kg6
+199. Kf2
+200. Kf7
+201. Ke3
+202. Kg6
+203. Nd1
+204. Kf7
+205. Nf2
+
+<ANSWER>: Capture occurred in: 17. Bxb8, 18. Rxb8, 23. Bxe4, 24. fxe4, 30. Bxe5, 31. fxe5, 35. Rxf8+, 36. Rxf8, 38. Rxf1+, 39. Kxf1, 44. Qxf4, 45. exf4, 53. cxd5, 54. cxd5, 58. hxg3, 59. Nxg3, 82. bxa5, 83. bxa5, 91. Nxa6, 94. Kxa5, 104. gxh5, 105. Nxh5
+Total 22 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+
+<ANSWER>: Capture occurred in
+Total 0 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 d4 d5 e5 c5 c3 Nc6 Nf3 Nge7 Bb5 Bd7 Be2 Ng6 Bg5 Be7 Bxe7 Qxe7 Nbd2 O-O Nb3 b6 O-O Rac8 Nfd2 cxd4 cxd4 Qb4 a3 Qa4 Bd3 Nxd4 Bxg6 hxg6 Nxd4 Qxd4 Nf3 Qxb2?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. d4
+4. d5
+5. e5
+6. c5
+7. c3
+8. Nc6
+9. Nf3
+10. Nge7
+11. Bb5
+12. Bd7
+13. Be2
+14. Ng6
+15. Bg5
+16. Be7
+17. Bxe7 (total capture 1)
+18. Qxe7 (total capture 2)
+19. Nbd2
+20. O-O
+21. Nb3
+22. b6
+23. O-O
+24. Rac8
+25. Nfd2
+26. cxd4 (total capture 3)
+27. cxd4 (total capture 4)
+28. Qb4
+29. a3
+30. Qa4
+31. Bd3
+32. Nxd4 (total capture 5)
+33. Bxg6 (total capture 6)
+34. hxg6 (total capture 7)
+35. Nxd4 (total capture 8)
+36. Qxd4 (total capture 9)
+37. Nf3
+38. Qxb2 (total capture 10)
+
+<ANSWER>: Capture occurred in: 17. Bxe7, 18. Qxe7, 26. cxd4, 27. cxd4, 32. Nxd4, 33. Bxg6, 34. hxg6, 35. Nxd4, 36. Qxd4, 38. Qxb2
+Total 10 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Qh4 Nf3 Qxe4+ Be2 Bb4+ Bd2 Bxd2+ Qxd2 Nf6 Nc3 Qe7 O-O-O O-O h3 Ne4 Qe3 Nxc3 Qxe7 Nxe7 bxc3 d6 Rd4 Nf5 Rd2 Be6 Kb1 a5 c4 Rab8 Nd4 Nxd4 Rxd4 Rfe8 Rhd1 Bf5 c5 Rxe2 cxd6 cxd6 Rxd6 h6 Rd8+ Rxd8 Rxd8+ Kh7 Kb2 Rxc2+ Kb3 Rxf2 Rb8 Be4 Ka4 Rxa2+ Kb5 Bxg2?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. d4
+6. exd4 (total capture 1)
+7. Nxd4 (total capture 2)
+8. Qh4
+9. Nf3
+10. Qxe4+ (total capture 3)
+11. Be2
+12. Bb4+
+13. Bd2
+14. Bxd2+ (total capture 4)
+15. Qxd2 (total capture 5)
+16. Nf6
+17. Nc3
+18. Qe7
+19. O-O-O
+20. O-O
+21. h3
+22. Ne4
+23. Qe3
+24. Nxc3 (total capture 6)
+25. Qxe7 (total capture 7)
+26. Nxe7 (total capture 8)
+27. bxc3 (total capture 9)
+28. d6
+29. Rd4
+30. Nf5
+31. Rd2
+32. Be6
+33. Kb1
+34. a5
+35. c4
+36. Rab8
+37. Nd4
+38. Nxd4 (total capture 10)
+39. Rxd4 (total capture 11)
+40. Rfe8
+41. Rhd1
+42. Bf5
+43. c5
+44. Rxe2 (total capture 12)
+45. cxd6 (total capture 13)
+46. cxd6 (total capture 14)
+47. Rxd6 (total capture 15)
+48. h6
+49. Rd8+
+50. Rxd8 (total capture 16)
+51. Rxd8+ (total capture 17)
+52. Kh7
+53. Kb2
+54. Rxc2+ (total capture 18)
+55. Kb3
+56. Rxf2 (total capture 19)
+57. Rb8
+58. Be4
+59. Ka4
+60. Rxa2+ (total capture 20)
+61. Kb5
+62. Bxg2 (total capture 21)
+
+<ANSWER>: Capture occurred in: 6. exd4, 7. Nxd4, 10. Qxe4+, 14. Bxd2+, 15. Qxd2, 24. Nxc3, 25. Qxe7, 26. Nxe7, 27. bxc3, 38. Nxd4, 39. Rxd4, 44. Rxe2, 45. cxd6, 46. cxd6, 47. Rxd6, 50. Rxd8, 51. Rxd8+, 54. Rxc2+, 56. Rxf2, 60. Rxa2+, 62. Bxg2
+Total 21 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e6 d4 Bb4+ Bd2 Bxd2+ Nxd2 Nh6 h3 f6 Ngf3 c6 Bd3 b6 c4 d5 e5 Na6 cxd5 cxd5 Qa4+ Kf7 Bxa6 Bxa6 Qxa6 Qd7 Qa3 Rhc8 O-O Nf5 Rac1 Rxc1 Rxc1 a5 Qd3 g6 exf6 Kxf6 Ne5 Qe8 g4 Nd6 Qf3+ Kg7 Rc7+ Kg8 Qf4 Rc8 Rxc8 Qxc8 Ndf3 Qc2 Ng5 Qc7 Nxe6 Ne4 Qf8#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e6
+3. d4
+4. Bb4+
+5. Bd2
+6. Bxd2+ (total capture 1)
+7. Nxd2 (total capture 2)
+8. Nh6
+9. h3
+10. f6
+11. Ngf3
+12. c6
+13. Bd3
+14. b6
+15. c4
+16. d5
+17. e5
+18. Na6
+19. cxd5 (total capture 3)
+20. cxd5 (total capture 4)
+21. Qa4+
+22. Kf7
+23. Bxa6 (total capture 5)
+24. Bxa6 (total capture 6)
+25. Qxa6 (total capture 7)
+26. Qd7
+27. Qa3
+28. Rhc8
+29. O-O
+30. Nf5
+31. Rac1
+32. Rxc1 (total capture 8)
+33. Rxc1 (total capture 9)
+34. a5
+35. Qd3
+36. g6
+37. exf6 (total capture 10)
+38. Kxf6 (total capture 11)
+39. Ne5
+40. Qe8
+41. g4
+42. Nd6
+43. Qf3+
+44. Kg7
+45. Rc7+
+46. Kg8
+47. Qf4
+48. Rc8
+49. Rxc8 (total capture 12)
+50. Qxc8 (total capture 13)
+51. Ndf3
+52. Qc2
+53. Ng5
+54. Qc7
+55. Nxe6 (total capture 14)
+56. Ne4
+57. Qf8#
+
+<ANSWER>: Capture occurred in: 6. Bxd2+, 7. Nxd2, 19. cxd5, 20. cxd5, 23. Bxa6, 24. Bxa6, 25. Qxa6, 32. Rxc1, 33. Rxc1, 37. exf6, 38. Kxf6, 49. Rxc8, 50. Qxc8, 55. Nxe6
+Total 14 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 Nh6 d4 Na6 Nf3?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. Nh6
+3. d4
+4. Na6
+5. Nf3
+
+<ANSWER>: Capture occurred in
+Total 0 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 c4 Nf6 e3 Nc6 Bd3 e5 Bc2 Bb4+ Bd2 Ne4 Bxe4 dxe4 Ne2 Bg4 a3 Bxd2+ Nxd2 Nxd4 exd4 e3 Ne4 c5 h3 Qa5+ b4 cxb4 hxg4 b3+ N2c3 b2 Ra2 exd4 Qxd4 b1=Q+ Ke2 Qxh1 Qxg7 Rf8 Nf6+ Ke7 Nxh7 Qc1 Qxf8+ Rxf8?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. c4
+4. Nf6
+5. e3
+6. Nc6
+7. Bd3
+8. e5
+9. Bc2
+10. Bb4+
+11. Bd2
+12. Ne4
+13. Bxe4 (total capture 1)
+14. dxe4 (total capture 2)
+15. Ne2
+16. Bg4
+17. a3
+18. Bxd2+ (total capture 3)
+19. Nxd2 (total capture 4)
+20. Nxd4 (total capture 5)
+21. exd4 (total capture 6)
+22. e3
+23. Ne4
+24. c5
+25. h3
+26. Qa5+
+27. b4
+28. cxb4 (total capture 7)
+29. hxg4 (total capture 8)
+30. b3+
+31. N2c3
+32. b2
+33. Ra2
+34. exd4 (total capture 9)
+35. Qxd4 (total capture 10)
+36. b1=Q+
+37. Ke2
+38. Qxh1 (total capture 11)
+39. Qxg7 (total capture 12)
+40. Rf8
+41. Nf6+
+42. Ke7
+43. Nxh7 (total capture 13)
+44. Qc1
+45. Qxf8+ (total capture 14)
+46. Rxf8 (total capture 15)
+
+<ANSWER>: Capture occurred in: 13. Bxe4, 14. dxe4, 18. Bxd2+, 19. Nxd2, 20. Nxd4, 21. exd4, 28. cxb4, 29. hxg4, 34. exd4, 35. Qxd4, 38. Qxh1, 39. Qxg7, 43. Nxh7, 45. Qxf8+, 46. Rxf8
+Total 15 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Qh5 g6 Qxe5+ Qe7 Qxh8 Nf6 e5 Qxe5+ Ne2 Nc6 d4 Qe6 Bg5 Ne7 Bxf6 Nf5 d5 Qxd5 Nf4 Qe4+ Be2 Qb4+ c3 Qxf4 Bg7 Nxg7 Qxh7 Qc1+ Bd1 Qxb2 Qg8 Qxa1 Bb3 Qxb1+ Ke2 Qe4+ Kd2 Qf4+ Ke2 Ne6 g3 Qe5+ Kf1 Qxc3 Bxe6 fxe6 Qxg6+ Ke7 Qh7+ Qg7 Qh4+ Qf6 Qb4+ d6 Kg2 c5 Qe4 d5 Qc2 c4 Qa4 Bd7 Qb4+ Kd8 Qxb7 Rc8 Qxa7 c3 Qa5+ Ke7 Rc1 Bg7 Qb4+ Ke8 a4 Qh6 f4 c2 a5 Bc3 Qa3 Bd2 Ra1 c1=Q Rxc1 Bxc1 Qxc1 Rxc1 a6 Ra1 a7 Rxa7 g4 Ra2+ Kg3 Ra3+ Kg2 Qh4 f5 Qxg4+ Kf2 Ra2+ Ke3 Qe4#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Qh5
+4. g6
+5. Qxe5+ (total capture 1)
+6. Qe7
+7. Qxh8 (total capture 2)
+8. Nf6
+9. e5
+10. Qxe5+ (total capture 3)
+11. Ne2
+12. Nc6
+13. d4
+14. Qe6
+15. Bg5
+16. Ne7
+17. Bxf6 (total capture 4)
+18. Nf5
+19. d5
+20. Qxd5 (total capture 5)
+21. Nf4
+22. Qe4+
+23. Be2
+24. Qb4+
+25. c3
+26. Qxf4 (total capture 6)
+27. Bg7
+28. Nxg7 (total capture 7)
+29. Qxh7 (total capture 8)
+30. Qc1+
+31. Bd1
+32. Qxb2 (total capture 9)
+33. Qg8
+34. Qxa1 (total capture 10)
+35. Bb3
+36. Qxb1+ (total capture 11)
+37. Ke2
+38. Qe4+
+39. Kd2
+40. Qf4+
+41. Ke2
+42. Ne6
+43. g3
+44. Qe5+
+45. Kf1
+46. Qxc3 (total capture 12)
+47. Bxe6 (total capture 13)
+48. fxe6 (total capture 14)
+49. Qxg6+ (total capture 15)
+50. Ke7
+51. Qh7+
+52. Qg7
+53. Qh4+
+54. Qf6
+55. Qb4+
+56. d6
+57. Kg2
+58. c5
+59. Qe4
+60. d5
+61. Qc2
+62. c4
+63. Qa4
+64. Bd7
+65. Qb4+
+66. Kd8
+67. Qxb7 (total capture 16)
+68. Rc8
+69. Qxa7 (total capture 17)
+70. c3
+71. Qa5+
+72. Ke7
+73. Rc1
+74. Bg7
+75. Qb4+
+76. Ke8
+77. a4
+78. Qh6
+79. f4
+80. c2
+81. a5
+82. Bc3
+83. Qa3
+84. Bd2
+85. Ra1
+86. c1=Q
+87. Rxc1 (total capture 18)
+88. Bxc1 (total capture 19)
+89. Qxc1 (total capture 20)
+90. Rxc1 (total capture 21)
+91. a6
+92. Ra1
+93. a7
+94. Rxa7 (total capture 22)
+95. g4
+96. Ra2+
+97. Kg3
+98. Ra3+
+99. Kg2
+100. Qh4
+101. f5
+102. Qxg4+ (total capture 23)
+103. Kf2
+104. Ra2+
+105. Ke3
+106. Qe4#
+
+<ANSWER>: Capture occurred in: 5. Qxe5+, 7. Qxh8, 10. Qxe5+, 17. Bxf6, 20. Qxd5, 26. Qxf4, 28. Nxg7, 29. Qxh7, 32. Qxb2, 34. Qxa1, 36. Qxb1+, 46. Qxc3, 47. Bxe6, 48. fxe6, 49. Qxg6+, 67. Qxb7, 69. Qxa7, 87. Rxc1, 88. Bxc1, 89. Qxc1, 90. Rxc1, 94. Rxa7, 102. Qxg4+
+Total 23 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 c6 Nf3 d5 e5 Bg4 d4 e6 Be2 c5 c3 Bxf3 Bxf3 cxd4 cxd4 Nc6 O-O Qb6 Be3 Qxb2 Nd2 Nxd4 Qa4+ Nc6 Rab1 Qxe5 Rxb7 Rc8 Rc1 Bd6 g3 Ne7 Bf4 Qd4 Qxd4 Nxd4 Rxc8+ Nxc8 Bxd6 Nc6 Ba3 Rg8 Be2 Nd4 Bd3 f6 Bc5 Nf5 Bb5+ Kd8 Bxa7 Nxa7 Rxa7 Ne7 Rd7+ Ke8 Rxd5+ Kf7 Rd7 Rb8 a4 e5 Ne4 Ke6 Nc5+ Kf7 Ra7 Rc8 Ne4 Rd8 Kg2 f5 Ng5+ Kf6 Nxh7+ Kg6 Rxe7 Kxh7 Rxe5?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. c6
+3. Nf3
+4. d5
+5. e5
+6. Bg4
+7. d4
+8. e6
+9. Be2
+10. c5
+11. c3
+12. Bxf3 (total capture 1)
+13. Bxf3 (total capture 2)
+14. cxd4 (total capture 3)
+15. cxd4 (total capture 4)
+16. Nc6
+17. O-O
+18. Qb6
+19. Be3
+20. Qxb2 (total capture 5)
+21. Nd2
+22. Nxd4 (total capture 6)
+23. Qa4+
+24. Nc6
+25. Rab1
+26. Qxe5 (total capture 7)
+27. Rxb7 (total capture 8)
+28. Rc8
+29. Rc1
+30. Bd6
+31. g3
+32. Ne7
+33. Bf4
+34. Qd4
+35. Qxd4 (total capture 9)
+36. Nxd4 (total capture 10)
+37. Rxc8+ (total capture 11)
+38. Nxc8 (total capture 12)
+39. Bxd6 (total capture 13)
+40. Nc6
+41. Ba3
+42. Rg8
+43. Be2
+44. Nd4
+45. Bd3
+46. f6
+47. Bc5
+48. Nf5
+49. Bb5+
+50. Kd8
+51. Bxa7 (total capture 14)
+52. Nxa7 (total capture 15)
+53. Rxa7 (total capture 16)
+54. Ne7
+55. Rd7+
+56. Ke8
+57. Rxd5+ (total capture 17)
+58. Kf7
+59. Rd7
+60. Rb8
+61. a4
+62. e5
+63. Ne4
+64. Ke6
+65. Nc5+
+66. Kf7
+67. Ra7
+68. Rc8
+69. Ne4
+70. Rd8
+71. Kg2
+72. f5
+73. Ng5+
+74. Kf6
+75. Nxh7+ (total capture 18)
+76. Kg6
+77. Rxe7 (total capture 19)
+78. Kxh7 (total capture 20)
+79. Rxe5 (total capture 21)
+
+<ANSWER>: Capture occurred in: 12. Bxf3, 13. Bxf3, 14. cxd4, 15. cxd4, 20. Qxb2, 22. Nxd4, 26. Qxe5, 27. Rxb7, 35. Qxd4, 36. Nxd4, 37. Rxc8+, 38. Nxc8, 39. Bxd6, 51. Bxa7, 52. Nxa7, 53. Rxa7, 57. Rxd5+, 75. Nxh7+, 77. Rxe7, 78. Kxh7, 79. Rxe5
+Total 21 pieces were captured."
+How many chess pieces have been captured so far in this game - d4 d5 Nc3 Nf6 Bf4 Bf5 h3 e6 Bh2 Bb4 a3 Bxc3+ bxc3 Ne4 Qd3 Nxf2 Qe3 Nxh1 Nf3 Bxc2 g4 Qd7 Bg2 Qb5 Bxh1 Qb2 Rc1 Be4 Bxc7 Qxa3 Qg5 O-O Bxb8 Raxb8 Qd2 b5 Bg2 b4 cxb4 Rxb4 Kf2 Rb2 Qf4 Qd3 Bf1 Bxf3 Qxf3 Qxf3+ Kxf3 a5 Ra1 Ra8 e4 dxe4+ Kxe4 a4 Bc4 a3 Kd3 a2 Kc3 Rb1 Rxa2 Rxa2 Bxa2 Rh1 d5 Rxh3+ Kd4 exd5 Bxd5 Rg3 Kc5 Rxg4 Kd6 Rd4 Ke5 Rxd5+ Kxd5 h5 Ke4 Kh7 Kf5 Kh6 Kf4 g5+ Kg3 f5 Kf3 h4 Kg2 g4 Kf2 f4 Kg2 h3+ Kh2 Kg5 Kg1 g3 Kh1 f3 Kg1 h2+ Kh1 f2 Kg2 h1=Q+ Kxg3?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. Nc3
+4. Nf6
+5. Bf4
+6. Bf5
+7. h3
+8. e6
+9. Bh2
+10. Bb4
+11. a3
+12. Bxc3+ (total capture 1)
+13. bxc3 (total capture 2)
+14. Ne4
+15. Qd3
+16. Nxf2 (total capture 3)
+17. Qe3
+18. Nxh1 (total capture 4)
+19. Nf3
+20. Bxc2 (total capture 5)
+21. g4
+22. Qd7
+23. Bg2
+24. Qb5
+25. Bxh1 (total capture 6)
+26. Qb2
+27. Rc1
+28. Be4
+29. Bxc7 (total capture 7)
+30. Qxa3 (total capture 8)
+31. Qg5
+32. O-O
+33. Bxb8 (total capture 9)
+34. Raxb8 (total capture 10)
+35. Qd2
+36. b5
+37. Bg2
+38. b4
+39. cxb4 (total capture 11)
+40. Rxb4 (total capture 12)
+41. Kf2
+42. Rb2
+43. Qf4
+44. Qd3
+45. Bf1
+46. Bxf3 (total capture 13)
+47. Qxf3 (total capture 14)
+48. Qxf3+ (total capture 15)
+49. Kxf3 (total capture 16)
+50. a5
+51. Ra1
+52. Ra8
+53. e4
+54. dxe4+ (total capture 17)
+55. Kxe4 (total capture 18)
+56. a4
+57. Bc4
+58. a3
+59. Kd3
+60. a2
+61. Kc3
+62. Rb1
+63. Rxa2 (total capture 19)
+64. Rxa2 (total capture 20)
+65. Bxa2 (total capture 21)
+66. Rh1
+67. d5
+68. Rxh3+ (total capture 22)
+69. Kd4
+70. exd5 (total capture 23)
+71. Bxd5 (total capture 24)
+72. Rg3
+73. Kc5
+74. Rxg4 (total capture 25)
+75. Kd6
+76. Rd4
+77. Ke5
+78. Rxd5+ (total capture 26)
+79. Kxd5 (total capture 27)
+80. h5
+81. Ke4
+82. Kh7
+83. Kf5
+84. Kh6
+85. Kf4
+86. g5+
+87. Kg3
+88. f5
+89. Kf3
+90. h4
+91. Kg2
+92. g4
+93. Kf2
+94. f4
+95. Kg2
+96. h3+
+97. Kh2
+98. Kg5
+99. Kg1
+100. g3
+101. Kh1
+102. f3
+103. Kg1
+104. h2+
+105. Kh1
+106. f2
+107. Kg2
+108. h1=Q+
+109. Kxg3 (total capture 28)
+
+<ANSWER>: Capture occurred in: 12. Bxc3+, 13. bxc3, 16. Nxf2, 18. Nxh1, 20. Bxc2, 25. Bxh1, 29. Bxc7, 30. Qxa3, 33. Bxb8, 34. Raxb8, 39. cxb4, 40. Rxb4, 46. Bxf3, 47. Qxf3, 48. Qxf3+, 49. Kxf3, 54. dxe4+, 55. Kxe4, 63. Rxa2, 64. Rxa2, 65. Bxa2, 68. Rxh3+, 70. exd5, 71. Bxd5, 74. Rxg4, 78. Rxd5+, 79. Kxd5, 109. Kxg3
+Total 28 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 Nc6 Bb5 Nd4 Nc3 Nxb5 Nxb5 c6 Nc3 d5 exd5 cxd5 d4 Nf6 Be3 g6 Nf3 Bg4 Qd2 Ne4 Qe2 Nxc3 bxc3 Qa5 Bd2 Bh6 O-O Bg7 c4 Qc7 cxd5 Bxd4 Nxd4 Bxe2 Nb5 Qc3 Nxc3 Bxf1 Rxf1 O-O g3 Rfc8 Kg2 e6 dxe6 fxe6 Re1 Re8 Nb5 Rac8 c3 Red8 Bg5 Rd5 Nxa7 Rxc3 Rxe6 Rxg5 Re8+ Kf7 Rb8 Rc7 a4 Ra5 Nc8 Rxa4 Nd6+ Ke6 Nxb7 Ke7 h4 Rb4 Rh8 Ke6 Nd8+ Kf6 Rf8+ Ke7 Rh8 Rc5 Kh3 Rb2 f4 Rb3 Kg4 Rh5 Kh3 Rb1 Nc6+ Kd6 Ne5 g5 Nf7+ Ke6 Nxg5+ Kf5 Nxh7 Kg6 Nf8+ Kg7 Rxh5 Kxf8 Rf5+ Ke7 h5 Ke6 Kg4 Rg1 Re5+ Kf6 Rf5+ Kg7 Rg5+ Kh6 Rg6+ Kh7 f5 Rc1 f6 Rc4+ Kh3 Rc5 Rg7+ Kh6 Kh4 Rxh5+ Kg4 Rh1 Rg8 Kh7 f7 Rf1 f8=Q Rxf8 Rxf8 Kg7 Ra8 Kf6 Kf4 Kg6 g4 Kf6 g5+ Kg6 Rg8+ Kf7 Rc8 Kg6 Rc6+ Kh5 Rh6#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. Nc6
+3. Bb5
+4. Nd4
+5. Nc3
+6. Nxb5 (total capture 1)
+7. Nxb5 (total capture 2)
+8. c6
+9. Nc3
+10. d5
+11. exd5 (total capture 3)
+12. cxd5 (total capture 4)
+13. d4
+14. Nf6
+15. Be3
+16. g6
+17. Nf3
+18. Bg4
+19. Qd2
+20. Ne4
+21. Qe2
+22. Nxc3 (total capture 5)
+23. bxc3 (total capture 6)
+24. Qa5
+25. Bd2
+26. Bh6
+27. O-O
+28. Bg7
+29. c4
+30. Qc7
+31. cxd5 (total capture 7)
+32. Bxd4 (total capture 8)
+33. Nxd4 (total capture 9)
+34. Bxe2 (total capture 10)
+35. Nb5
+36. Qc3
+37. Nxc3 (total capture 11)
+38. Bxf1 (total capture 12)
+39. Rxf1 (total capture 13)
+40. O-O
+41. g3
+42. Rfc8
+43. Kg2
+44. e6
+45. dxe6 (total capture 14)
+46. fxe6 (total capture 15)
+47. Re1
+48. Re8
+49. Nb5
+50. Rac8
+51. c3
+52. Red8
+53. Bg5
+54. Rd5
+55. Nxa7 (total capture 16)
+56. Rxc3 (total capture 17)
+57. Rxe6 (total capture 18)
+58. Rxg5 (total capture 19)
+59. Re8+
+60. Kf7
+61. Rb8
+62. Rc7
+63. a4
+64. Ra5
+65. Nc8
+66. Rxa4 (total capture 20)
+67. Nd6+
+68. Ke6
+69. Nxb7 (total capture 21)
+70. Ke7
+71. h4
+72. Rb4
+73. Rh8
+74. Ke6
+75. Nd8+
+76. Kf6
+77. Rf8+
+78. Ke7
+79. Rh8
+80. Rc5
+81. Kh3
+82. Rb2
+83. f4
+84. Rb3
+85. Kg4
+86. Rh5
+87. Kh3
+88. Rb1
+89. Nc6+
+90. Kd6
+91. Ne5
+92. g5
+93. Nf7+
+94. Ke6
+95. Nxg5+ (total capture 22)
+96. Kf5
+97. Nxh7 (total capture 23)
+98. Kg6
+99. Nf8+
+100. Kg7
+101. Rxh5 (total capture 24)
+102. Kxf8 (total capture 25)
+103. Rf5+
+104. Ke7
+105. h5
+106. Ke6
+107. Kg4
+108. Rg1
+109. Re5+
+110. Kf6
+111. Rf5+
+112. Kg7
+113. Rg5+
+114. Kh6
+115. Rg6+
+116. Kh7
+117. f5
+118. Rc1
+119. f6
+120. Rc4+
+121. Kh3
+122. Rc5
+123. Rg7+
+124. Kh6
+125. Kh4
+126. Rxh5+ (total capture 26)
+127. Kg4
+128. Rh1
+129. Rg8
+130. Kh7
+131. f7
+132. Rf1
+133. f8=Q
+134. Rxf8 (total capture 27)
+135. Rxf8 (total capture 28)
+136. Kg7
+137. Ra8
+138. Kf6
+139. Kf4
+140. Kg6
+141. g4
+142. Kf6
+143. g5+
+144. Kg6
+145. Rg8+
+146. Kf7
+147. Rc8
+148. Kg6
+149. Rc6+
+150. Kh5
+151. Rh6#
+
+<ANSWER>: Capture occurred in: 6. Nxb5, 7. Nxb5, 11. exd5, 12. cxd5, 22. Nxc3, 23. bxc3, 31. cxd5, 32. Bxd4, 33. Nxd4, 34. Bxe2, 37. Nxc3, 38. Bxf1, 39. Rxf1, 45. dxe6, 46. fxe6, 55. Nxa7, 56. Rxc3, 57. Rxe6, 58. Rxg5, 66. Rxa4, 69. Nxb7, 95. Nxg5+, 97. Nxh7, 101. Rxh5, 102. Kxf8, 126. Rxh5+, 134. Rxf8, 135. Rxf8
+Total 28 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Bc4 h6 Nc3 Nf6 d3 Bb4 Bd2 O-O O-O Re8 Re1 Ng4 h3 Nf6 a3 Bd6 b4 a6 Nd5 b5 Nxf6+ Qxf6 Bd5 Rb8 c3 Bb7 g3 Ne7 Bxb7 Rxb7 Nh4 Qe6 c4 bxc4 dxc4 c5 Qc2 Qxh3 Qa4 cxb4 axb4 Ng6 Qxa6 Rbb8 Qxd6 Nxh4 gxh4 Qg4+ Kf1 Qxh4 Qxd7 Rbd8 Qc6 Re6 Qc7 Rxd2 Qc8+ Kh7 Ra8 Qxf2#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Bc4
+6. h6
+7. Nc3
+8. Nf6
+9. d3
+10. Bb4
+11. Bd2
+12. O-O
+13. O-O
+14. Re8
+15. Re1
+16. Ng4
+17. h3
+18. Nf6
+19. a3
+20. Bd6
+21. b4
+22. a6
+23. Nd5
+24. b5
+25. Nxf6+ (total capture 1)
+26. Qxf6 (total capture 2)
+27. Bd5
+28. Rb8
+29. c3
+30. Bb7
+31. g3
+32. Ne7
+33. Bxb7 (total capture 3)
+34. Rxb7 (total capture 4)
+35. Nh4
+36. Qe6
+37. c4
+38. bxc4 (total capture 5)
+39. dxc4 (total capture 6)
+40. c5
+41. Qc2
+42. Qxh3 (total capture 7)
+43. Qa4
+44. cxb4 (total capture 8)
+45. axb4 (total capture 9)
+46. Ng6
+47. Qxa6 (total capture 10)
+48. Rbb8
+49. Qxd6 (total capture 11)
+50. Nxh4 (total capture 12)
+51. gxh4 (total capture 13)
+52. Qg4+
+53. Kf1
+54. Qxh4 (total capture 14)
+55. Qxd7 (total capture 15)
+56. Rbd8
+57. Qc6
+58. Re6
+59. Qc7
+60. Rxd2 (total capture 16)
+61. Qc8+
+62. Kh7
+63. Ra8
+64. Qxf2# (total capture 17)
+
+<ANSWER>: Capture occurred in: 25. Nxf6+, 26. Qxf6, 33. Bxb7, 34. Rxb7, 38. bxc4, 39. dxc4, 42. Qxh3, 44. cxb4, 45. axb4, 47. Qxa6, 49. Qxd6, 50. Nxh4, 51. gxh4, 54. Qxh4, 55. Qxd7, 60. Rxd2, 64. Qxf2#
+Total 17 pieces were captured."
+How many chess pieces have been captured so far in this game - e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 O-O Bb3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 Bf6 Rxd5 Be6 Rxd8 Rfxd8 Bxe6 fxe6 d3 e5 c3 e4 h3 exd3 Qe1 Re8 Qd2 Rad8 Na3 Re7 Nc4 Rde8 Qxd3 Re1+ Kh2 b5 Na3 Be5+ g3 Bxg3+ Kxg3 Rf8 Qd5+ Kh8 Kg2 Re2 Be3 Rxb2 Rf1 h6 Qd4 Rg8 Bxh6 Rxa2 Nb1 Re2 Qd3 g6 Qxe2 Kh7 Be3 a5 Qg4 a4 Bd4 g5 Qh5#?,,"To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. e4
+2. e5
+3. Nf3
+4. Nc6
+5. Bb5
+6. a6
+7. Ba4
+8. Nf6
+9. O-O
+10. Be7
+11. Re1
+12. O-O
+13. Bb3
+14. d5
+15. exd5 (total capture 1)
+16. Nxd5 (total capture 2)
+17. Nxe5 (total capture 3)
+18. Nxe5 (total capture 4)
+19. Rxe5 (total capture 5)
+20. Bf6
+21. Rxd5 (total capture 6)
+22. Be6
+23. Rxd8 (total capture 7)
+24. Rfxd8 (total capture 8)
+25. Bxe6 (total capture 9)
+26. fxe6 (total capture 10)
+27. d3
+28. e5
+29. c3
+30. e4
+31. h3
+32. exd3 (total capture 11)
+33. Qe1
+34. Re8
+35. Qd2
+36. Rad8
+37. Na3
+38. Re7
+39. Nc4
+40. Rde8
+41. Qxd3 (total capture 12)
+42. Re1+
+43. Kh2
+44. b5
+45. Na3
+46. Be5+
+47. g3
+48. Bxg3+ (total capture 13)
+49. Kxg3 (total capture 14)
+50. Rf8
+51. Qd5+
+52. Kh8
+53. Kg2
+54. Re2
+55. Be3
+56. Rxb2 (total capture 15)
+57. Rf1
+58. h6
+59. Qd4
+60. Rg8
+61. Bxh6 (total capture 16)
+62. Rxa2 (total capture 17)
+63. Nb1
+64. Re2
+65. Qd3
+66. g6
+67. Qxe2 (total capture 18)
+68. Kh7
+69. Be3
+70. a5
+71. Qg4
+72. a4
+73. Bd4
+74. g5
+75. Qh5#
+
+<ANSWER>: Capture occurred in: 15. exd5, 16. Nxd5, 17. Nxe5, 18. Nxe5, 19. Rxe5, 21. Rxd5, 23. Rxd8, 24. Rfxd8, 25. Bxe6, 26. fxe6, 32. exd3, 41. Qxd3, 48. Bxg3+, 49. Kxg3, 56. Rxb2, 61. Bxh6, 62. Rxa2, 67. Qxe2
+Total 18 pieces were captured."

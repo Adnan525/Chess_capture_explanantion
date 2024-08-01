@@ -1,5 +1,4 @@
 import pandas as pd
-import typing
 
 from capture_data_util import CHESS_PIECE, INITIAL_POSITIONS, get_pair, get_explanation
 
