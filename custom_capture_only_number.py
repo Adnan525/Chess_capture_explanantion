@@ -45,7 +45,7 @@ for move in moves:
     capture_analysis = get_capture_analysis(move)
     data = {"Question": question, "Context": "", "Answer": capture_analysis}
     train_df.loc[len(train_df)] = data
-    # print(question)
-    # print(analysis)
-
-train_df.to_csv("final_train_capture.csv", index=False)
+    print(question)
+    print(capture_analysis)
+    break
+# train_df.to_csv("final_train_capture.csv", index=False)

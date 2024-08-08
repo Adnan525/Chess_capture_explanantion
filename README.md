@@ -352,3 +352,77 @@ Error handling -
 - [ ] Improve error handling logic where required  
 - [ ] Address pawn promotion  
 - [ ] Address castling  
+
+## Capture analysis (Number only)
+```
+How many chess pieces have been captured so far in this game - d4 d5 c4 e6 Nc3 Nf6 Bg5 Nbd7 e3 Be7 Nf3 O-O Be2 h6 Bh4 Ne4 Bxe7 Qxe7 Nxe4 dxe4 Nd2 f5 O-O c6 Qc2 Nf6 c5 Nd5 Bc4 Kh8 a3 e5 Qb3 exd4 exd4 Be6 Rae1 Rae8 Re2 Nf4 Re3 Rd8 g3 Bxc4 Qxc4 Nh3+ Kg2 Ng5 h4 Ne6 Nb3 Qd7 Rd1 Nc7 Re2 Nd5 f3 exf3+ Kxf3 f4 Re4 Qh3 Rg1 fxg3+ Ke2 Qh2+?
+To analyse each move using Algebraic Notation and count the number of captured pieces, let's go through the game move by move:
+1. d4
+2. d5
+3. c4
+4. e6
+5. Nc3
+6. Nf6
+7. Bg5
+8. Nbd7
+9. e3
+10. Be7
+11. Nf3
+12. O-O
+13. Be2
+14. h6
+15. Bh4
+16. Ne4
+17. Bxe7 (total capture 1)
+18. Qxe7 (total capture 2)
+19. Nxe4 (total capture 3)
+20. dxe4 (total capture 4)
+21. Nd2
+22. f5
+23. O-O
+24. c6
+25. Qc2
+26. Nf6
+27. c5
+28. Nd5
+29. Bc4
+30. Kh8
+31. a3
+32. e5
+33. Qb3
+34. exd4 (total capture 5)
+35. exd4 (total capture 6)
+36. Be6
+37. Rae1
+38. Rae8
+39. Re2
+40. Nf4
+41. Re3
+42. Rd8
+43. g3
+44. Bxc4 (total capture 7)
+45. Qxc4 (total capture 8)
+46. Nh3+
+47. Kg2
+48. Ng5
+49. h4
+50. Ne6
+51. Nb3
+52. Qd7
+53. Rd1
+54. Nc7
+55. Re2
+56. Nd5
+57. f3
+58. exf3+ (total capture 9)
+59. Kxf3 (total capture 10)
+60. f4
+61. Re4
+62. Qh3
+63. Rg1
+64. fxg3+ (total capture 11)
+65. Ke2
+66. Qh2+
+
+<ANSWER>: Capture occurred in: 17. Bxe7, 18. Qxe7, 19. Nxe4, 20. dxe4, 34. exd4, 35. exd4, 44. Bxc4, 45. Qxc4, 58. exf3+, 59. Kxf3, 64. fxg3+
+```
